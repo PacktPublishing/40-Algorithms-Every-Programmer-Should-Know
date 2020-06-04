@@ -1,0 +1,2 @@
+Spark 2.4.5 (git revision cee4ecb) built for Hadoop 2.7.3
+Build flags: -B -Pmesos -Pyarn -Pkubernetes -Pflume -Psparkr -Pkafka-0-8 -Phadoop-2.7 -Phive -Phive-thriftserver -DzincPort=3036

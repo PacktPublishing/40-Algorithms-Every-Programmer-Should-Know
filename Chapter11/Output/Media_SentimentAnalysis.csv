@@ -1,827 +1,546 @@
 ,Media,Date,Tweet Text,Compound,Positive,Negative,Neutral,Tweets Ago
-0,BBC,Mon May 11 19:30:01 +0000 2020,"As the nation was celebrating #VEDay, the Duke of Sussex took part in a special film to commemorate the bravery of… https://t.co/lqbkGL7gjY",0.8625,0.336,0.0,0.664,100
-1,BBC,Mon May 11 18:01:00 +0000 2020,This week's #Hospital: Coronavirus Specials were filmed inside the NHS from the first day of the lockdown - while w… https://t.co/W8LmuOgA8m,0.0,0.0,0.0,1.0,99
-2,BBC,Mon May 11 16:01:00 +0000 2020,"This Dutch care home has found a way to bring people together - by reuniting families in a glass pod.
-https://t.co/Nj2bz87h16",0.4939,0.138,0.0,0.862,98
-3,BBC,Mon May 11 14:25:30 +0000 2020,"RT @BBCTheOneShow: Have you heard the news?📢
-Tonight's #TheOneShow will be on @BBCTwo at 7pm! 
-
-🛋️ @MissAlexjones will be on the sofas with…",0.0,0.0,0.0,1.0,97
-4,BBC,Mon May 11 12:01:00 +0000 2020,World War Two veteran Alec and wife Gladys got married the year the war ended. Here's how they celebrated their 75t… https://t.co/FQlU14Fnbc,-0.6249,0.121,0.256,0.623,96
-5,BBC,Mon May 11 10:01:00 +0000 2020,"Brand new #JamieJohnson is streaming now on @bbciplayer.  🙌
-
-@JamieJohnsonFC | @BBCMOTD | @BBCSport | @cbbc https://t.co/LEBFyOhtZG",0.0,0.0,0.0,1.0,95
-6,BBC,Mon May 11 09:12:00 +0000 2020,"#LifeDrawingLive is back!
- 
-All you'll need is a 2B pencil, paper, charcoal and an eraser to join in with… https://t.co/AfF1Gq1d5U",0.3595,0.116,0.0,0.884,94
-7,BBC,Sun May 10 19:01:00 +0000 2020,"#TheRanganation is back for a brand new series!  🙌
-
-@RomeshRanga mulls over the week’s most entertaining news with… https://t.co/kBpwToosf7",0.54,0.155,0.0,0.845,93
-8,BBC,Sun May 10 13:04:09 +0000 2020,#HealthCheckUKLive | Weekdays | 10am | @bbcone &amp; @BBCiPlayer. https://t.co/QUcPd2ZzDR,0.0,0.0,0.0,1.0,92
-9,BBC,Sun May 10 13:01:00 +0000 2020,"Water? 💧Coffee? ☕️Orange juice? 🍊 Milk? 🥛
-
-Which of these do you think hydrate us best? The answer may surprise you… https://t.co/2XzEgG77EO",0.8053,0.24,0.0,0.76,91
-10,BBC,Sun May 10 12:01:00 +0000 2020,"BREAKING NEWS: People who never do anything outraged at no longer being able to do things. 😂🗞
-
-#TheMashReport | 10p… https://t.co/TGpFNM2tFi",0.5499,0.197,0.121,0.681,90
-11,BBC,Sun May 10 10:01:00 +0000 2020,"Countries across the world are approaching coronavirus testing differently
-
-But what does testing involve and why d… https://t.co/WQKRIJn0HM",0.0,0.0,0.0,1.0,89
-12,BBC,Sun May 10 09:01:00 +0000 2020,"🚨ONLY A FEW HOURS LEFT! 🚨
-
-Saxophone, sitar, singing or spoons – we want to see YOUR performances of #YouGotTheLove… https://t.co/kdzjVIlnZ2",0.1511,0.062,0.0,0.938,88
-13,BBC,Sat May 09 17:01:00 +0000 2020,"The multi-Oscar winning #DarkestHour follows Winston Churchill's reign as UK Prime Minister in WW2.
-
-7:30pm |… https://t.co/llt1V8BTYl",0.5267,0.175,0.0,0.825,87
-14,BBC,Sat May 09 14:01:00 +0000 2020,Drumming sensation @OwainWynEvans wants you to be part of the #BBCLockdownOrchestra - here's how to submit your vid… https://t.co/3wRkZRUIaA,0.0,0.0,0.0,1.0,86
-15,BBC,Sat May 09 11:01:00 +0000 2020,"From BAFTA award-winner @MichaelaCoel comes #IMayDestroyYou, a fearless, frank and provocative new drama about sexu… https://t.co/8nv5ypC36R",0.4404,0.162,0.0,0.838,85
-16,BBC,Sat May 09 10:01:00 +0000 2020,Zainab is a junior doctor working on the frontline of the NHS. Her resilience is being tested beyond all expectatio… https://t.co/KTgfdbxF33,0.0,0.0,0.0,1.0,84
-17,BBC,Sat May 09 09:01:00 +0000 2020,"This family is celebrating #Ramadan with a lockdown twist.
-
-They couldn’t get out to pray at their local mosque, so… https://t.co/MYIYPQV2GM",0.7184,0.24,0.0,0.76,83
-18,BBC,Fri May 08 19:34:52 +0000 2020,"RT @BBCTheOneShow: One Show viewer John Chapman told us about a very special letter that he found a few days ago, written from his father P…",0.4576,0.107,0.0,0.893,82
-19,BBC,Fri May 08 19:10:18 +0000 2020,"RT @BBCTheOneShow: 'A morale booster for the nation. It's such a wonderful song to sing that fills people with a lot of spirit.'
-
-Meet the…",0.6597,0.19,0.0,0.81,81
-20,BBC,Mon May 11 19:30:01 +0000 2020,"As the nation was celebrating #VEDay, the Duke of Sussex took part in a special film to commemorate the bravery of… https://t.co/lqbkGL7gjY",0.8625,0.336,0.0,0.664,80
-21,BBC,Mon May 11 18:01:00 +0000 2020,This week's #Hospital: Coronavirus Specials were filmed inside the NHS from the first day of the lockdown - while w… https://t.co/W8LmuOgA8m,0.0,0.0,0.0,1.0,79
-22,BBC,Mon May 11 16:01:00 +0000 2020,"This Dutch care home has found a way to bring people together - by reuniting families in a glass pod.
-https://t.co/Nj2bz87h16",0.4939,0.138,0.0,0.862,78
-23,BBC,Mon May 11 14:25:30 +0000 2020,"RT @BBCTheOneShow: Have you heard the news?📢
-Tonight's #TheOneShow will be on @BBCTwo at 7pm! 
-
-🛋️ @MissAlexjones will be on the sofas with…",0.0,0.0,0.0,1.0,77
-24,BBC,Mon May 11 12:01:00 +0000 2020,World War Two veteran Alec and wife Gladys got married the year the war ended. Here's how they celebrated their 75t… https://t.co/FQlU14Fnbc,-0.6249,0.121,0.256,0.623,76
-25,BBC,Mon May 11 10:01:00 +0000 2020,"Brand new #JamieJohnson is streaming now on @bbciplayer.  🙌
-
-@JamieJohnsonFC | @BBCMOTD | @BBCSport | @cbbc https://t.co/LEBFyOhtZG",0.0,0.0,0.0,1.0,75
-26,BBC,Mon May 11 09:12:00 +0000 2020,"#LifeDrawingLive is back!
- 
-All you'll need is a 2B pencil, paper, charcoal and an eraser to join in with… https://t.co/AfF1Gq1d5U",0.3595,0.116,0.0,0.884,74
-27,BBC,Sun May 10 19:01:00 +0000 2020,"#TheRanganation is back for a brand new series!  🙌
-
-@RomeshRanga mulls over the week’s most entertaining news with… https://t.co/kBpwToosf7",0.54,0.155,0.0,0.845,73
-28,BBC,Sun May 10 13:04:09 +0000 2020,#HealthCheckUKLive | Weekdays | 10am | @bbcone &amp; @BBCiPlayer. https://t.co/QUcPd2ZzDR,0.0,0.0,0.0,1.0,72
-29,BBC,Sun May 10 13:01:00 +0000 2020,"Water? 💧Coffee? ☕️Orange juice? 🍊 Milk? 🥛
-
-Which of these do you think hydrate us best? The answer may surprise you… https://t.co/2XzEgG77EO",0.8053,0.24,0.0,0.76,71
-30,BBC,Sun May 10 12:01:00 +0000 2020,"BREAKING NEWS: People who never do anything outraged at no longer being able to do things. 😂🗞
-
-#TheMashReport | 10p… https://t.co/TGpFNM2tFi",0.5499,0.197,0.121,0.681,70
-31,BBC,Sun May 10 10:01:00 +0000 2020,"Countries across the world are approaching coronavirus testing differently
-
-But what does testing involve and why d… https://t.co/WQKRIJn0HM",0.0,0.0,0.0,1.0,69
-32,BBC,Sun May 10 09:01:00 +0000 2020,"🚨ONLY A FEW HOURS LEFT! 🚨
-
-Saxophone, sitar, singing or spoons – we want to see YOUR performances of #YouGotTheLove… https://t.co/kdzjVIlnZ2",0.1511,0.062,0.0,0.938,68
-33,BBC,Sat May 09 17:01:00 +0000 2020,"The multi-Oscar winning #DarkestHour follows Winston Churchill's reign as UK Prime Minister in WW2.
-
-7:30pm |… https://t.co/llt1V8BTYl",0.5267,0.175,0.0,0.825,67
-34,BBC,Sat May 09 14:01:00 +0000 2020,Drumming sensation @OwainWynEvans wants you to be part of the #BBCLockdownOrchestra - here's how to submit your vid… https://t.co/3wRkZRUIaA,0.0,0.0,0.0,1.0,66
-35,BBC,Sat May 09 11:01:00 +0000 2020,"From BAFTA award-winner @MichaelaCoel comes #IMayDestroyYou, a fearless, frank and provocative new drama about sexu… https://t.co/8nv5ypC36R",0.4404,0.162,0.0,0.838,65
-36,BBC,Sat May 09 10:01:00 +0000 2020,Zainab is a junior doctor working on the frontline of the NHS. Her resilience is being tested beyond all expectatio… https://t.co/KTgfdbxF33,0.0,0.0,0.0,1.0,64
-37,BBC,Sat May 09 09:01:00 +0000 2020,"This family is celebrating #Ramadan with a lockdown twist.
-
-They couldn’t get out to pray at their local mosque, so… https://t.co/MYIYPQV2GM",0.7184,0.24,0.0,0.76,63
-38,BBC,Fri May 08 19:34:52 +0000 2020,"RT @BBCTheOneShow: One Show viewer John Chapman told us about a very special letter that he found a few days ago, written from his father P…",0.4576,0.107,0.0,0.893,62
-39,BBC,Fri May 08 19:10:18 +0000 2020,"RT @BBCTheOneShow: 'A morale booster for the nation. It's such a wonderful song to sing that fills people with a lot of spirit.'
-
-Meet the…",0.6597,0.19,0.0,0.81,61
-40,BBC,Fri May 08 19:10:13 +0000 2020,RT @BBCArchive: Howard Marshall reported on the jubilant crowds who had gathered to greet the Royal Family at Buckingham Palace. #VEDay75 h…,0.743,0.24,0.0,0.76,60
-41,BBC,Fri May 08 19:01:00 +0000 2020,"Tonight with #GrahamNorton:
-
-✨#KillingEve star @IamSandraOh!
-✨Actor Stanley Tucci!
-✨Dancer @OtiMabuse!
-✨Comedians… https://t.co/Un53Q9Wq3E",0.0,0.0,0.0,1.0,59
-42,BBC,Fri May 08 18:21:05 +0000 2020,"A powerful recitation of Winston Churchill's own words, spoken on #VEDay by famous faces and frontline workers on t… https://t.co/HVJezSJhWo",0.4215,0.128,0.0,0.872,58
-43,BBC,Fri May 08 18:16:07 +0000 2020,RT @BBCTheOneShow: Join @missalexjones and @huwbbc on @bbcone now as #TheOneShow celebrates #VEDay with all of you at home. https://t.co/Im…,0.7096,0.247,0.0,0.753,57
-44,BBC,Fri May 08 16:01:00 +0000 2020,"This is so moving.  💙
-
-#ChristopherEccleston reads 'Our Heroes', a poem and tribute to the NHS, penned by the partn… https://t.co/Q7KfEYUspm",0.5106,0.136,0.0,0.864,56
-45,BBC,Fri May 08 14:45:28 +0000 2020,RT @BBCBreakfast: Audrey and Joe wrote over 700 letters to each other when they were separated during the war. To mark #VEDay actors @Elean…,-0.5994,0.0,0.145,0.855,55
-46,BBC,Fri May 08 14:45:23 +0000 2020,"RT @BBCRadioLondon: We've given @BBC New Broadcasting House at makeover 🇬🇧❤️🤍💙
-
-#GreatBritishBunting https://t.co/xS95VSzwUs",0.0,0.0,0.0,1.0,54
-47,BBC,Fri May 08 14:45:16 +0000 2020,RT @BBCArchive: The BBC’s Richard Dimbleby gave a snapshot of the scenes in central London #OnThisDay 1945 #VEDay75 https://t.co/aO55ken1PG,0.0,0.0,0.0,1.0,53
-48,BBC,Fri May 08 14:03:34 +0000 2020,"RT @BBCNews: People across the UK mark #VEDay75 amid the ongoing coronavirus pandemic
-
-https://t.co/QZjEn62Paa",0.0,0.0,0.0,1.0,52
-49,BBC,Fri May 08 14:02:49 +0000 2020,"RT @bbc5live: On the 75th anniversary of VE Day, 5 Live listeners told their extraordinary personal stories about the end of the war in Eur…",-0.5994,0.0,0.14,0.86,51
-50,BBC,Fri May 08 13:01:00 +0000 2020,"There are three more special #VEDay75 programmes today on @BBCOne &amp; @BBCiPlayer:
-
-2:45pm - The Announcement of Vict… https://t.co/nCGg5k1HXc",0.4576,0.143,0.0,0.857,50
-51,BBC,Fri May 08 11:32:48 +0000 2020,"❤️❤️❤️
-https://t.co/wWXYsxGMVH",0.0,0.0,0.0,1.0,49
-52,BBC,Fri May 08 11:31:57 +0000 2020,RT @BBCBreakfast: 🎶 Just some of the amazing pictures you sent to #BBCBreakfast of you and your families celebrating #VEDay - to 'We'll Mee…,0.8176,0.246,0.0,0.754,48
-53,BBC,Fri May 08 11:31:39 +0000 2020,"How the UK is marking 75th anniversary of end of WW2 in Europe. #VEDay75 
-
-https://t.co/1q20ZEZJUF",0.0,0.0,0.0,1.0,47
-54,BBC,Fri May 08 11:30:23 +0000 2020,"RT @BBCLondonNews: It's the 75th anniversary of VE Day. Here are some of the people who lived through World War Two in London. 🇬🇧🙌
-#VEDay #…",-0.5994,0.0,0.126,0.874,46
-55,BBC,Fri May 08 11:29:40 +0000 2020,"RT @BBCNews: Watch the Red Arrows perform a flypast over London to mark #VEDay75 
-
-https://t.co/VSYapPvXsF https://t.co/9TRfVf62bC",0.0,0.0,0.0,1.0,45
-56,BBC,Fri May 08 10:01:00 +0000 2020,"A very Happy 94th Birthday to the amazing Sir David Attenborough.  🎉
-
-What better way to celebrate than enjoying hi… https://t.co/kH8rw2Tpiy",0.9661,0.562,0.0,0.438,44
-57,BBC,Fri May 08 07:01:00 +0000 2020,"For the first of four special #VEDay75 programmes today, @sophieraworth introduces a national moment of remembrance… https://t.co/Kyg8hfyTPI",0.4019,0.144,0.0,0.856,43
-58,BBC,Thu May 07 20:01:00 +0000 2020,"Tonight's 45-minute special #LiveAtTheApollo is hosted by  @ardalsfolly, with sets from @MawaanR  and @sarabarron.… https://t.co/xrdb8xE13w",0.4019,0.162,0.0,0.838,42
-59,BBC,Thu May 07 19:32:50 +0000 2020,"RT @bbcbitesize: If the sky is clear tonight, you’ll be able to see the last #SuperMoon of 2020’! 😮🔭🌕
-
-What else can we see in the sky? We…",0.4389,0.081,0.0,0.919,41
-60,BBC,Thu May 07 19:01:00 +0000 2020,"Tonight on #HaveIGotNewsForYou, #DavidTennant hosts team captains Paul Merton and Ian Hislop and panellists… https://t.co/zadfASHXiV",0.0,0.0,0.0,1.0,40
-61,BBC,Thu May 07 18:01:00 +0000 2020,"In part two of a #DIYSOS special from 2015, @MrNickKnowles and team continue transforming an entire street of rundo… https://t.co/0vqk8PVcqz",0.4019,0.124,0.0,0.876,39
-62,BBC,Thu May 07 13:30:47 +0000 2020,"RT @CBeebiesHQ: Captain Tom receives a Gold #BluePeter badge after raising millions for NHS charities! 🌈
-
-What an absolute legend. 💙
-
-Tune…",0.5411,0.137,0.0,0.863,38
-63,BBC,Thu May 07 12:01:00 +0000 2020,"Really enjoying @RomeshRanga's advice on surviving lockdown with kids. 😂
-
-#TheRanganation returns to @BBCTwo at 9.1… https://t.co/vPLtDRKbIM",0.8313,0.339,0.066,0.595,37
-64,BBC,Thu May 07 09:53:52 +0000 2020,"RT @bbcpress: 🌼 @CBeebiesHQ has created a mindfulness app to help children stay focused, creative and calm during lockdown.
-
-Voiced by @ste…",0.8885,0.424,0.0,0.576,36
-65,BBC,Thu May 07 09:01:57 +0000 2020,Looking for a new creative challenge? Upload your video to the #BBCLockdownOrchestra to be part of a nationwide vir… https://t.co/4hPokOJrdP,0.4939,0.189,0.0,0.811,35
-66,BBC,Thu May 07 07:01:00 +0000 2020,"These kids face big challenges - but surfing can help them. 🏄‍♀️🏄
-
-More on the #PeopleFixingTheWorld podcast on… https://t.co/JHxufep12S",0.5719,0.176,0.0,0.824,34
-67,BBC,Wed May 06 19:01:00 +0000 2020,"Filmed last year, Rhod Gilbert discovered - even in more 'ordinary' times -  just how valuable the work of carers i… https://t.co/4NYdrs4GBZ",0.4767,0.129,0.0,0.871,33
-68,BBC,Wed May 06 16:01:00 +0000 2020,It’s not just humans who can find lockdown difficult – vet @drjgreenwood has loads of advice for #HealthCheckUKLive… https://t.co/8qaOQ7u6jz,-0.3612,0.0,0.122,0.878,32
-69,BBC,Wed May 06 13:01:00 +0000 2020,"This nine-year-old Kenyan inventor has come up with an ingenious way to wash his hands, and reduce the spread of th… https://t.co/yFT8qBzUMK",0.0,0.0,0.0,1.0,31
-70,BBC,Wed May 06 09:31:04 +0000 2020,A team of incredibly dedicated zookeepers have moved in with their animals to care for them during lockdown.… https://t.co/ZCdqCqQ42j,0.7574,0.276,0.0,0.724,30
-71,BBC,Wed May 06 08:01:00 +0000 2020,"Do we need to re-think how we think of time itself in order to tackle climate change?  🤔
-
-https://t.co/3HjKnSObut",0.0,0.0,0.0,1.0,29
-72,BBC,Wed May 06 07:01:00 +0000 2020,"5G doesn't spread coronavirus, tea won't cure it, and your pet isn't likely to give you the virus.
-
-https://t.co/exJezOiD4i",0.0,0.0,0.0,1.0,28
-73,BBC,Tue May 05 19:01:00 +0000 2020,"#TheAWord returns for Series 3 tonight.  🙌
-
-9pm | @BBCOne &amp; @BBCiPlayer.
-
-👉 https://t.co/br4IVjBVzO https://t.co/oqaWFSjyrL",0.0,0.0,0.0,1.0,27
-74,BBC,Tue May 05 16:01:00 +0000 2020,"Space colonies, flying cars - it’s fascinating to reflect on how we once imagined the future...
-https://t.co/NYeIbXx3L3",0.5423,0.179,0.0,0.821,26
-75,BBC,Tue May 05 14:54:57 +0000 2020,"RT @bbcpress: 🎤 @BBCR1 is reinstating #BigWeekend UK 2020 - bringing the festival to listeners on a virtual stage
-
-50 brand new live sets r…",0.4939,0.118,0.0,0.882,25
-76,BBC,Tue May 05 12:25:20 +0000 2020,RT @bbcdoctorwho: Doctor Who: The Runaway has been nominated for a #Webby! The public decide who wins &amp; you can vote here 👉 https://t.co/Mz…,0.6114,0.133,0.0,0.867,24
-77,BBC,Tue May 05 12:01:00 +0000 2020,"That ending!  😆
-
-#Primates is streaming now on @BBCiPlayer.
-https://t.co/8KdfpqlIWX",0.4199,0.202,0.0,0.798,23
-78,BBC,Tue May 05 10:21:07 +0000 2020,"RT @BBCSSO: Such a haunting beauty! 🎻🎧 Our violinist Ben Norris performs a Northumbrian traditional song, Bonny at Morn. 
-
-Ben recently spo…",0.4574,0.15,0.077,0.772,22
-79,BBC,Tue May 05 09:51:57 +0000 2020,"RT @GlowUpBBC: Meet the 10 talented make-up artists competing to be crowned Britain's next make-up star. 
-
-Glow Up Series 2 starts streamin…",0.5106,0.136,0.0,0.864,21
-80,BBC,Tue May 05 09:47:37 +0000 2020,"RT @bbcbitesize: #HomeSchooling? Boost your child's learning in 5 minutes! ⏰
-
-Search 'Teacher Talks' on @BBCiPlayer 👨‍🏫👩‍🏫
-
-⏰ 5-minute vide…",-0.3382,0.091,0.171,0.738,20
-81,BBC,Tue May 05 08:01:00 +0000 2020,"The science behind the munchies. 🤓
-
-#InsideTheFactory
-https://t.co/mseSZII3JK",-0.296,0.0,0.216,0.784,19
-82,BBC,Tue May 05 07:47:00 +0000 2020,RT @BBCArtsPR: Launching today on @BBCRadio3 and @BBCArts: join our newly-formed BBC Lockdown Orchestra for a national collaborative perfor…,0.296,0.109,0.0,0.891,18
-83,BBC,Tue May 05 07:01:00 +0000 2020,"Covering topics from tacos to archery, @PhilNWang is the latest guest on James Acaster's Perfect Sounds. 🎶
-
-Listen… https://t.co/PIdDNCCUrm",0.5719,0.163,0.0,0.837,17
-84,BBC,Mon May 04 19:01:00 +0000 2020,"How does your brain power compare to the rest of the UK?
-🤓🧠
-
-The #Horizon #GreatBritishIntelligenceTest starts toni… https://t.co/8UicYaoyhz",-0.296,0.0,0.099,0.901,16
-85,BBC,Mon May 04 16:53:50 +0000 2020,"'Its very important that if you do go running, you put that on your social media... there's no point doing it, unle… https://t.co/n0oI52tSAK",-0.0276,0.083,0.087,0.83,15
-86,BBC,Mon May 04 16:01:00 +0000 2020,Conspiracy theories and speculation about coronavirus have flooded social media. But who starts these rumours? And… https://t.co/IhbnShXtuB,-0.296,0.0,0.121,0.879,14
-87,BBC,Mon May 04 14:08:19 +0000 2020,"RT @BBCRadio4: A tribute to comedian and entertainer Tim Brooke-Taylor, best known as one third of the popular 1970s show The Goodies, and…",0.9042,0.391,0.0,0.609,13
-88,BBC,Mon May 04 13:01:00 +0000 2020,David Prowse played Darth Vader in #StarWars - but not his voice! And was nearly cast as Chewbacca instead...  🤯… https://t.co/ilfJlKby1i,0.2481,0.087,0.0,0.913,12
-89,BBC,Mon May 04 12:00:23 +0000 2020,YouTubers @AnnaSaccone and @JonathanJoly have a go at playing ‘Totes Emosh’ on this series of… https://t.co/3bPYU3Njbk,0.2023,0.107,0.0,0.893,11
-90,BBC,Mon May 04 11:59:08 +0000 2020,RT @bbcpress: Dust off your instruments and warm up your vocal cords - you're invited to join the all-new BBC Lockdown Orchestra in a natio…,0.4767,0.151,0.0,0.849,10
-91,BBC,Mon May 04 11:01:00 +0000 2020,"It's 10 years today since the first episode of #Luther!  🙌
-To celebrate this anniversary, and the brand new episode… https://t.co/tmyeTuQ7DN",0.6114,0.16,0.0,0.84,9
-92,BBC,Mon May 04 07:01:00 +0000 2020,"Imagine life right now without the internet... 😱
-
-In 1994, Tomorrow's World imagined life WITH it!
-https://t.co/tU2WYUngzw",-0.7263,0.0,0.253,0.747,8
-93,BBC,Sun May 03 20:59:21 +0000 2020,RT @BBCTwo: Tune in to @BBCTwo NOW to watch Louis Theroux: America’s Most Dangerous Pets and tweet your questions to @louistheroux using th…,-0.5256,0.0,0.134,0.866,7
-94,BBC,Sun May 03 19:01:00 +0000 2020,"Have a burning question for 
-@louistheroux about what happened when he met Joe Exotic?  🐯👑
-
-He'll be tweeting along… https://t.co/fCvbxRqcza",0.0,0.0,0.0,1.0,6
-95,BBC,Sun May 03 18:01:00 +0000 2020,"Journalist @StaceyDooley has investigated the controversial world of whale hunting.
-
-Stacey Dooley Investigates: Th… https://t.co/AckLGnlNn5",-0.2023,0.0,0.114,0.886,5
-96,BBC,Sun May 03 15:01:00 +0000 2020,"And father of the year goes to... 🥰
-
-#Primates | 8:15pm | @BBCOne &amp; @BBCiPlayer.
-https://t.co/YXuLqhdVa2",0.4588,0.136,0.0,0.864,4
-97,BBC,Sun May 03 13:01:00 +0000 2020,"Yikes. 😱
-
-This 'angry' alligator wasn't a welcome visitor at a US family's home... 🐊
-https://t.co/AcwO5Dpi9H",-0.9033,0.0,0.448,0.552,3
-98,BBC,Sun May 03 12:23:50 +0000 2020,"""At times of crisis, reliable news and information from Public Service Broadcasters is more important than ever.… https://t.co/cOtIjus70S",-0.4601,0.094,0.185,0.721,2
-99,BBC,Sun May 03 11:01:00 +0000 2020,"Definitely the worst thing to happen at a wedding EVER. 😂💍
-
-#MisterWinner is streaming now on @BBCiPlayer.
-https://t.co/mvDpfpFdZs",0.128,0.206,0.19,0.603,1
-100,ctvnews,Tue May 12 02:15:26 +0000 2020,"As countries restart, WHO warns about lack of virus tracing https://t.co/d65HkO1id4 https://t.co/5csoZcx3Ha",-0.4019,0.0,0.27,0.73,100
-101,ctvnews,Tue May 12 02:00:50 +0000 2020,"80 million Chinese may already be out of work. 9 million more will soon be competing for jobs, too… https://t.co/nWD3KNczDw",0.0,0.0,0.0,1.0,99
-102,ctvnews,Tue May 12 01:45:08 +0000 2020,"Funds to fight COVID-19 in meat plants might not move for months, feds say https://t.co/ADF4CCL2pR https://t.co/x9llHLNqse",-0.3818,0.0,0.148,0.852,98
-103,ctvnews,Tue May 12 01:44:42 +0000 2020,Smokers more likely to develop severe COVID-19 complications: study https://t.co/maEj5HK6M8 https://t.co/9Kj6h5aRJ8,-0.3818,0.0,0.206,0.794,97
-104,ctvnews,Tue May 12 01:29:42 +0000 2020,'I won't go': Cheers and tears as Europe's kids go back to school https://t.co/NddmAJ1lJb https://t.co/Y8xWHGPI0n,-0.5352,0.0,0.255,0.745,96
-105,ctvnews,Tue May 12 01:15:14 +0000 2020,"He suspected the buzzing in his ceiling were bees. He just didn't expect to find 100,000 of them… https://t.co/jI7juaQVej",-0.2263,0.0,0.095,0.905,95
-106,ctvnews,Tue May 12 01:01:23 +0000 2020,'Double Rainbow Guy' Paul Vasquez has died https://t.co/B7B6NhAMho https://t.co/rk3bsRpQMI,-0.5574,0.0,0.31,0.69,94
-107,ctvnews,Tue May 12 00:45:30 +0000 2020,Thermometers and body temperature: Experts answer pressing questions https://t.co/wc1GyafGHG https://t.co/xpetCjgc3f,0.0,0.0,0.0,1.0,93
-108,ctvnews,Tue May 12 00:30:05 +0000 2020,Danish priest who proclaimed that there is no God has died at 72 https://t.co/4D054zKiZK https://t.co/e9NyhX9Qgs,-0.6613,0.0,0.294,0.706,92
-109,ctvnews,Tue May 12 00:15:06 +0000 2020,World has done a 180 in the year since Leonard's Game 7 buzzer-beater https://t.co/6V1lC4wN4E https://t.co/k0V9gsTqrW,0.0,0.0,0.0,1.0,91
-110,ctvnews,Tue May 12 00:01:16 +0000 2020,"Paul Workman: Locked down in London, Day 49 https://t.co/ZdXVNqU1Nv https://t.co/ROWDzu6Tcd",0.0,0.0,0.0,1.0,90
-111,ctvnews,Mon May 11 23:53:26 +0000 2020,U.S. President Trump abruptly ended his press conference after being questioned about why he was making testing int… https://t.co/nmjGBgctuR,-0.1027,0.0,0.072,0.928,89
-112,ctvnews,Mon May 11 23:45:09 +0000 2020,China pushes back against efforts by Canada to get Taiwan access at WHO https://t.co/5lLi7I0ISn https://t.co/5n4kV7PJMX,0.0,0.0,0.0,1.0,88
-113,ctvnews,Mon May 11 23:29:40 +0000 2020,Trapped in paradise: Breaking quarantine could mean prison time for tourists in Hawaii https://t.co/TgmeUP4JYJ https://t.co/JtHKAzgq1y,-0.3612,0.183,0.293,0.524,87
-114,ctvnews,Mon May 11 23:15:18 +0000 2020,Couple married nearly 61 years die on same day from COVID-19 https://t.co/IjfGmMy2hE https://t.co/Jxqnyt4FPx,-0.5994,0.0,0.245,0.755,86
-115,ctvnews,Mon May 11 23:05:01 +0000 2020,Conservative Leader Andrew Scheer says investigation of anti-abortion group's activities during election period cou… https://t.co/ECHw0aqjOW,0.0,0.0,0.0,1.0,85
-116,ctvnews,Mon May 11 23:01:04 +0000 2020,5 hurt in shooting at Texas park where hundreds gathered https://t.co/wdIWNSWzg8 https://t.co/Q6OxceqTbX,-0.5267,0.0,0.236,0.764,84
-117,ctvnews,Mon May 11 22:45:10 +0000 2020,No more panic buying? StatCan says grocery spending is slipping back to normal levels https://t.co/piMVzYyx59 https://t.co/WfS5anTPRt,0.2011,0.156,0.115,0.729,83
-118,ctvnews,Mon May 11 22:30:32 +0000 2020,"B.C. says 23 more COVID-19 cases were reported over the weekend, as well as one additional death https://t.co/gkfK90IGdA",-0.4215,0.095,0.177,0.727,82
-119,ctvnews,Mon May 11 22:29:39 +0000 2020,Singapore's foreign workers blind spot during COVID-19 response https://t.co/YJeH7quPvS https://t.co/ebAefj5jrO,-0.4019,0.0,0.231,0.769,81
-120,ctvnews,Tue May 12 02:15:26 +0000 2020,"As countries restart, WHO warns about lack of virus tracing https://t.co/d65HkO1id4 https://t.co/5csoZcx3Ha",-0.4019,0.0,0.27,0.73,80
-121,ctvnews,Tue May 12 02:00:50 +0000 2020,"80 million Chinese may already be out of work. 9 million more will soon be competing for jobs, too… https://t.co/nWD3KNczDw",0.0,0.0,0.0,1.0,79
-122,ctvnews,Tue May 12 01:45:08 +0000 2020,"Funds to fight COVID-19 in meat plants might not move for months, feds say https://t.co/ADF4CCL2pR https://t.co/x9llHLNqse",-0.3818,0.0,0.148,0.852,78
-123,ctvnews,Tue May 12 01:44:42 +0000 2020,Smokers more likely to develop severe COVID-19 complications: study https://t.co/maEj5HK6M8 https://t.co/9Kj6h5aRJ8,-0.3818,0.0,0.206,0.794,77
-124,ctvnews,Tue May 12 01:29:42 +0000 2020,'I won't go': Cheers and tears as Europe's kids go back to school https://t.co/NddmAJ1lJb https://t.co/Y8xWHGPI0n,-0.5352,0.0,0.255,0.745,76
-125,ctvnews,Tue May 12 01:15:14 +0000 2020,"He suspected the buzzing in his ceiling were bees. He just didn't expect to find 100,000 of them… https://t.co/jI7juaQVej",-0.2263,0.0,0.095,0.905,75
-126,ctvnews,Tue May 12 01:01:23 +0000 2020,'Double Rainbow Guy' Paul Vasquez has died https://t.co/B7B6NhAMho https://t.co/rk3bsRpQMI,-0.5574,0.0,0.31,0.69,74
-127,ctvnews,Tue May 12 00:45:30 +0000 2020,Thermometers and body temperature: Experts answer pressing questions https://t.co/wc1GyafGHG https://t.co/xpetCjgc3f,0.0,0.0,0.0,1.0,73
-128,ctvnews,Tue May 12 00:30:05 +0000 2020,Danish priest who proclaimed that there is no God has died at 72 https://t.co/4D054zKiZK https://t.co/e9NyhX9Qgs,-0.6613,0.0,0.294,0.706,72
-129,ctvnews,Tue May 12 00:15:06 +0000 2020,World has done a 180 in the year since Leonard's Game 7 buzzer-beater https://t.co/6V1lC4wN4E https://t.co/k0V9gsTqrW,0.0,0.0,0.0,1.0,71
-130,ctvnews,Tue May 12 00:01:16 +0000 2020,"Paul Workman: Locked down in London, Day 49 https://t.co/ZdXVNqU1Nv https://t.co/ROWDzu6Tcd",0.0,0.0,0.0,1.0,70
-131,ctvnews,Mon May 11 23:53:26 +0000 2020,U.S. President Trump abruptly ended his press conference after being questioned about why he was making testing int… https://t.co/nmjGBgctuR,-0.1027,0.0,0.072,0.928,69
-132,ctvnews,Mon May 11 23:45:09 +0000 2020,China pushes back against efforts by Canada to get Taiwan access at WHO https://t.co/5lLi7I0ISn https://t.co/5n4kV7PJMX,0.0,0.0,0.0,1.0,68
-133,ctvnews,Mon May 11 23:29:40 +0000 2020,Trapped in paradise: Breaking quarantine could mean prison time for tourists in Hawaii https://t.co/TgmeUP4JYJ https://t.co/JtHKAzgq1y,-0.3612,0.183,0.293,0.524,67
-134,ctvnews,Mon May 11 23:15:18 +0000 2020,Couple married nearly 61 years die on same day from COVID-19 https://t.co/IjfGmMy2hE https://t.co/Jxqnyt4FPx,-0.5994,0.0,0.245,0.755,66
-135,ctvnews,Mon May 11 23:05:01 +0000 2020,Conservative Leader Andrew Scheer says investigation of anti-abortion group's activities during election period cou… https://t.co/ECHw0aqjOW,0.0,0.0,0.0,1.0,65
-136,ctvnews,Mon May 11 23:01:04 +0000 2020,5 hurt in shooting at Texas park where hundreds gathered https://t.co/wdIWNSWzg8 https://t.co/Q6OxceqTbX,-0.5267,0.0,0.236,0.764,64
-137,ctvnews,Mon May 11 22:45:10 +0000 2020,No more panic buying? StatCan says grocery spending is slipping back to normal levels https://t.co/piMVzYyx59 https://t.co/WfS5anTPRt,0.2011,0.156,0.115,0.729,63
-138,ctvnews,Mon May 11 22:30:32 +0000 2020,"B.C. says 23 more COVID-19 cases were reported over the weekend, as well as one additional death https://t.co/gkfK90IGdA",-0.4215,0.095,0.177,0.727,62
-139,ctvnews,Mon May 11 22:29:39 +0000 2020,Singapore's foreign workers blind spot during COVID-19 response https://t.co/YJeH7quPvS https://t.co/ebAefj5jrO,-0.4019,0.0,0.231,0.769,61
-140,ctvnews,Mon May 11 22:15:15 +0000 2020,U.S. resorts prepare for summer guests despite pandemic concerns https://t.co/TeQnmlmqSR https://t.co/cD4GGXHayU,0.0,0.0,0.0,1.0,60
-141,ctvnews,Mon May 11 22:06:52 +0000 2020,Grammy-winning 1970s soul singer Betty Wright dies at 66 https://t.co/En56UxK3t4 https://t.co/Y1Z7y6k3iO,0.0,0.0,0.0,1.0,59
-142,ctvnews,Mon May 11 21:49:07 +0000 2020,"Alberta announces 49 more cases of COVID-19, bringing total to 6,300, and two more deaths at continuing care homes https://t.co/5m5fREwJo7",0.4939,0.144,0.0,0.856,58
-143,ctvnews,Mon May 11 21:45:16 +0000 2020,Shanghai Disneyland reopens with anti-virus controls https://t.co/GFUf6ACRBP https://t.co/oOrZs8rTM9,0.0,0.0,0.0,1.0,57
-144,ctvnews,Mon May 11 21:30:41 +0000 2020,"Funds to fight COVID-19 in meat plants might not move for months, feds say https://t.co/CMBg7czwLL https://t.co/UtGOrDKrwO",-0.3818,0.0,0.148,0.852,56
-145,ctvnews,Mon May 11 21:15:08 +0000 2020,Pattie Lovett-Reid: Is it time to invest in the markets during the coronavirus pandemic? https://t.co/l856dQ5C9Q https://t.co/j3uaWH6049,0.0,0.0,0.0,1.0,55
-146,ctvnews,Mon May 11 21:01:18 +0000 2020,"He suspected the buzzing in his ceiling were bees. He just didn't expect to find 100,000 of them… https://t.co/ph6UOBezBF",-0.2263,0.0,0.095,0.905,54
-147,ctvnews,Mon May 11 20:45:32 +0000 2020,Matt Lucas' spoof of Boris Johnson's coronavirus announcement takes off online https://t.co/3axb1kn59c https://t.co/lABEE7R8fJ,0.0,0.0,0.0,1.0,53
-148,ctvnews,Mon May 11 20:30:21 +0000 2020,'I won't go': Cheers and tears as Europe's kids go back to school https://t.co/ncBaW4yPUc https://t.co/wbCEqBjS58,-0.5352,0.0,0.255,0.745,52
-149,ctvnews,Mon May 11 20:28:45 +0000 2020,Watch: Wild bear breaks into cabin with people inside https://t.co/wvWXHaMSQy,0.0,0.0,0.0,1.0,51
-150,ctvnews,Mon May 11 20:15:25 +0000 2020,Danish priest who proclaimed that there is no God has died at 72 https://t.co/FBmG8I5GIU https://t.co/y0iLK6684o,-0.6613,0.0,0.294,0.706,50
-151,ctvnews,Mon May 11 20:02:09 +0000 2020,'Double Rainbow Guy' Paul Vasquez has died https://t.co/MpqcbJKljS https://t.co/mquq7zamET,-0.5574,0.0,0.31,0.69,49
-152,ctvnews,Mon May 11 19:45:28 +0000 2020,"As countries restart, WHO warns about lack of virus tracing https://t.co/z18lzLW8cc https://t.co/4JA7Xime2o",-0.4019,0.0,0.27,0.73,48
-153,ctvnews,Mon May 11 19:30:21 +0000 2020,World has done a 180 in the year since Leonard's Game 7 buzzer-beater https://t.co/Leuo7CM7MV https://t.co/XGgkKSTogq,0.0,0.0,0.0,1.0,47
-154,ctvnews,Mon May 11 19:19:34 +0000 2020,Decision on whether Ontario schools will reopen this year coming 'early next week' https://t.co/jPF3nkb3eH,0.0,0.0,0.0,1.0,46
-155,ctvnews,Mon May 11 19:15:26 +0000 2020,Rapper Nick Blixky fatally shot in NYC; no suspect arrested https://t.co/OLQtryBQ0B https://t.co/9hD4vGRrUO,-0.1921,0.252,0.238,0.51,45
-156,ctvnews,Mon May 11 19:05:00 +0000 2020,"Que. Premier Legault made a plea to health-care workers who have recovered after testing positive for COVID-19: ""Pl… https://t.co/agqFEbtD6I",0.5574,0.167,0.0,0.833,44
-157,ctvnews,Mon May 11 18:59:26 +0000 2020,Couple married nearly 61 years die on same day from COVID-19 https://t.co/GZpgSQIMTs https://t.co/WEheB9r3wF,-0.5994,0.0,0.245,0.755,43
-158,ctvnews,Mon May 11 18:47:36 +0000 2020,COVID-19 curves: Compare Canada and other key nations https://t.co/Lquq9J2AyW #coronavirus #covid19,0.0,0.0,0.0,1.0,42
-159,ctvnews,Mon May 11 18:46:38 +0000 2020,Trapped in paradise: Breaking quarantine could mean prison time for tourists in Hawaii https://t.co/PrUzFg3uGy https://t.co/SDOLl4SliX,-0.3612,0.183,0.293,0.524,41
-160,ctvnews,Mon May 11 18:30:01 +0000 2020,No more panic buying? StatCan says grocery spending is slipping back to normal levels https://t.co/O8VeoXKHJI https://t.co/FIpzY3CBIl,0.2011,0.156,0.115,0.729,40
-161,ctvnews,Mon May 11 18:30:00 +0000 2020,Ont. Premier Doug Ford says the provincial government is focused on ensuring that baking staples remain on grocery… https://t.co/legjpAXNco,0.5719,0.217,0.0,0.783,39
-162,ctvnews,Mon May 11 18:19:51 +0000 2020,U.S. government analysis shows thousands more may have died of COVID-19 in New York City than official tally shows https://t.co/OxkzR8aPwd,-0.5945,0.0,0.169,0.831,38
-163,ctvnews,Mon May 11 18:15:24 +0000 2020,5 hurt in shooting at Texas park where hundreds gathered https://t.co/0a3KNj59ZI https://t.co/i3FiZOLbt3,-0.5267,0.0,0.236,0.764,37
-164,ctvnews,Mon May 11 18:07:53 +0000 2020,MPs returning to House of Commons Wednesday to fast-track federal help for dairy farmers https://t.co/ozb5nTll3i,0.4019,0.162,0.0,0.838,36
-165,ctvnews,Mon May 11 18:06:30 +0000 2020,ICYMI: Rare blue dragons are washing up on a Texas seashore https://t.co/991g0unELx,0.0,0.0,0.0,1.0,35
-166,ctvnews,Mon May 11 18:05:00 +0000 2020,"""We have bigger fish to fry then to argue with each other"": Ont. Premier Doug Ford was asked if the COVID-19 pandem… https://t.co/0psd0yFv46",-0.34,0.0,0.098,0.902,34
-167,ctvnews,Mon May 11 18:00:32 +0000 2020,"80 million Chinese may already be out of work. 9 million more will soon be competing for jobs, too… https://t.co/kobR7NUJQ2",0.0,0.0,0.0,1.0,33
-168,ctvnews,Mon May 11 17:45:46 +0000 2020,"Saudi Arabia triples taxes, cuts US$26B in costs amid pandemic  https://t.co/ncFs8f6rnm",-0.296,0.0,0.18,0.82,32
-169,ctvnews,Mon May 11 17:45:22 +0000 2020,U.S. resorts prepare for summer guests despite pandemic concerns https://t.co/mzBwlfgnwq https://t.co/gDADci7lZP,0.0,0.0,0.0,1.0,31
-170,ctvnews,Mon May 11 17:40:39 +0000 2020,Kansas man who sought trial by sword fight now wants ex-wife evaluated  https://t.co/o2A3xjq10g,-0.3818,0.0,0.178,0.822,30
-171,ctvnews,Mon May 11 17:30:12 +0000 2020,Grammy-winning 1970s soul singer Betty Wright dies at 66 https://t.co/juK6aGbFCb https://t.co/2FfnLKe5S2,0.0,0.0,0.0,1.0,29
-172,ctvnews,Mon May 11 17:24:42 +0000 2020,Ministers and health officials respond to questions about the reopening of schools and businesses amid the COVID-19… https://t.co/8x54nsl1il,0.0,0.0,0.0,1.0,28
-173,ctvnews,Mon May 11 17:19:37 +0000 2020,"Quebec reports 85 new COVID-19 deaths as confirmed cases surpass 38,000 https://t.co/pLhfyZkg7c",0.0,0.0,0.0,1.0,27
-174,ctvnews,Mon May 11 17:15:15 +0000 2020,Singapore's foreign workers blind spot during COVID-19 response https://t.co/mCBvZ9ur6c https://t.co/nfFVYO6ZF7,-0.4019,0.0,0.231,0.769,26
-175,ctvnews,Mon May 11 17:02:27 +0000 2020,Pattie Lovett-Reid: Is it time to invest in the markets during the coronavirus pandemic? https://t.co/zcYeQTda6v https://t.co/40KwYvlFQx,0.0,0.0,0.0,1.0,25
-176,ctvnews,Mon May 11 16:58:34 +0000 2020,Putin lifts Russia's stay-at-home orders as cases soar https://t.co/RNvINFuPno,0.0,0.0,0.0,1.0,24
-177,ctvnews,Mon May 11 16:45:16 +0000 2020,Lebanon faces grave threat to stability as poverty mounts https://t.co/FYEIhI1PrO https://t.co/2qApTxCXjp,-0.8519,0.0,0.538,0.462,23
-178,ctvnews,Mon May 11 16:39:22 +0000 2020,Canada's Chief Public Health Officer Dr. Theresa Tam gives an update on COVID-19 cases across the country. Read mor… https://t.co/bFAxklNpt5,0.0,0.0,0.0,1.0,22
-179,ctvnews,Mon May 11 16:31:22 +0000 2020,Shanghai Disneyland reopens with anti-virus controls https://t.co/C0l11W2mk6 https://t.co/79VbKnfI1N,0.0,0.0,0.0,1.0,21
-180,ctvnews,Mon May 11 16:28:21 +0000 2020,Prime Minister Justin Trudeau breaks down the government’s objectives as they continue to roll out aid to ensure Ca… https://t.co/Y09dYD84vh,0.3818,0.12,0.0,0.88,20
-181,ctvnews,Mon May 11 16:26:00 +0000 2020,Nova Scotia mass killer's semi-automatic guns believed to have come from U.S. https://t.co/faW9Wv9nXU,0.0,0.0,0.0,1.0,19
-182,ctvnews,Mon May 11 16:15:35 +0000 2020,Matt Lucas' spoof of Boris Johnson's coronavirus announcement takes off online https://t.co/hFtgfrueBf https://t.co/zO1qXuigAD,0.0,0.0,0.0,1.0,18
-183,ctvnews,Mon May 11 16:08:31 +0000 2020,PM responds to question about tax evasion and new government support for big businesses. https://t.co/61K4sqohEZ https://t.co/NxtBmpGVvK,0.4019,0.153,0.0,0.847,17
-184,ctvnews,Mon May 11 16:01:35 +0000 2020,'I won't go': Cheers and tears as Europe's kids go back to school https://t.co/kLrIvAmc04 https://t.co/8aw5FNi9R6,-0.5352,0.0,0.255,0.745,16
-185,ctvnews,Mon May 11 15:58:16 +0000 2020,UPDATED Police-escorted motorcade to accompany remains of helicopter crash victim https://t.co/r6l7ZjUXgJ,-0.5859,0.0,0.348,0.652,15
-186,ctvnews,Mon May 11 15:56:02 +0000 2020,'Heavy handed' approach would force inspectors into infected plants: Union  https://t.co/jJ4DbG5ocK #cdnpoli,-0.4939,0.0,0.225,0.775,14
-187,ctvnews,Mon May 11 15:43:55 +0000 2020,"In Japan, it's about to be the first Sunday night without a new episode of 'Sazae-san' since 1975 https://t.co/o02b7psGrf",0.0,0.0,0.0,1.0,13
-188,ctvnews,Mon May 11 15:42:41 +0000 2020,"UPDATED: PM Trudeau says feds offering loans, 'not bailouts' to large companies to stay afloat amid COVID-19… https://t.co/il9i6WmiNh",0.0,0.0,0.0,1.0,12
-189,ctvnews,Mon May 11 15:41:52 +0000 2020,Danish priest who proclaimed that there is no God has died at 72  https://t.co/9SltNBb8go https://t.co/q2Amj7qTPC,-0.6613,0.0,0.294,0.706,11
-190,ctvnews,Mon May 11 15:31:02 +0000 2020,Scheer backs Liberal Taiwan push at WHO as move long advocated by Conservatives https://t.co/rM3sjMcoYx #cdnpoli,-0.0516,0.0,0.079,0.921,10
-191,ctvnews,Mon May 11 15:17:49 +0000 2020,Maltese ambassador resigns after comparing Merkel to Hitler  https://t.co/ZJ1aXEVKrA,-0.3182,0.0,0.223,0.777,9
-192,ctvnews,Mon May 11 15:14:57 +0000 2020,"Smart Talk on COVID-19 w @ToddCTV 
-This week: Risky business: balancing health, recovery &amp; risk w @TorontoIDDoc &amp;… https://t.co/XTvO7G8FJg",-0.0516,0.119,0.173,0.708,8
-193,ctvnews,Mon May 11 14:54:59 +0000 2020,"Business is booming for these companies during the COVID-19 pandemic
- https://t.co/k12HFbrCwu",0.0,0.0,0.0,1.0,7
-194,ctvnews,Mon May 11 14:51:37 +0000 2020,"Still no sign of missing boy Dylan Ehler after weekend recovery operation in Truro, N.S. https://t.co/gv5d64nGnP https://t.co/vOTbSmqEJo",-0.5267,0.0,0.227,0.773,6
-195,ctvnews,Mon May 11 14:43:28 +0000 2020,Canadian student named first black valedictorian in Princeton University's history https://t.co/8nLEN0KaoU,0.0,0.0,0.0,1.0,5
-196,ctvnews,Mon May 11 14:42:37 +0000 2020,U.K. government's about-face on masks as lockdown-easing steps spark confusion https://t.co/MtSQXQcKIt,-0.0772,0.145,0.168,0.687,4
-197,ctvnews,Mon May 11 14:34:19 +0000 2020,"Ontario records 308 new cases of COVID-19, adds 35 deaths https://t.co/xs5C0hWZir",0.0,0.0,0.0,1.0,3
-198,ctvnews,Mon May 11 14:33:09 +0000 2020,Trapped in paradise: Breaking quarantine could mean prison time for tourists in Hawaii https://t.co/qOZ4o35Yno,-0.3612,0.192,0.306,0.502,2
-199,ctvnews,Mon May 11 14:31:58 +0000 2020,Ice cream shop closes one day after reopening because customers didn't follow distancing rules… https://t.co/LTgl86vt27,0.0,0.0,0.0,1.0,1
-200,CNN,Tue May 12 02:27:04 +0000 2020,"""Our legal system purports to place no person above the law. The court's decision on Trump's tax returns will tell… https://t.co/hXSfRSQWkL",-0.1779,0.066,0.097,0.837,100
-201,CNN,Tue May 12 02:24:04 +0000 2020,The Supreme Court will hear three cases on Tuesday that present its most important exploration of the separation of… https://t.co/qUPHQsZnBU,0.7828,0.316,0.0,0.684,99
-202,CNN,Tue May 12 02:15:30 +0000 2020,RT @CuomoPrimeTime: The man behind the video of the Ahmaud Arbery shooting declines to answer some of @ChrisCuomo’s questions but says he i…,0.0,0.0,0.0,1.0,98
-203,CNN,Tue May 12 02:15:17 +0000 2020,"A registered nurse who left his family to help as a front line nurse in NYC has returned home after 5 weeks.
-
-Watch… https://t.co/EC7YvOSyye",0.4019,0.105,0.0,0.895,97
-204,CNN,Tue May 12 02:14:39 +0000 2020,Navajo Nation President Jonathan Nez says he fully supports South Dakota Sioux tribes in refusing to take down chec… https://t.co/lgKVuMg6ew,0.024,0.119,0.115,0.766,96
-205,CNN,Tue May 12 02:10:00 +0000 2020,“I think there are different areas of California that have more cases than others and so the ability to move faster… https://t.co/Fd5gbqa3zk,0.3774,0.109,0.0,0.891,95
-206,CNN,Tue May 12 02:04:43 +0000 2020,"Watch this robot patrol a park to encourage social distancing. Spot, a four-legged ""dog"" designed by Boston Dynamic… https://t.co/FS0L0systx",0.5106,0.155,0.0,0.845,94
-207,CNN,Tue May 12 02:03:54 +0000 2020,"The United States has recorded more than 1.3 million cases of coronavirus and 80,000 related deaths, according to a… https://t.co/yVZQlXaCEx",0.4215,0.128,0.0,0.872,93
-208,CNN,Tue May 12 02:02:40 +0000 2020,President Trump and his administration have announced that the federal government is sending $11 billion to states… https://t.co/ol9RYVLoS8,0.0,0.0,0.0,1.0,92
-209,CNN,Tue May 12 01:58:42 +0000 2020,"Even without spectators in the seats, NFL games could be the ""perfect set up for spreading"" coronavirus, Dr. Anthon… https://t.co/e24AxGG7Io",0.5719,0.163,0.0,0.837,91
-210,CNN,Tue May 12 01:50:00 +0000 2020,Ohio Gov. Mike DeWine says he doesn’t agree with President Trump’s claim that the US has “prevailed on testing” and… https://t.co/KPtnbMR2GS,0.3612,0.111,0.0,0.889,90
-211,CNN,Tue May 12 01:49:20 +0000 2020,"Surveillance video at a Target store in Van Nuys, California, shows two men assaulting an employee after they were… https://t.co/0tS3g5cl0u",-0.5106,0.0,0.148,0.852,89
-212,CNN,Tue May 12 01:46:30 +0000 2020,Inmates at a Los Angeles County correctional facility drank from the same cup with the purpose of infecting one ano… https://t.co/MC73yg5FlL,0.0,0.0,0.0,1.0,88
-213,CNN,Tue May 12 01:42:03 +0000 2020,“I think what we saw in that exchange with Weijia Jiang is something that has racial overtones.” - @brianstelter on… https://t.co/rSZDLGXOw9,0.0,0.0,0.0,1.0,87
-214,CNN,Tue May 12 01:40:42 +0000 2020,"RT @AC360: President Trump says there is “no reason” for many to get tested for coronavirus.
-
-“Keeping Them Honest, that’s not true now and…",0.2425,0.119,0.084,0.796,86
-215,CNN,Tue May 12 01:36:23 +0000 2020,"“It’s a risk if you didn’t open up, it’s a risk if you do open up. We’re trying to do it at a measured pace… We’ve… https://t.co/1mAixhMaXg",-0.4939,0.0,0.144,0.856,85
-216,CNN,Tue May 12 01:35:07 +0000 2020,“We have not met the moment. We have not prevailed.” - Minneapolis Mayor @Jacob_Frey on Pres. Trump stating that th… https://t.co/xiWt9hOSLQ,0.0,0.0,0.0,1.0,84
-217,CNN,Tue May 12 01:30:28 +0000 2020,"The coronavirus pandemic, directly or indirectly, may have killed far more people in New York City than the officia… https://t.co/jDuKe7zrB5",-0.6705,0.0,0.191,0.809,83
-218,CNN,Tue May 12 01:28:19 +0000 2020,"Los Angeles is set to reopen beaches on Wednesday, the county says.
-
-Physical activity like running, swimming and s… https://t.co/42NKMByIWy",0.3612,0.116,0.0,0.884,82
-219,CNN,Tue May 12 01:22:34 +0000 2020,President Trump abruptly ended his Monday press conference after a contentious exchange in which he asked an Asian… https://t.co/dT0EcCUbZG,-0.296,0.0,0.109,0.891,81
-220,CNN,Tue May 12 02:27:04 +0000 2020,"""Our legal system purports to place no person above the law. The court's decision on Trump's tax returns will tell… https://t.co/hXSfRSQWkL",-0.1779,0.066,0.097,0.837,80
-221,CNN,Tue May 12 02:24:04 +0000 2020,The Supreme Court will hear three cases on Tuesday that present its most important exploration of the separation of… https://t.co/qUPHQsZnBU,0.7828,0.316,0.0,0.684,79
-222,CNN,Tue May 12 02:15:30 +0000 2020,RT @CuomoPrimeTime: The man behind the video of the Ahmaud Arbery shooting declines to answer some of @ChrisCuomo’s questions but says he i…,0.0,0.0,0.0,1.0,78
-223,CNN,Tue May 12 02:15:17 +0000 2020,"A registered nurse who left his family to help as a front line nurse in NYC has returned home after 5 weeks.
-
-Watch… https://t.co/EC7YvOSyye",0.4019,0.105,0.0,0.895,77
-224,CNN,Tue May 12 02:14:39 +0000 2020,Navajo Nation President Jonathan Nez says he fully supports South Dakota Sioux tribes in refusing to take down chec… https://t.co/lgKVuMg6ew,0.024,0.119,0.115,0.766,76
-225,CNN,Tue May 12 02:10:00 +0000 2020,“I think there are different areas of California that have more cases than others and so the ability to move faster… https://t.co/Fd5gbqa3zk,0.3774,0.109,0.0,0.891,75
-226,CNN,Tue May 12 02:04:43 +0000 2020,"Watch this robot patrol a park to encourage social distancing. Spot, a four-legged ""dog"" designed by Boston Dynamic… https://t.co/FS0L0systx",0.5106,0.155,0.0,0.845,74
-227,CNN,Tue May 12 02:03:54 +0000 2020,"The United States has recorded more than 1.3 million cases of coronavirus and 80,000 related deaths, according to a… https://t.co/yVZQlXaCEx",0.4215,0.128,0.0,0.872,73
-228,CNN,Tue May 12 02:02:40 +0000 2020,President Trump and his administration have announced that the federal government is sending $11 billion to states… https://t.co/ol9RYVLoS8,0.0,0.0,0.0,1.0,72
-229,CNN,Tue May 12 01:58:42 +0000 2020,"Even without spectators in the seats, NFL games could be the ""perfect set up for spreading"" coronavirus, Dr. Anthon… https://t.co/e24AxGG7Io",0.5719,0.163,0.0,0.837,71
-230,CNN,Tue May 12 01:50:00 +0000 2020,Ohio Gov. Mike DeWine says he doesn’t agree with President Trump’s claim that the US has “prevailed on testing” and… https://t.co/KPtnbMR2GS,0.3612,0.111,0.0,0.889,70
-231,CNN,Tue May 12 01:49:20 +0000 2020,"Surveillance video at a Target store in Van Nuys, California, shows two men assaulting an employee after they were… https://t.co/0tS3g5cl0u",-0.5106,0.0,0.148,0.852,69
-232,CNN,Tue May 12 01:46:30 +0000 2020,Inmates at a Los Angeles County correctional facility drank from the same cup with the purpose of infecting one ano… https://t.co/MC73yg5FlL,0.0,0.0,0.0,1.0,68
-233,CNN,Tue May 12 01:42:03 +0000 2020,“I think what we saw in that exchange with Weijia Jiang is something that has racial overtones.” - @brianstelter on… https://t.co/rSZDLGXOw9,0.0,0.0,0.0,1.0,67
-234,CNN,Tue May 12 01:40:42 +0000 2020,"RT @AC360: President Trump says there is “no reason” for many to get tested for coronavirus.
-
-“Keeping Them Honest, that’s not true now and…",0.2425,0.119,0.084,0.796,66
-235,CNN,Tue May 12 01:36:23 +0000 2020,"“It’s a risk if you didn’t open up, it’s a risk if you do open up. We’re trying to do it at a measured pace… We’ve… https://t.co/1mAixhMaXg",-0.4939,0.0,0.144,0.856,65
-236,CNN,Tue May 12 01:35:07 +0000 2020,“We have not met the moment. We have not prevailed.” - Minneapolis Mayor @Jacob_Frey on Pres. Trump stating that th… https://t.co/xiWt9hOSLQ,0.0,0.0,0.0,1.0,64
-237,CNN,Tue May 12 01:30:28 +0000 2020,"The coronavirus pandemic, directly or indirectly, may have killed far more people in New York City than the officia… https://t.co/jDuKe7zrB5",-0.6705,0.0,0.191,0.809,63
-238,CNN,Tue May 12 01:28:19 +0000 2020,"Los Angeles is set to reopen beaches on Wednesday, the county says.
-
-Physical activity like running, swimming and s… https://t.co/42NKMByIWy",0.3612,0.116,0.0,0.884,62
-239,CNN,Tue May 12 01:22:34 +0000 2020,President Trump abruptly ended his Monday press conference after a contentious exchange in which he asked an Asian… https://t.co/dT0EcCUbZG,-0.296,0.0,0.109,0.891,61
-240,CNN,Tue May 12 01:16:22 +0000 2020,Major League Baseball owners have finalized a plan that may allow the 2020 season to start on Fourth of July weeken… https://t.co/jK2tTk2WGr,0.2263,0.083,0.0,0.917,60
-241,CNN,Tue May 12 00:58:21 +0000 2020,"Billions of federal coronavirus relief dollars are flowing.
-
-• The good news: Your stimulus payment is all yours
-•… https://t.co/aQMPzxai4x",0.7184,0.25,0.0,0.75,59
-242,CNN,Tue May 12 00:40:00 +0000 2020,"No one knows when concerts will return. But over the past several weeks, dozens of artists have announced live-stre… https://t.co/GiG7eOkhKF",-0.1531,0.0,0.078,0.922,58
-243,CNN,Tue May 12 00:24:23 +0000 2020,Mexican President Andres Manuel Lopez Obrador has ordered the Armed Forces to return to the streets for the next fi… https://t.co/1rHmUCZfee,0.0,0.0,0.0,1.0,57
-244,CNN,Tue May 12 00:09:18 +0000 2020,"""Russian President Vladimir Putin seems to be following some of the central pages of President Donald Trump's playb… https://t.co/0YhRUK9bvS",0.0,0.0,0.0,1.0,56
-245,CNN,Mon May 11 23:51:09 +0000 2020,"Some restaurants are using shower curtains, stained glass and lots of plants to keep diners safe during the coronav… https://t.co/dzs88yMLpX",0.4404,0.132,0.0,0.868,55
-246,CNN,Mon May 11 23:33:36 +0000 2020,President Trump abruptly ended his Monday press conference after a contentious exchange in which he asked an Asian-… https://t.co/9DBCGcDgK5,-0.296,0.0,0.109,0.891,54
-247,CNN,Mon May 11 23:15:42 +0000 2020,We Leroy Jenkins-ed the reopening of our country.  Except that this reopening is all too real. | Analysis by… https://t.co/6e5cNoyqxD,0.0,0.0,0.0,1.0,53
-248,CNN,Mon May 11 23:12:04 +0000 2020,"""Yelling at people doesn't usually elicit their love. Unless the person doing the screaming is Jerry Stiller,""… https://t.co/w918Ta2wrk",0.3818,0.184,0.114,0.702,52
-249,CNN,Mon May 11 22:55:59 +0000 2020,Twitter says it plans to put labels and warning messages on some tweets that contain disputed or misleading informa… https://t.co/UDnuZ7p4XG,-0.7579,0.0,0.306,0.694,51
-250,CNN,Mon May 11 22:45:03 +0000 2020,Two people were arrested and charged with aggravated harassment as a hate crime Sunday after New York officials say… https://t.co/czGMaWHHfF,-0.9552,0.0,0.569,0.431,50
-251,CNN,Mon May 11 22:29:55 +0000 2020,This man drove over 500 miles to bring his older sister protective equipment to the hospital where she works https://t.co/64phfX82cg,0.0,0.0,0.0,1.0,49
-252,CNN,Mon May 11 22:14:29 +0000 2020,"The members of the Western States Pact — California, Washington, Oregon, Colorado and Nevada — are asking the feder… https://t.co/OroguKwW4Z",0.0,0.0,0.0,1.0,48
-253,CNN,Mon May 11 21:56:17 +0000 2020,The family of a black 17-year-old fatally shot in the back by a homeowner during an alleged car break-in in Sanford… https://t.co/38tqJMdyT1,-0.6369,0.0,0.167,0.833,47
-254,CNN,Mon May 11 21:55:50 +0000 2020,"The official US unemployment rate reached 14.7 percent, the highest number since tracking of the statistic began in… https://t.co/JX0M1DcO5K",-0.296,0.125,0.134,0.741,46
-255,CNN,Mon May 11 21:48:51 +0000 2020,"Doctors worried they might have to decide which patients would receive ventilators.
-
-The US largely avoided that cr… https://t.co/wq817xnPt6",-0.5574,0.0,0.213,0.787,45
-256,CNN,Mon May 11 21:44:29 +0000 2020,"Tesla CEO Elon Musk says the automaker is restarting production in California against county rules. ""If anyone is a… https://t.co/75Bi095pZz",0.0,0.0,0.0,1.0,44
-257,CNN,Mon May 11 21:33:16 +0000 2020,"A new study — the largest of its kind — shows that hydroxychloroquine, the drug touted by President Trump, does not… https://t.co/1zesyni2JT",0.4939,0.138,0.049,0.813,43
-258,CNN,Mon May 11 21:32:13 +0000 2020,“It was like you let caged animals out ... and then they took it on the easiest prey… They took it all out on this… https://t.co/biw3Vbglif,0.6486,0.181,0.0,0.819,42
-259,CNN,Mon May 11 21:31:26 +0000 2020,“It wasn’t like your common cold or flu. It kind of felt like I couldn’t really do anything because I was in a lot… https://t.co/BNhGJ0Mpfo,0.34,0.169,0.088,0.743,41
-260,CNN,Mon May 11 21:30:13 +0000 2020,Trump and Pence would do well to look at what happened on the other side of the pond before carrying on as normal.… https://t.co/VxkXS2IvbQ,0.2732,0.084,0.0,0.916,40
-261,CNN,Mon May 11 21:22:00 +0000 2020,The first lady increased coronavirus prevention methods to include mandatory masks in the East Wing and in the resi… https://t.co/SOxka6NSv8,0.34,0.159,0.0,0.841,39
-262,CNN,Mon May 11 21:19:09 +0000 2020,People who haven't yet received a stimulus payment from the federal government face a Wednesday deadline to get dir… https://t.co/DAIbOI9VOn,0.0,0.0,0.0,1.0,38
-263,CNN,Mon May 11 21:12:06 +0000 2020,"With fewer drivers on the road during the coronavirus pandemic, police in the Toronto region have charged at least… https://t.co/DZeRiPXvng",-0.2023,0.0,0.087,0.913,37
-264,CNN,Mon May 11 21:09:42 +0000 2020,"JUST IN: The death toll from coronavirus in the US has passed 80,000, according to data from Johns Hopkins Universi… https://t.co/TPfjnyu8mA",-0.5994,0.0,0.163,0.837,36
-265,CNN,Mon May 11 21:02:03 +0000 2020,"House Democrats are pushing ahead with a far-reaching Covid-19 recovery package, setting up a clash with the Trump… https://t.co/90AxAmm6wV",0.0,0.0,0.0,1.0,35
-266,CNN,Mon May 11 20:56:03 +0000 2020,"A Georgia man discovered an infestation of approximately 100,000 bees living in the ceiling of his recently purchas… https://t.co/bwPUDEPmIF",0.0,0.0,0.0,1.0,34
-267,CNN,Mon May 11 20:48:55 +0000 2020,"RT @CNNBusiness: US stocks closed mixed on Monday, with the Dow giving back some of last week’s gains. The Dow finished down 0.5%, or 109 p…",0.5859,0.167,0.0,0.833,33
-268,CNN,Mon May 11 20:48:35 +0000 2020,How has Florida kept coronavirus in check with official shutdown orders so much later there than in other states?… https://t.co/TrWue7BOMR,0.0,0.0,0.0,1.0,32
-269,CNN,Mon May 11 20:43:05 +0000 2020,Actor @McConaughey details his campaigns to unite the nation in a non-partisan effort to defeat the coronavirus pan… https://t.co/hMh0EMPsP3,-0.4588,0.0,0.143,0.857,31
-270,CNN,Mon May 11 20:39:14 +0000 2020,"More than two decades after Tony Hawk became the first person to land a 900-degree turn, this 11-year-old added ano… https://t.co/rxRzOr6CIY",0.0,0.0,0.0,1.0,30
-271,CNN,Mon May 11 20:30:05 +0000 2020,"The economy is plummeting, and tens of millions of Americans need to get back to work. But at what cost?
-
-As states… https://t.co/HPFQAPcNUe",0.0,0.0,0.0,1.0,29
-272,CNN,Mon May 11 20:23:20 +0000 2020,"More than two decades after Tony Hawk became the first person to land a 900-degree turn, this 11-year-old added ano… https://t.co/ap3woXoxJ1",0.0,0.0,0.0,1.0,28
-273,CNN,Mon May 11 20:19:38 +0000 2020,"A memo says it is now required for all staffers entering the West Wing of the White House to wear a face covering,… https://t.co/PbuC3ZTyn5",0.0,0.0,0.0,1.0,27
-274,CNN,Mon May 11 20:10:06 +0000 2020,"Nearly 2,000 former DOJ employees criticized AG William Barr for moving to drop the charges against former national… https://t.co/0fAXUsjLZ6",-0.6908,0.0,0.295,0.705,26
-275,CNN,Mon May 11 20:09:27 +0000 2020,Participants at a food supply roundtable convened by Vice President Mike Pence in Iowa on Friday removed their face… https://t.co/2RLIvEAmbK,0.0,0.0,0.0,1.0,25
-276,CNN,Mon May 11 20:00:08 +0000 2020,"Whether you're trying to advance your career or you're actively looking for a job, networking should be common prac… https://t.co/7nrP9kSmwr",0.3182,0.108,0.0,0.892,24
-277,CNN,Mon May 11 19:50:06 +0000 2020,"A special election to fill the seat held by former Democratic Rep. Katie Hill, who resigned amid scandal in late 20… https://t.co/9TCagBaxMK",-0.296,0.102,0.184,0.714,23
-278,CNN,Mon May 11 19:40:07 +0000 2020,"The coronavirus recession is devastating America's labor market — and by almost every measure, it's worse for women… https://t.co/96aouLH9Pe",-0.8807,0.0,0.389,0.611,22
-279,CNN,Mon May 11 19:30:06 +0000 2020,South Dakota Gov. Kristi Noem's standoff with the leaders of two Native American tribes over their coronavirus chec… https://t.co/nFugjA9SMs,0.0,0.0,0.0,1.0,21
-280,CNN,Mon May 11 19:20:06 +0000 2020,"Dr. Anthony Fauci, a key member of the White House coronavirus task force, inspired the romantic hero in ""Happy End… https://t.co/fmV9kMkVnn",0.9217,0.437,0.0,0.563,20
-281,CNN,Mon May 11 19:10:05 +0000 2020,"One day after reopening, an ice cream shop was forced to temporarily close because customers didn't follow social d… https://t.co/hlBW1jA1Wh",-0.4588,0.0,0.136,0.864,19
-282,CNN,Mon May 11 19:00:15 +0000 2020,"Actor and comedian Jerry Stiller, who starred in ""Seinfeld,"" ""The King of Queens"" and ""Zoolander"" has died due to n… https://t.co/q3853gvHOb",-0.25,0.103,0.143,0.754,18
-283,CNN,Mon May 11 18:50:07 +0000 2020,"""While it may take a global pandemic to finally acknowledge the capability women leaders have, companies shouldn't… https://t.co/dj8bkGSauo",0.0,0.0,0.0,1.0,17
-284,CNN,Mon May 11 18:40:07 +0000 2020,"The novel coronavirus can persist in men's semen even after they have begun to recover, a finding that raises the p… https://t.co/9SGMIovqPk",0.3182,0.099,0.0,0.901,16
-285,CNN,Mon May 11 18:30:11 +0000 2020,Climate activist Greta Thunberg is donating prize money she won to help fight the coronavirus pandemic and protect… https://t.co/F1UwfUp4Ap,0.7964,0.355,0.095,0.549,15
-286,CNN,Mon May 11 18:20:06 +0000 2020,"Future pandemics are likely to be more frequent, deadly, and will spread more rapidly, unless we stop the widesprea… https://t.co/vbn8pxSjBc",-0.296,0.0,0.104,0.896,14
-287,CNN,Mon May 11 18:10:04 +0000 2020,"China has given a point-by-point rebuttal of the 24 ""preposterous allegations and lies"" that it said were fabricate… https://t.co/OZNHYUlybh",-0.4215,0.0,0.135,0.865,13
-288,CNN,Mon May 11 18:04:38 +0000 2020,"Actor and comedian Jerry Stiller has died due to natural causes, his son, actor Ben Stiller said in a tweet. He was… https://t.co/9TxLQeWOXy",0.128,0.178,0.125,0.697,12
-289,CNN,Mon May 11 17:47:56 +0000 2020,"Princeton University has named its first black valedictorian in the school's 274-year — Nicholas Johnson, a Canadia… https://t.co/4iYHqDrILC",0.0,0.0,0.0,1.0,11
-290,CNN,Mon May 11 17:30:04 +0000 2020,"The bill is expected to mirror — and potentially go beyond — the $2 trillion measure enacted in late March, which w… https://t.co/DpxbT0gKak",0.0,0.0,0.0,1.0,10
-291,CNN,Mon May 11 17:30:00 +0000 2020,“We literally put the economy into a coma. I think of it as the ‘great paralysis’ rather than the Great Depression.… https://t.co/gcWP8RKuB9,0.6249,0.163,0.0,0.837,9
-292,CNN,Mon May 11 17:20:08 +0000 2020,The folded hands emoji 🙏 has popped up in more tweets than ever before to help express our feelings about seemingly… https://t.co/KuvT0iJNni,0.4019,0.109,0.0,0.891,8
-293,CNN,Mon May 11 17:10:03 +0000 2020,"The DOJ is ""assessing all of the evidence"" in Ahmaud Arbery's shooting death to determine whether federal hate crim… https://t.co/N8CgiHiklk",-0.8225,0.0,0.297,0.703,7
-294,CNN,Mon May 11 17:00:08 +0000 2020,"More than two decades after Tony Hawk became the first person to land a 900-degree turn, this 11-year-old added ano… https://t.co/F8YSrk63te",0.0,0.0,0.0,1.0,6
-295,CNN,Mon May 11 16:50:08 +0000 2020,No need to wake up early in the morning to see it outside — make fog in your own kitchen with CNN Meteorologist Jen… https://t.co/2WTODgp8I6,-0.296,0.0,0.084,0.916,5
-296,CNN,Mon May 11 16:40:04 +0000 2020,The top prosecutor of Roger Stone slammed Attorney General William Barr for influencing cases against President Tru… https://t.co/06n6AHd20b,0.2023,0.096,0.0,0.904,4
-297,CNN,Mon May 11 16:30:04 +0000 2020,Massive funding has been donated to help fight the coronavirus in Africa. This nonprofit is trying to keep track of… https://t.co/g2QTPa3LyZ,0.0258,0.111,0.107,0.782,3
-298,CNN,Mon May 11 16:24:05 +0000 2020,"A worker infected 533 people with Covid-19 at a fish processing plant in Ghana, the country's president Nana Akufo-… https://t.co/Zdg8VRF5I3",-0.4939,0.0,0.144,0.856,2
-299,CNN,Mon May 11 16:19:06 +0000 2020,"In just a few months, consumers have dramatically changed the way they buy groceries, and PepsiCo is looking to cap… https://t.co/8rSZyEIOlQ",0.0,0.0,0.0,1.0,1
-300,FoxNews,Tue May 12 01:36:35 +0000 2020,https://t.co/URYC8sMLyr,0.0,0.0,0.0,1.0,100
-301,FoxNews,Tue May 12 00:32:07 +0000 2020,https://t.co/fm2pOOX35f,0.0,0.0,0.0,1.0,99
-302,FoxNews,Mon May 11 23:18:46 +0000 2020,https://t.co/OeFKx015sD,0.0,0.0,0.0,1.0,98
-303,FoxNews,Mon May 11 21:34:31 +0000 2020,https://t.co/E0XAqsYJ0n,0.0,0.0,0.0,1.0,97
-304,FoxNews,Mon May 11 20:25:16 +0000 2020,https://t.co/ZvmRx0byXy,0.0,0.0,0.0,1.0,96
-305,FoxNews,Mon May 11 01:47:21 +0000 2020,https://t.co/ad619wikI4,0.0,0.0,0.0,1.0,95
-306,FoxNews,Mon May 11 00:45:54 +0000 2020,https://t.co/YBI6JyAWfy,0.0,0.0,0.0,1.0,94
-307,FoxNews,Sun May 10 23:33:04 +0000 2020,https://t.co/In1tssRa1F,0.0,0.0,0.0,1.0,93
-308,FoxNews,Sun May 10 21:53:30 +0000 2020,https://t.co/6frmDZ6QIu,0.0,0.0,0.0,1.0,92
-309,FoxNews,Sun May 10 19:52:57 +0000 2020,https://t.co/1usfwjlPMa,0.0,0.0,0.0,1.0,91
-310,FoxNews,Sun May 10 18:51:53 +0000 2020,https://t.co/tvT1MRDGhy,0.0,0.0,0.0,1.0,90
-311,FoxNews,Sun May 10 01:51:23 +0000 2020,https://t.co/mIjaXCJZPK,0.0,0.0,0.0,1.0,89
-312,FoxNews,Sat May 09 22:50:53 +0000 2020,https://t.co/dD1TeTBPmx,0.0,0.0,0.0,1.0,88
-313,FoxNews,Sat May 09 21:53:34 +0000 2020,https://t.co/5DcqLO3d63,0.0,0.0,0.0,1.0,87
-314,FoxNews,Sat May 09 21:13:23 +0000 2020,https://t.co/uHoWlcb8Ce,0.0,0.0,0.0,1.0,86
-315,FoxNews,Sat May 09 20:32:56 +0000 2020,https://t.co/ClEuXem9HZ,0.0,0.0,0.0,1.0,85
-316,FoxNews,Sat May 09 19:57:20 +0000 2020,https://t.co/wlBPHiAzu8,0.0,0.0,0.0,1.0,84
-317,FoxNews,Sat May 09 18:11:24 +0000 2020,https://t.co/4L0kSKWupP,0.0,0.0,0.0,1.0,83
-318,FoxNews,Sat May 09 17:20:01 +0000 2020,https://t.co/MdE7Xw3qk4,0.0,0.0,0.0,1.0,82
-319,FoxNews,Sat May 09 13:10:34 +0000 2020,https://t.co/Klyd81lccF,0.0,0.0,0.0,1.0,81
-320,FoxNews,Tue May 12 01:36:35 +0000 2020,https://t.co/URYC8sMLyr,0.0,0.0,0.0,1.0,80
-321,FoxNews,Tue May 12 00:32:07 +0000 2020,https://t.co/fm2pOOX35f,0.0,0.0,0.0,1.0,79
-322,FoxNews,Mon May 11 23:18:46 +0000 2020,https://t.co/OeFKx015sD,0.0,0.0,0.0,1.0,78
-323,FoxNews,Mon May 11 21:34:31 +0000 2020,https://t.co/E0XAqsYJ0n,0.0,0.0,0.0,1.0,77
-324,FoxNews,Mon May 11 20:25:16 +0000 2020,https://t.co/ZvmRx0byXy,0.0,0.0,0.0,1.0,76
-325,FoxNews,Mon May 11 01:47:21 +0000 2020,https://t.co/ad619wikI4,0.0,0.0,0.0,1.0,75
-326,FoxNews,Mon May 11 00:45:54 +0000 2020,https://t.co/YBI6JyAWfy,0.0,0.0,0.0,1.0,74
-327,FoxNews,Sun May 10 23:33:04 +0000 2020,https://t.co/In1tssRa1F,0.0,0.0,0.0,1.0,73
-328,FoxNews,Sun May 10 21:53:30 +0000 2020,https://t.co/6frmDZ6QIu,0.0,0.0,0.0,1.0,72
-329,FoxNews,Sun May 10 19:52:57 +0000 2020,https://t.co/1usfwjlPMa,0.0,0.0,0.0,1.0,71
-330,FoxNews,Sun May 10 18:51:53 +0000 2020,https://t.co/tvT1MRDGhy,0.0,0.0,0.0,1.0,70
-331,FoxNews,Sun May 10 01:51:23 +0000 2020,https://t.co/mIjaXCJZPK,0.0,0.0,0.0,1.0,69
-332,FoxNews,Sat May 09 22:50:53 +0000 2020,https://t.co/dD1TeTBPmx,0.0,0.0,0.0,1.0,68
-333,FoxNews,Sat May 09 21:53:34 +0000 2020,https://t.co/5DcqLO3d63,0.0,0.0,0.0,1.0,67
-334,FoxNews,Sat May 09 21:13:23 +0000 2020,https://t.co/uHoWlcb8Ce,0.0,0.0,0.0,1.0,66
-335,FoxNews,Sat May 09 20:32:56 +0000 2020,https://t.co/ClEuXem9HZ,0.0,0.0,0.0,1.0,65
-336,FoxNews,Sat May 09 19:57:20 +0000 2020,https://t.co/wlBPHiAzu8,0.0,0.0,0.0,1.0,64
-337,FoxNews,Sat May 09 18:11:24 +0000 2020,https://t.co/4L0kSKWupP,0.0,0.0,0.0,1.0,63
-338,FoxNews,Sat May 09 17:20:01 +0000 2020,https://t.co/MdE7Xw3qk4,0.0,0.0,0.0,1.0,62
-339,FoxNews,Sat May 09 13:10:34 +0000 2020,https://t.co/Klyd81lccF,0.0,0.0,0.0,1.0,61
-340,FoxNews,Sat May 09 01:50:10 +0000 2020,https://t.co/htuXO8O9jH,0.0,0.0,0.0,1.0,60
-341,FoxNews,Sat May 09 00:29:53 +0000 2020,https://t.co/W5DncnmicW,0.0,0.0,0.0,1.0,59
-342,FoxNews,Fri May 08 23:43:06 +0000 2020,https://t.co/vUhX2hLjbk,0.0,0.0,0.0,1.0,58
-343,FoxNews,Fri May 08 22:22:16 +0000 2020,https://t.co/McLGTVd0A2,0.0,0.0,0.0,1.0,57
-344,FoxNews,Fri May 08 21:34:28 +0000 2020,https://t.co/69ALMLf9vg,0.0,0.0,0.0,1.0,56
-345,FoxNews,Fri May 08 19:50:10 +0000 2020,https://t.co/hnVDGT9p8g,0.0,0.0,0.0,1.0,55
-346,FoxNews,Fri May 08 19:09:39 +0000 2020,https://t.co/OCgQaHmNKk,0.0,0.0,0.0,1.0,54
-347,FoxNews,Fri May 08 12:16:22 +0000 2020,https://t.co/deuBy3d21Q,0.0,0.0,0.0,1.0,53
-348,FoxNews,Fri May 08 02:46:02 +0000 2020,https://t.co/V6gUIKB5fF,0.0,0.0,0.0,1.0,52
-349,FoxNews,Fri May 08 01:53:04 +0000 2020,https://t.co/KR6L0uiuch,0.0,0.0,0.0,1.0,51
-350,FoxNews,Fri May 08 00:40:01 +0000 2020,https://t.co/2T9vlE3XWF,0.0,0.0,0.0,1.0,50
-351,FoxNews,Thu May 07 23:18:37 +0000 2020,https://t.co/LzDAUFj3sJ,0.0,0.0,0.0,1.0,49
-352,FoxNews,Thu May 07 21:40:56 +0000 2020,https://t.co/wu9UbAeohW,0.0,0.0,0.0,1.0,48
-353,FoxNews,Thu May 07 20:16:49 +0000 2020,https://t.co/YhdUMFGgnv,0.0,0.0,0.0,1.0,47
-354,FoxNews,Thu May 07 01:56:17 +0000 2020,https://t.co/9ajtyxP09z,0.0,0.0,0.0,1.0,46
-355,FoxNews,Thu May 07 00:46:36 +0000 2020,https://t.co/R0bqCL7xjX,0.0,0.0,0.0,1.0,45
-356,FoxNews,Wed May 06 22:33:29 +0000 2020,https://t.co/H0hF5GEj37,0.0,0.0,0.0,1.0,44
-357,FoxNews,Wed May 06 21:10:00 +0000 2020,https://t.co/jEj6LLIleb,0.0,0.0,0.0,1.0,43
-358,FoxNews,Wed May 06 19:53:01 +0000 2020,https://t.co/CQdXWNaMPG,0.0,0.0,0.0,1.0,42
-359,FoxNews,Wed May 06 18:37:46 +0000 2020,https://t.co/Uyru52Vc8F,0.0,0.0,0.0,1.0,41
-360,FoxNews,Wed May 06 02:14:17 +0000 2020,https://t.co/RevV9qXMqw,0.0,0.0,0.0,1.0,40
-361,FoxNews,Wed May 06 00:59:09 +0000 2020,https://t.co/PTkFduoi8e,0.0,0.0,0.0,1.0,39
-362,FoxNews,Tue May 05 23:36:13 +0000 2020,https://t.co/LWyAIOV2LP,0.0,0.0,0.0,1.0,38
-363,FoxNews,Tue May 05 22:34:49 +0000 2020,https://t.co/cgsJArqvNX,0.0,0.0,0.0,1.0,37
-364,FoxNews,Tue May 05 21:25:37 +0000 2020,https://t.co/OQeGMUnEZf,0.0,0.0,0.0,1.0,36
-365,FoxNews,Tue May 05 19:53:03 +0000 2020,https://t.co/lsXLd1T5K3,0.0,0.0,0.0,1.0,35
-366,FoxNews,Tue May 05 18:51:08 +0000 2020,https://t.co/4jK6WIeWqb,0.0,0.0,0.0,1.0,34
-367,FoxNews,Tue May 05 02:18:41 +0000 2020,https://t.co/ce5mVY4SkQ,0.0,0.0,0.0,1.0,33
-368,FoxNews,Tue May 05 01:15:24 +0000 2020,https://t.co/o0AClIaDRf,0.0,0.0,0.0,1.0,32
-369,FoxNews,Mon May 04 23:53:27 +0000 2020,https://t.co/NEVF4Sn9e2,0.0,0.0,0.0,1.0,31
-370,FoxNews,Mon May 04 22:36:08 +0000 2020,https://t.co/gdYlBgW6RC,0.0,0.0,0.0,1.0,30
-371,FoxNews,Mon May 04 21:25:19 +0000 2020,https://t.co/cZ8P5Y8Ohn,0.0,0.0,0.0,1.0,29
-372,FoxNews,Mon May 04 20:19:38 +0000 2020,https://t.co/SFVp2alAQO,0.0,0.0,0.0,1.0,28
-373,FoxNews,Mon May 04 18:51:09 +0000 2020,https://t.co/FiNPfGNoRv,0.0,0.0,0.0,1.0,27
-374,FoxNews,Mon May 04 02:18:22 +0000 2020,https://t.co/qKF9HoTYNF,0.0,0.0,0.0,1.0,26
-375,FoxNews,Mon May 04 01:08:00 +0000 2020,https://t.co/NhJ2QFyaYI,0.0,0.0,0.0,1.0,25
-376,FoxNews,Sun May 03 23:55:10 +0000 2020,https://t.co/hPphqVVtBn,0.0,0.0,0.0,1.0,24
-377,FoxNews,Sun May 03 22:49:19 +0000 2020,https://t.co/EzNk2lZPJz,0.0,0.0,0.0,1.0,23
-378,FoxNews,Sun May 03 21:21:59 +0000 2020,https://t.co/Jv1m9hE7qD,0.0,0.0,0.0,1.0,22
-379,FoxNews,Sun May 03 17:02:09 +0000 2020,https://t.co/skRGoPLHtk,0.0,0.0,0.0,1.0,21
-380,FoxNews,Sun May 03 15:03:55 +0000 2020,https://t.co/WVrk3w5IxV,0.0,0.0,0.0,1.0,20
-381,FoxNews,Sun May 03 15:03:38 +0000 2020,https://t.co/zOzRmavKzc,0.0,0.0,0.0,1.0,19
-382,FoxNews,Sun May 03 01:36:31 +0000 2020,https://t.co/s39FIF2606,0.0,0.0,0.0,1.0,18
-383,FoxNews,Sat May 02 21:47:32 +0000 2020,https://t.co/2dwVCrs5N8,0.0,0.0,0.0,1.0,17
-384,FoxNews,Sat May 02 20:55:32 +0000 2020,https://t.co/028cZsdi0Z,0.0,0.0,0.0,1.0,16
-385,FoxNews,Sat May 02 20:26:47 +0000 2020,https://t.co/fUi84QeePT,0.0,0.0,0.0,1.0,15
-386,FoxNews,Sat May 02 19:34:47 +0000 2020,https://t.co/ngS5uN599f,0.0,0.0,0.0,1.0,14
-387,FoxNews,Sat May 02 01:48:02 +0000 2020,https://t.co/YaI2eAGzWM,0.0,0.0,0.0,1.0,13
-388,FoxNews,Sat May 02 01:22:45 +0000 2020,https://t.co/W2dylWJZBZ,0.0,0.0,0.0,1.0,12
-389,FoxNews,Fri May 01 23:44:40 +0000 2020,https://t.co/Wtqz3YWgiW,0.0,0.0,0.0,1.0,11
-390,FoxNews,Fri May 01 22:58:52 +0000 2020,https://t.co/Q5v67bsh7i,0.0,0.0,0.0,1.0,10
-391,FoxNews,Fri May 01 22:28:41 +0000 2020,https://t.co/SHilf1rnvH,0.0,0.0,0.0,1.0,9
-392,FoxNews,Fri May 01 20:13:47 +0000 2020,https://t.co/dtHf0k5vxu,0.0,0.0,0.0,1.0,8
-393,FoxNews,Fri May 01 18:39:20 +0000 2020,https://t.co/LAbSFGR1Nk,0.0,0.0,0.0,1.0,7
-394,FoxNews,Fri May 01 02:38:21 +0000 2020,https://t.co/uWY3H33c2Z,0.0,0.0,0.0,1.0,6
-395,FoxNews,Fri May 01 01:29:15 +0000 2020,https://t.co/UV0EKwLVJ1,0.0,0.0,0.0,1.0,5
-396,FoxNews,Fri May 01 00:23:02 +0000 2020,https://t.co/QwhFCXmYtZ,0.0,0.0,0.0,1.0,4
-397,FoxNews,Thu Apr 30 23:20:53 +0000 2020,https://t.co/9ha6fv8Wsg,0.0,0.0,0.0,1.0,3
-398,FoxNews,Thu Apr 30 22:19:29 +0000 2020,https://t.co/8UCCskDruh,0.0,0.0,0.0,1.0,2
-399,FoxNews,Thu Apr 30 21:11:11 +0000 2020,https://t.co/AUpaNZh2PT,0.0,0.0,0.0,1.0,1
-400,dawn_com,Mon May 11 19:56:21 +0000 2020,"White House recommends tests for all nursing home residents.
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.2263,0.112,0.0,0.888,100
-401,dawn_com,Mon May 11 19:55:38 +0000 2020,"US coronavirus death toll tops 80,000.
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.1531,0.181,0.214,0.604,99
-402,dawn_com,Mon May 11 19:47:28 +0000 2020,"WATCH: UK PM Boris Johnson reveals lockdown exit plan amid confusion
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.296,0.0,0.115,0.885,98
-403,dawn_com,Mon May 11 18:52:16 +0000 2020,"Germany's coronavirus reproduction rate remains above critical threshold
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.3182,0.0,0.141,0.859,97
-404,dawn_com,Mon May 11 18:37:01 +0000 2020,"Govt will succeed in controlling Covid-19 if people act responsibly: Shibli Faraz
-
-Follow our updates on… https://t.co/DsZkzl1wea",0.4939,0.167,0.0,0.833,96
-405,dawn_com,Mon May 11 18:26:58 +0000 2020,The premier expressed satisfaction over the progress made so far and directed authorities concerned to begin constr… https://t.co/MWZdvnm5bF,0.6908,0.263,0.0,0.737,95
-406,dawn_com,Mon May 11 18:15:41 +0000 2020,"#Turkey orders four-day lockdown from weekend
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,94
-407,dawn_com,Mon May 11 17:55:41 +0000 2020,"France reports increase in daily virus toll as lockdown eased
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.5423,0.231,0.0,0.769,93
-408,dawn_com,Mon May 11 17:26:25 +0000 2020,"In pictures: SOPs out the window as #Pakistani markets open after weeks-long hiatus
-
-See more photos:… https://t.co/W86NgCiZ1p",0.0,0.0,0.0,1.0,92
-409,dawn_com,Mon May 11 17:26:20 +0000 2020,"44 new cases, 1 death reported in Balochistan
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.5994,0.0,0.218,0.782,91
-410,dawn_com,Mon May 11 17:07:17 +0000 2020,"Shanghai Disneyland reopens with anti-virus controls
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,90
-411,dawn_com,Mon May 11 16:45:11 +0000 2020,"WHO says 'extreme vigilance' needed in exit from lockdowns
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,89
-412,dawn_com,Mon May 11 16:33:55 +0000 2020,"Less than 1,000 virus patients in intensive care in Italy
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.4939,0.167,0.0,0.833,88
-413,dawn_com,Mon May 11 16:21:00 +0000 2020,"Sindh govt revises timings for businesses, restrictions on movement
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,87
-414,dawn_com,Mon May 11 16:08:00 +0000 2020,"“Better to die of coronavirus, because I can't survive sitting at home,” said a shopkeeper in Peshawar https://t.co/ltq29mWDrR",-0.5994,0.0,0.187,0.813,86
-415,dawn_com,Mon May 11 16:06:09 +0000 2020,"Starbucks to reopen 150 drive-thru locations in UK this week
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,85
-416,dawn_com,Mon May 11 16:04:47 +0000 2020,"Markets teem across #Pakistan as lockdown eases despite infection surge
-
-Follow our updates on #coronavirus here:… https://t.co/KIvzBuNM22",0.3182,0.126,0.0,0.874,84
-417,dawn_com,Mon May 11 15:58:55 +0000 2020,"SEE: What are the common Covid-19 symptoms being reported at US hospitals?
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,83
-418,dawn_com,Mon May 11 15:48:03 +0000 2020,"Jacobabad's Covid-19 tally rises to 72
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,82
-419,dawn_com,Mon May 11 15:41:25 +0000 2020,"Sindh being accused of taking 'excessive' measures: Murtaza Wahab
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.296,0.0,0.128,0.872,81
-420,dawn_com,Mon May 11 19:56:21 +0000 2020,"White House recommends tests for all nursing home residents.
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.2263,0.112,0.0,0.888,80
-421,dawn_com,Mon May 11 19:55:38 +0000 2020,"US coronavirus death toll tops 80,000.
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.1531,0.181,0.214,0.604,79
-422,dawn_com,Mon May 11 19:47:28 +0000 2020,"WATCH: UK PM Boris Johnson reveals lockdown exit plan amid confusion
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.296,0.0,0.115,0.885,78
-423,dawn_com,Mon May 11 18:52:16 +0000 2020,"Germany's coronavirus reproduction rate remains above critical threshold
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.3182,0.0,0.141,0.859,77
-424,dawn_com,Mon May 11 18:37:01 +0000 2020,"Govt will succeed in controlling Covid-19 if people act responsibly: Shibli Faraz
-
-Follow our updates on… https://t.co/DsZkzl1wea",0.4939,0.167,0.0,0.833,76
-425,dawn_com,Mon May 11 18:26:58 +0000 2020,The premier expressed satisfaction over the progress made so far and directed authorities concerned to begin constr… https://t.co/MWZdvnm5bF,0.6908,0.263,0.0,0.737,75
-426,dawn_com,Mon May 11 18:15:41 +0000 2020,"#Turkey orders four-day lockdown from weekend
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,74
-427,dawn_com,Mon May 11 17:55:41 +0000 2020,"France reports increase in daily virus toll as lockdown eased
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.5423,0.231,0.0,0.769,73
-428,dawn_com,Mon May 11 17:26:25 +0000 2020,"In pictures: SOPs out the window as #Pakistani markets open after weeks-long hiatus
-
-See more photos:… https://t.co/W86NgCiZ1p",0.0,0.0,0.0,1.0,72
-429,dawn_com,Mon May 11 17:26:20 +0000 2020,"44 new cases, 1 death reported in Balochistan
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.5994,0.0,0.218,0.782,71
-430,dawn_com,Mon May 11 17:07:17 +0000 2020,"Shanghai Disneyland reopens with anti-virus controls
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,70
-431,dawn_com,Mon May 11 16:45:11 +0000 2020,"WHO says 'extreme vigilance' needed in exit from lockdowns
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,69
-432,dawn_com,Mon May 11 16:33:55 +0000 2020,"Less than 1,000 virus patients in intensive care in Italy
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.4939,0.167,0.0,0.833,68
-433,dawn_com,Mon May 11 16:21:00 +0000 2020,"Sindh govt revises timings for businesses, restrictions on movement
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,67
-434,dawn_com,Mon May 11 16:08:00 +0000 2020,"“Better to die of coronavirus, because I can't survive sitting at home,” said a shopkeeper in Peshawar https://t.co/ltq29mWDrR",-0.5994,0.0,0.187,0.813,66
-435,dawn_com,Mon May 11 16:06:09 +0000 2020,"Starbucks to reopen 150 drive-thru locations in UK this week
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,65
-436,dawn_com,Mon May 11 16:04:47 +0000 2020,"Markets teem across #Pakistan as lockdown eases despite infection surge
-
-Follow our updates on #coronavirus here:… https://t.co/KIvzBuNM22",0.3182,0.126,0.0,0.874,64
-437,dawn_com,Mon May 11 15:58:55 +0000 2020,"SEE: What are the common Covid-19 symptoms being reported at US hospitals?
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,63
-438,dawn_com,Mon May 11 15:48:03 +0000 2020,"Jacobabad's Covid-19 tally rises to 72
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,62
-439,dawn_com,Mon May 11 15:41:25 +0000 2020,"Sindh being accused of taking 'excessive' measures: Murtaza Wahab
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.296,0.0,0.128,0.872,61
-440,dawn_com,Mon May 11 15:05:31 +0000 2020,"ASI passes away after contracting Covid-19 in Karachi
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,60
-441,dawn_com,Mon May 11 14:59:08 +0000 2020,"Nafisa Shah's sister, a DUHS professor, tests positive for Covid-19
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.5574,0.184,0.0,0.816,59
-442,dawn_com,Mon May 11 14:55:12 +0000 2020,"WATCH: Displaced Somalis share Iftar meals under shadow of Covid-19
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.296,0.121,0.0,0.879,58
-443,dawn_com,Mon May 11 14:46:51 +0000 2020,"206 new Covid-19 cases, 12 deaths reported in KP
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,57
-444,dawn_com,Mon May 11 14:07:22 +0000 2020,"Abu Dhabi's Etihad lays off staff, warns of further cuts: sources
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.3818,0.0,0.184,0.816,56
-445,dawn_com,Mon May 11 13:55:04 +0000 2020,"New York will follow 'smart lockdown' concept introduced by Pakistan, says Murad Saeed
-
-Follow our updates on… https://t.co/03VJIQSpnN",0.4019,0.137,0.0,0.863,55
-446,dawn_com,Mon May 11 13:40:37 +0000 2020,"The foreign minister also lauded the performance of Sindh Chief Minister Murad Ali Shah, stating that he had no qua… https://t.co/jEE91ERf8j",-0.296,0.0,0.099,0.901,54
-447,dawn_com,Mon May 11 13:40:12 +0000 2020,"PPP Chairman Bilawal Bhutto-Zardari lashed out at Prime Minister Imran Khan for ""his failure to lead the country"" d… https://t.co/DiffabZWeA",-0.5106,0.0,0.148,0.852,53
-448,dawn_com,Mon May 11 13:38:47 +0000 2020,"Opposition only shouted 'lockdown, lockdown' instead of giving a solution: Murad Saeed
-
-Follow our updates on… https://t.co/HrHfuA36HZ",0.5719,0.239,0.0,0.761,52
-449,dawn_com,Mon May 11 13:36:04 +0000 2020,"RT @dawn_images: The #SazaeSan show had been airing in #Japan every Sunday since 1969, until now. #Coronavirus #Covid19
-
-https://t.co/LtMi8…",0.0,0.0,0.0,1.0,51
-450,dawn_com,Mon May 11 13:25:19 +0000 2020,"Bilawal calls out govt over conditions in Taftaan, not stopping Raiwind Ijtima
-
-Follow our updates on #coronavirus… https://t.co/9eGYzxHDJJ",0.1139,0.078,0.0,0.922,50
-451,dawn_com,Mon May 11 13:17:39 +0000 2020,"BISP funds being distributed under Ehsaas programme, says Bilawal
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,49
-452,dawn_com,Mon May 11 13:08:03 +0000 2020,"Covid-19 crisis has revealed the PM's 'ineptitude', alleges Bilawal
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.6249,0.0,0.215,0.785,48
-453,dawn_com,Mon May 11 13:07:40 +0000 2020,"Federal govt not providing provinces the help they need, says Bilawal
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.4019,0.137,0.0,0.863,47
-454,dawn_com,Mon May 11 12:51:04 +0000 2020,"There was a need for PM to lead the entire country, not just PTI: Bilawal
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,46
-455,dawn_com,Mon May 11 12:45:21 +0000 2020,"475 new cases in Punjab take tally to 11,568 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,45
-456,dawn_com,Mon May 11 12:43:42 +0000 2020,"Pakistan hasn't faced food shortage due to PM's decisive actions: minister
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.3899,0.185,0.0,0.815,44
-457,dawn_com,Mon May 11 12:32:16 +0000 2020,"'Hunger is as much a threat to us as the virus,' says Hammad Azhar
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.6597,0.0,0.221,0.779,43
-458,dawn_com,Mon May 11 12:32:02 +0000 2020,"Pakistanis' return from Taftan should not be blamed for the virus outbreak: minister
-
-Follow our updates on… https://t.co/D2qaW3k16Q",0.3724,0.131,0.0,0.869,42
-459,dawn_com,Mon May 11 12:31:38 +0000 2020,"PM confusing nation through contradictory statements: Khawaja Asif
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.5106,0.0,0.249,0.751,41
-460,dawn_com,Mon May 11 11:53:36 +0000 2020,"Could take years for life to return to normality, says Khawaja Asif
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,40
-461,dawn_com,Mon May 11 11:47:28 +0000 2020,"Complete lockdown would have gotten us through this crisis: Khawaja Asif
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.7073,0.0,0.223,0.777,39
-462,dawn_com,Mon May 11 11:39:14 +0000 2020,"Khawaja Asif calls out Centre for 'confusion' in handling Covid-19 crisis
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.743,0.0,0.283,0.717,38
-463,dawn_com,Mon May 11 11:38:56 +0000 2020,"Pakistan's Covid-19 trajectory different to US, Europe, says FM Qureshi
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,37
-464,dawn_com,Mon May 11 11:38:37 +0000 2020,"'All of your points will be heard': FM Qureshi assures opposition parties
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgiI5K",0.6124,0.227,0.0,0.773,36
-465,dawn_com,Mon May 11 11:19:00 +0000 2020,"PML-N 'stops' Leader of the Opposition Shehbaz Sharif from attending NA session 
-
-Follow our updates on… https://t.co/QVxtSGmG38",-0.1531,0.0,0.091,0.909,35
-466,dawn_com,Mon May 11 11:17:15 +0000 2020,Breast milk from #coronavirus infected mothers may contain antibodies to the novel coronavirus that could be protec… https://t.co/xweQqqn7o7,-0.2263,0.107,0.149,0.744,34
-467,dawn_com,Mon May 11 11:15:39 +0000 2020,Minister for Education Shafqat Mahmood has categorically stated that all board exams across the country have been c… https://t.co/yWQUBFDxtL,0.0,0.0,0.0,1.0,33
-468,dawn_com,Mon May 11 11:14:07 +0000 2020,"Foreign Minister Shah Mahmood Qureshi has declared that Pakistan was ""ahead of other South Asian countries"" in term… https://t.co/Aqv9Olb2n6",0.0,0.0,0.0,1.0,32
-469,dawn_com,Mon May 11 11:08:06 +0000 2020,"RT @dawn_images: Is the fact that they believe she's actually the character #HalimeSultan a testament to her acting skills, or their IQ?
-
-M…",0.0,0.0,0.0,1.0,31
-470,dawn_com,Mon May 11 10:54:24 +0000 2020,"FM Qureshi says Pakistan 'ahead of other South Asian countries' 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,30
-471,dawn_com,Mon May 11 10:53:54 +0000 2020,"NA deputy speaker tells lawmakers to observe precautions in parliament 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,29
-472,dawn_com,Mon May 11 10:53:22 +0000 2020,"Coronavirus is an 'unprecedented challenge', says Shah Mahmood Qureshi 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0772,0.08,0.0,0.92,28
-473,dawn_com,Mon May 11 10:52:43 +0000 2020,"WATCH: Foreign minister addresses NA session 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,27
-474,dawn_com,Mon May 11 10:33:30 +0000 2020,"NA session on Covid-19 impact under way
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,26
-475,dawn_com,Mon May 11 10:26:00 +0000 2020,"RT @dawn_images: According to son #BenStiller, veteran actor #JerryStiller died of natural causes.
-
-https://t.co/F9mw3HsXJM https://t.co/Y7…",-0.2732,0.131,0.188,0.681,25
-476,dawn_com,Mon May 11 10:14:57 +0000 2020,"Taking precautionary measures only way to defeat Covid-19, says Dr Zafar Mirza
-
-Follow our updates on #coronavirus… https://t.co/tK5FO35q4I",-0.4588,0.0,0.15,0.85,24
-477,dawn_com,Mon May 11 10:01:05 +0000 2020,"Ajmal Wazir asks people not to go outside 'unnecessarily'
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,23
-478,dawn_com,Mon May 11 09:51:58 +0000 2020,"Spain's daily coronavirus death toll falls to 123
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.5994,0.0,0.218,0.782,22
-479,dawn_com,Mon May 11 09:51:22 +0000 2020,"We have mobilised support for 28,500+ families (an estimated 200,000 women, men and children) throughout Ramazan, a… https://t.co/fkKrdqG5dM",0.4019,0.137,0.0,0.863,21
-480,dawn_com,Mon May 11 09:48:36 +0000 2020,"SPONSORED CONTENT: The content, topics and syllabus for each course are specifically designed for DU and geared tow… https://t.co/BiAE6QH8GD",0.0,0.0,0.0,1.0,20
-481,dawn_com,Mon May 11 09:45:30 +0000 2020,"Khurram Sher Zaman accuses Sindh govt of mishandling Covid-19 crisis 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.7579,0.0,0.302,0.698,19
-482,dawn_com,Mon May 11 09:45:12 +0000 2020,"Sindh govt should reopen OPDs, says Khurram Sher Zaman
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,18
-483,dawn_com,Mon May 11 09:35:24 +0000 2020,"Russia overtakes Italy and Britain after record rise in coronavirus cases 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,17
-484,dawn_com,Mon May 11 09:31:53 +0000 2020,"WATCH: PTI's Khurram Sher Zaman speaks to media over Covid-19 situation 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,16
-485,dawn_com,Mon May 11 09:16:04 +0000 2020,"RT @dawn_images: Test your knowledge on #Manto on his 108th birth anniversary
-
-https://t.co/XND4LHyXJf https://t.co/RTAS0ff6uB",0.0,0.0,0.0,1.0,15
-486,dawn_com,Mon May 11 09:10:21 +0000 2020,"France emerges cautiously from coronavirus lockdown 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,14
-487,dawn_com,Mon May 11 09:05:01 +0000 2020,"Singapore's health ministry confirms 486 new coronavirus cases 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,13
-488,dawn_com,Mon May 11 08:59:17 +0000 2020,"All board exams are cancelled, says Shafqat Mahmood
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",-0.25,0.0,0.125,0.875,12
-489,dawn_com,Mon May 11 08:46:25 +0000 2020,"Sindh becomes first province to record over 12,000 cases 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,11
-490,dawn_com,Mon May 11 08:45:57 +0000 2020,"Sindh records 11 deaths, 537 new cases 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,10
-491,dawn_com,Mon May 11 08:23:51 +0000 2020,"EasyJet, Heathrow want early exit from UK quarantine rules 
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0772,0.08,0.0,0.92,9
-492,dawn_com,Mon May 11 08:20:18 +0000 2020,Breast milk from cotonavirus infected mothers may contain antibodies to the novel coronavirus that could be protect… https://t.co/8LMgVdNQmL,-0.2263,0.107,0.149,0.744,8
-493,dawn_com,Mon May 11 08:12:38 +0000 2020,"WATCH: Trump says he had ‘very little personal contact’ with valet who tested positive for Covid-19
-
-Follow our upd… https://t.co/qi5111qCiP",0.5574,0.159,0.0,0.841,7
-494,dawn_com,Mon May 11 08:05:15 +0000 2020,"VIDEO: How much surveillance in the name of coronavirus is too much?
-
-Follow our updates on #coronavirus here: https://t.co/vY4fVgAjuk",0.0,0.0,0.0,1.0,6
-495,dawn_com,Mon May 11 08:04:39 +0000 2020,"One report said the vessel had sunk after being hit by a missile fired by another Iranian warship.
-
-https://t.co/IJ7IpI3eFE",-0.6486,0.0,0.238,0.762,5
-496,dawn_com,Mon May 11 08:03:54 +0000 2020,"Iran's army confirmed the death of 19, saying in a statement that ""investigations"" were continuing regarding the ca… https://t.co/l2Uo1Q5q2U",-0.5994,0.0,0.178,0.822,4
-497,dawn_com,Mon May 11 07:45:45 +0000 2020,"RT @dawn_images: DC Naveed Ahmed said standard operating procedures (SOPs) were being devised in consultation with the #Kalash elders
-
-More…",0.0,0.0,0.0,1.0,3
-498,dawn_com,Mon May 11 07:45:30 +0000 2020,"RT @dawn_images: Adnan Siddiqui and Humayun Saeed respond to Naumaan Ijaz's comments
-
-Read: https://t.co/QsLSyRf2NV
-
-#AdnanSiddiqui #Naumaa…",0.0,0.0,0.0,1.0,2
-499,dawn_com,Mon May 11 07:45:08 +0000 2020,"RT @dawn_images: The illustration was created for the writer's 108th birthday by Pakistani artist, Shehzil Malik.
-
-More: https://t.co/gK48x…",0.25,0.105,0.0,0.895,1
+0,CBS,Sun May 31 17:23:02 +0000 2020,https://t.co/QupBjXGH3L,0.0,0.0,0.0,1.0,100
+1,CBS,Sat May 30 16:12:28 +0000 2020,"RT @etnow: Take a look back at the father-son dynamic between Sean Connery and Harrison Ford in 'Indiana Jones and the Last Crusade.' Then,…",0.3818,0.102,0.0,0.898,99
+2,CBS,Sat May 30 15:49:26 +0000 2020,"It's the special we all need right now. #HaircutNightCBS hosted by @RebeccaRomijn and @MrJerryOC, and featuring… https://t.co/UDxlppojlR",0.4019,0.144,0.0,0.856,98
+3,CBS,Sat May 30 01:04:41 +0000 2020,RT @RebeccaRomijn: Ta daaaaa!!!!  Thank you @MrJerryOC #HaircutNightCBS https://t.co/c23b5kcje6,0.5673,0.314,0.0,0.686,97
+4,CBS,Sat May 30 01:00:40 +0000 2020,Thanks for watching #HaircutNightCBS hosted by @RebeccaRomijn and @MrJerryOC. We hope that it inspires your most Zo… https://t.co/9w4UpI49E9,0.8271,0.367,0.0,0.633,96
+5,CBS,Sat May 30 01:00:20 +0000 2020,"Sorry, we didn't have time to do your haircut, too, Phil. #HaircutNightCBS https://t.co/RhUfRqIDAa",-0.0772,0.0,0.098,0.902,95
+6,CBS,Sat May 30 00:59:00 +0000 2020,This is the kind of drama we need on TV right now. #HaircutNightCBS https://t.co/zxLRlCVWgf,0.0,0.0,0.0,1.0,94
+7,CBS,Sat May 30 00:56:04 +0000 2020,"When you realize ""The Romijn Event"" is not what you thought it would be. You're a brave woman, @RebeccaRomijn.… https://t.co/L7fbJUj9aF",0.5267,0.152,0.0,0.848,93
+8,CBS,Sat May 30 00:52:43 +0000 2020,"When @RebeccaRomijn and @MrJerryOC signed on to do #HaircutNightCBS, they knew the stakes would be high. https://t.co/qEX6i6LBkR",0.0,0.0,0.0,1.0,92
+9,CBS,Sat May 30 00:51:54 +0000 2020,"We mean, Girl... We're blown away by @lindsaylohan's blowout for all of Dubai to see. #HaircutNightCBS https://t.co/S1GljdYX9q",0.0,0.0,0.0,1.0,91
+10,CBS,Sat May 30 00:47:31 +0000 2020,RT @MrJerryOC: Front Liners about to get their hair did!!!  #HaircutNightCBS https://t.co/0jFFSjUNdA,0.0,0.0,0.0,1.0,90
+11,CBS,Sat May 30 00:46:16 +0000 2020,"Today is a freaky Friday indeed, @lindsaylohan. #HaircutNightCBS https://t.co/DVeaqJMQwB",-0.3612,0.0,0.238,0.762,89
+12,CBS,Sat May 30 00:44:29 +0000 2020,"With or without a haircut, make sure you're looking around for frontline workers to thank for all they're doing.… https://t.co/DvAzsNCp3l",0.5859,0.211,0.0,0.789,88
+13,CBS,Sat May 30 00:35:15 +0000 2020,RT @RebeccaRomijn: Cutest couple!!!  Somebody’s getting a haircut!  @PKSubban1 @lindseyvonn #HaircutNightCBS https://t.co/mrjtOjU8F1,0.7156,0.311,0.0,0.689,87
+14,CBS,Sat May 30 00:33:03 +0000 2020,"Wait, how long have we been in quarantine? #HaircutNightCBS https://t.co/SKvtN5kl7h",0.0,0.0,0.0,1.0,86
+15,CBS,Sat May 30 00:30:18 +0000 2020,"Going for the haircut gold, @lindseyvonn &amp; @PKSubban1. #HaircutNightCBS https://t.co/X4UQh3xhyV",0.0,0.0,0.0,1.0,85
+16,CBS,Sat May 30 00:29:48 +0000 2020,RT @MrJerryOC: Um I love @KellyOsbourne That is all.  #HaircutNightCBS https://t.co/ebAMRyZFED,0.6369,0.296,0.0,0.704,84
+17,CBS,Sat May 30 00:25:14 +0000 2020,"RT @Kerri_Lauren: Okay, if Lindsey Vonn was coming at my with the buzzer like that, I’d be terrified, too #HaircutNightCBS",-0.1531,0.173,0.157,0.669,83
+18,CBS,Sat May 30 00:20:22 +0000 2020,"Oh, hey, Mrs. O. @MrsSOsbourne #HaircutNightCBS https://t.co/I5MYwoRR4W",0.0,0.0,0.0,1.0,82
+19,CBS,Sat May 30 00:19:42 +0000 2020,.@KellyOsbourne is living to dye another day. #HaircutNightCBS https://t.co/e3mwdyZ9Qn,0.0,0.0,0.0,1.0,81
+20,CBS,Sun May 31 17:23:02 +0000 2020,https://t.co/QupBjXGH3L,0.0,0.0,0.0,1.0,80
+21,CBS,Sat May 30 16:12:28 +0000 2020,"RT @etnow: Take a look back at the father-son dynamic between Sean Connery and Harrison Ford in 'Indiana Jones and the Last Crusade.' Then,…",0.3818,0.102,0.0,0.898,79
+22,CBS,Sat May 30 15:49:26 +0000 2020,"It's the special we all need right now. #HaircutNightCBS hosted by @RebeccaRomijn and @MrJerryOC, and featuring… https://t.co/UDxlppojlR",0.4019,0.144,0.0,0.856,78
+23,CBS,Sat May 30 01:04:41 +0000 2020,RT @RebeccaRomijn: Ta daaaaa!!!!  Thank you @MrJerryOC #HaircutNightCBS https://t.co/c23b5kcje6,0.5673,0.314,0.0,0.686,77
+24,CBS,Sat May 30 01:00:40 +0000 2020,Thanks for watching #HaircutNightCBS hosted by @RebeccaRomijn and @MrJerryOC. We hope that it inspires your most Zo… https://t.co/9w4UpI49E9,0.8271,0.367,0.0,0.633,76
+25,CBS,Sat May 30 01:00:20 +0000 2020,"Sorry, we didn't have time to do your haircut, too, Phil. #HaircutNightCBS https://t.co/RhUfRqIDAa",-0.0772,0.0,0.098,0.902,75
+26,CBS,Sat May 30 00:59:00 +0000 2020,This is the kind of drama we need on TV right now. #HaircutNightCBS https://t.co/zxLRlCVWgf,0.0,0.0,0.0,1.0,74
+27,CBS,Sat May 30 00:56:04 +0000 2020,"When you realize ""The Romijn Event"" is not what you thought it would be. You're a brave woman, @RebeccaRomijn.… https://t.co/L7fbJUj9aF",0.5267,0.152,0.0,0.848,73
+28,CBS,Sat May 30 00:52:43 +0000 2020,"When @RebeccaRomijn and @MrJerryOC signed on to do #HaircutNightCBS, they knew the stakes would be high. https://t.co/qEX6i6LBkR",0.0,0.0,0.0,1.0,72
+29,CBS,Sat May 30 00:51:54 +0000 2020,"We mean, Girl... We're blown away by @lindsaylohan's blowout for all of Dubai to see. #HaircutNightCBS https://t.co/S1GljdYX9q",0.0,0.0,0.0,1.0,71
+30,CBS,Sat May 30 00:47:31 +0000 2020,RT @MrJerryOC: Front Liners about to get their hair did!!!  #HaircutNightCBS https://t.co/0jFFSjUNdA,0.0,0.0,0.0,1.0,70
+31,CBS,Sat May 30 00:46:16 +0000 2020,"Today is a freaky Friday indeed, @lindsaylohan. #HaircutNightCBS https://t.co/DVeaqJMQwB",-0.3612,0.0,0.238,0.762,69
+32,CBS,Sat May 30 00:44:29 +0000 2020,"With or without a haircut, make sure you're looking around for frontline workers to thank for all they're doing.… https://t.co/DvAzsNCp3l",0.5859,0.211,0.0,0.789,68
+33,CBS,Sat May 30 00:35:15 +0000 2020,RT @RebeccaRomijn: Cutest couple!!!  Somebody’s getting a haircut!  @PKSubban1 @lindseyvonn #HaircutNightCBS https://t.co/mrjtOjU8F1,0.7156,0.311,0.0,0.689,67
+34,CBS,Sat May 30 00:33:03 +0000 2020,"Wait, how long have we been in quarantine? #HaircutNightCBS https://t.co/SKvtN5kl7h",0.0,0.0,0.0,1.0,66
+35,CBS,Sat May 30 00:30:18 +0000 2020,"Going for the haircut gold, @lindseyvonn &amp; @PKSubban1. #HaircutNightCBS https://t.co/X4UQh3xhyV",0.0,0.0,0.0,1.0,65
+36,CBS,Sat May 30 00:29:48 +0000 2020,RT @MrJerryOC: Um I love @KellyOsbourne That is all.  #HaircutNightCBS https://t.co/ebAMRyZFED,0.6369,0.296,0.0,0.704,64
+37,CBS,Sat May 30 00:25:14 +0000 2020,"RT @Kerri_Lauren: Okay, if Lindsey Vonn was coming at my with the buzzer like that, I’d be terrified, too #HaircutNightCBS",-0.1531,0.173,0.157,0.669,63
+38,CBS,Sat May 30 00:20:22 +0000 2020,"Oh, hey, Mrs. O. @MrsSOsbourne #HaircutNightCBS https://t.co/I5MYwoRR4W",0.0,0.0,0.0,1.0,62
+39,CBS,Sat May 30 00:19:42 +0000 2020,.@KellyOsbourne is living to dye another day. #HaircutNightCBS https://t.co/e3mwdyZ9Qn,0.0,0.0,0.0,1.0,61
+40,CBS,Sat May 30 00:16:41 +0000 2020,RT @RebeccaRomijn: Zexy @MrJerryOC sort of #HaircutNightCBS https://t.co/WdOCaQQDWA,0.0,0.0,0.0,1.0,60
+41,CBS,Sat May 30 00:13:29 +0000 2020,"Right you are, @KellyOsbourne. @MrsSOsbourne taught you well. #HaircutNightCBS https://t.co/zuekm7Evvw",0.2732,0.189,0.0,0.811,59
+42,CBS,Sat May 30 00:13:14 +0000 2020,RT @colket_dawn: #HaircutNightCBS is hilarious. @MrJerryOC and @RebeccaRomijn are an amazing couple. As someone who used to cut hair I am l…,0.6597,0.236,0.076,0.688,58
+43,CBS,Sat May 30 00:10:21 +0000 2020,"The special isn't called Pants Night in America, folks. #HaircutNightCBS https://t.co/hQN4d2Wra5",0.4019,0.213,0.0,0.787,57
+44,CBS,Sat May 30 00:10:04 +0000 2020,"Looking totally Efron, @MrJerryOC. Hope you're up to the task to style @RebeccaRomijn. #HaircutNightCBS https://t.co/RqUpx9i1Go",0.4877,0.184,0.0,0.816,56
+45,CBS,Sat May 30 00:06:18 +0000 2020,"Marriage is built on trust, but this seems like it warrants an additional vow at the wedding. #HaircutNightCBS https://t.co/RAGemoUsqn",0.6597,0.241,0.0,0.759,55
+46,CBS,Sat May 30 00:03:31 +0000 2020,"RT @CBSAllAccess: Join us to watch #HaircutNightCBS starting NOW on @CBS and #CBSAllAccess.
+
+Have you had a quarantine haircut? If so, we w…",0.296,0.091,0.0,0.909,54
+47,CBS,Sat May 30 00:02:47 +0000 2020,"It's like the rings of a tree trunk. Our roots mark how much time we've spent in quarantine, @RebeccaRomijn.… https://t.co/P0RYbLNS4L",0.3612,0.116,0.0,0.884,53
+48,CBS,Sat May 30 00:02:04 +0000 2020,"Haircuts, @MrJerryOC. We want haircuts. #HaircutNightCBS https://t.co/oi89Kmkpe9",0.0772,0.178,0.0,0.822,52
+49,CBS,Sat May 30 00:00:13 +0000 2020,"Shaggy Americans, #HaircutNightCBS hosted by @RebeccaRomijn and @MrJerryOC starts NOW on CBS. https://t.co/xJ75USnel5",0.0,0.0,0.0,1.0,51
+50,CBS,Fri May 29 23:39:14 +0000 2020,RT @RebeccaRomijn: Don’t be so afraid @MrJerryOC #HaircutNightCBS https://t.co/rkWYbPsPOf,0.0,0.0,0.0,1.0,50
+51,CBS,Fri May 29 23:28:40 +0000 2020,We hope #HaircutNightCBS turns out better for @RebeccaRomijn and @MrJerryOC than it did on @BandB_CBS. https://t.co/jTVALQRP2K,0.7003,0.293,0.0,0.707,49
+52,CBS,Fri May 29 23:08:15 +0000 2020,RT @Nickelodeon: Shoutout to our sister network @CBS for providing us with our Sunday night movie plans 🧡 https://t.co/UwZCuBfIcO,0.6369,0.181,0.0,0.819,48
+53,CBS,Fri May 29 22:29:44 +0000 2020,RT @CBSWatch: Talk about a pair of aces! The husband and wife team behind @thegoodfight and @evil are Hollywood’s reigning power couple. ❤️…,-0.69,0.0,0.169,0.831,47
+54,CBS,Fri May 29 22:23:13 +0000 2020,"""Hair's"" to a fun night, @MrJerryOC! #HaircutNightCBS is just about to begin at 8/7c on CBS and @CBSAllAccess. https://t.co/j1PyJMvsZT",0.5562,0.166,0.0,0.834,46
+55,CBS,Fri May 29 21:55:29 +0000 2020,Keep up with the Joneses when #CBSMovieNight airs Indiana Jones and the Last Crusade this Sunday at 8/7c on CBS and… https://t.co/8Cl8kgwrEH,0.0,0.0,0.0,1.0,45
+56,CBS,Fri May 29 21:45:27 +0000 2020,RT @MrJerryOC: Should have put this in our vows @RebeccaRomijn #HaircutNightCBS at 8 https://t.co/ZUvltVyaz0,0.0,0.0,0.0,1.0,44
+57,CBS,Fri May 29 21:36:49 +0000 2020,"RT @CBSAllAccess: Spend the weekend streaming the series premiere of @GameOn and all of season 4 of @TheGoodFight.
+Check out these shows an…",0.0,0.0,0.0,1.0,43
+58,CBS,Fri May 29 20:17:14 +0000 2020,"@TiVo We thought about doing #HaircutNightCBS last year, but we felt it didn't have the same impact. Now we think i… https://t.co/AgpCxrJR7k",0.0,0.0,0.0,1.0,42
+59,CBS,Fri May 29 20:05:16 +0000 2020,RT @MATTHEWHOFFMAN1: Ma’ friend @MrJerryOC is helping America one haircut at a time! Tune in tonight to Haircut In America at 8:00 on @CBS…,0.69,0.206,0.0,0.794,41
+60,CBS,Fri May 29 17:59:14 +0000 2020,RT @MrJerryOC: #HaircutNightCBS highlight was @lindseyvonn cutting @PKSubban1 hair and beard with guidance from Expert-Barber-Patrice.  Ton…,0.2263,0.134,0.084,0.782,40
+61,CBS,Fri May 29 17:58:48 +0000 2020,"RT @TheTalkCBS: .@CBS continues CBS Sunday night at the movies with Indiana Jones and the Last Crusade!
+
+🗣What are your special memories ab…",0.4574,0.115,0.0,0.885,39
+62,CBS,Fri May 29 17:30:46 +0000 2020,Watch @RebeccaRomijn &amp; @MrJerryOC host #HaircutNightCBS TONIGHT at 8pm/7c on CBS and @CBSAllAccess. https://t.co/aJ1ibXGhbQ,0.0,0.0,0.0,1.0,38
+63,CBS,Fri May 29 16:59:00 +0000 2020,X marks the spot for your TV Listings this weekend when #CBSMovieNight airs Indiana Jones and the Last Crusade this… https://t.co/aHboChPYyI,0.0,0.0,0.0,1.0,37
+64,CBS,Fri May 29 16:19:02 +0000 2020,"RT @ViacomCBS: See how this week’s @CBS Sunday Movie Night feature, “@IndianaJones and the Last Crusade,” is connected to another @Paramoun…",0.0,0.0,0.0,1.0,36
+65,CBS,Fri May 29 16:00:01 +0000 2020,"Get a haircut or dye trying. @MrJerryOC &amp; @RebeccaRomijn host #HaircutNightCBS, featuring @KellyOsbourne,… https://t.co/vWmVBD2c69",0.0,0.0,0.0,1.0,35
+66,CBS,Thu May 28 23:07:33 +0000 2020,Be a part of the adventure using these Zoom backgrounds as you watch #CBSMovieNight's presentation of Indiana Jones… https://t.co/PYEhCqhT6g,0.3182,0.113,0.0,0.887,34
+67,CBS,Thu May 28 21:37:13 +0000 2020,"RT @CBSThisMorning: Influential Asian-American figures tell us why they're proud of their heritage &amp; what it means to be #AAPI, especially…",0.7184,0.24,0.0,0.76,33
+68,CBS,Thu May 28 21:13:09 +0000 2020,"RT @thegoodfight: ""Just keeps getting better."" -@IndieWire
+All episodes of #TheGoodFight are now streaming, only on @CBSAllAccess. https://…",0.4404,0.146,0.0,0.854,32
+69,CBS,Thu May 28 19:57:47 +0000 2020,RT @MrJerryOC: #HaircutNightInAmerica Press Day on our rickety stairs...  @cbs TOMORROW! https://t.co/i7M8UpNc68,0.0,0.0,0.0,1.0,31
+70,CBS,Thu May 28 18:58:40 +0000 2020,".@MrJerryOC &amp; @RebeccaRomijn host #HaircutNightCBS, featuring America’s top hair stylists in an at-home DIY Celebri… https://t.co/IO81YkK657",0.2023,0.107,0.0,0.893,30
+71,CBS,Thu May 28 17:09:30 +0000 2020,"RT @CBSAllAccess: If you could talk to the dead, what would you say?  #TheThomasJohnExperience drops June 4th, only on CBS All Access. http…",-0.6486,0.0,0.163,0.837,29
+72,CBS,Thu May 28 16:47:24 +0000 2020,RT @katjaherbers: The cast of @evil got together to support @frontlinefoods ❤️ We donated meals cooked by locally owned restaurants impacte…,-0.4019,0.1,0.162,0.738,28
+73,CBS,Thu May 28 16:13:35 +0000 2020,"RT @ToughAsNailsCBS: They're everyday Americans who get their hands dirty while working long, hard hours to keep the country running— meet…",-0.5106,0.0,0.185,0.815,27
+74,CBS,Thu May 28 13:37:30 +0000 2020,.@HarryConnickJR hosts UNITED WE SING: A GRAMMY® SALUTE TO THE UNSUNG HEROES with performances &amp; appearances by… https://t.co/R1VYYKkyKx,0.8208,0.308,0.0,0.692,26
+75,CBS,Thu May 28 03:13:39 +0000 2020,RT @Coolio: #Tune in for the #premiere of @gameon on @CBS the #best #gameshow out here yeah I said it.. #games #tvshow #fun #laugh @KeeganM…,0.9231,0.388,0.0,0.612,25
+76,CBS,Thu May 28 00:13:05 +0000 2020,RT @gameon: That pretty much sums it up. #GameOn https://t.co/1PxvmuE9PK,0.4939,0.262,0.0,0.738,24
+77,CBS,Thu May 28 00:02:12 +0000 2020,RT @RobGronkowski: #GameOn starts right now on CBS! Time for #TeamGronk to do some work! https://t.co/MCm75WfxTU,0.0,0.0,0.0,1.0,23
+78,CBS,Thu May 28 00:02:08 +0000 2020,RT @Venuseswilliams: @GameOn starts right NOW. Retweet if you’re watching with us! https://t.co/8gN26vwrrC,0.0,0.0,0.0,1.0,22
+79,CBS,Thu May 28 00:01:56 +0000 2020,RT @KeeganMKey: @gameon premieres right now on @CBS! There’s so much good stuff in tonight’s episode but the thing I’m most excited about i…,0.7114,0.212,0.0,0.788,21
+80,CBS,Thu May 28 00:00:44 +0000 2020,RT @gameon: Ready...set...go! #GameOn premieres NOW! https://t.co/ZFMlRR01Ja,0.0,0.0,0.0,1.0,20
+81,CBS,Wed May 27 23:59:27 +0000 2020,RT @TheTalkCBS: Hosts @SherylUnderwood and @MarieOsmond compete against @GameOn's @RobGronkowski in a relay race game of “Pony Up” with @th…,0.0,0.0,0.0,1.0,19
+82,CBS,Wed May 27 23:52:27 +0000 2020,"RT @Venuseswilliams: I'm honored to be your captain tonight, @TheRealJRSmith! See you all for @GameOn at 8p on CBS! https://t.co/r8rUT4UA9T",0.658,0.187,0.0,0.813,18
+83,CBS,Wed May 27 23:50:45 +0000 2020,"RT @CBSWatch: It's #GameOn for @KeeganMKey! The multi-hyphenate host of @CBS' new reality series @gameon talks sports, his hilarious and un…",0.4574,0.13,0.0,0.87,17
+84,CBS,Wed May 27 23:32:32 +0000 2020,Get ready for the #GameOn premiere at 8/7c on CBS and @CBSAllAccess. https://t.co/8zSex6erBr,0.3612,0.172,0.0,0.828,16
+85,CBS,Wed May 27 23:02:25 +0000 2020,"Hey, @RobGronkowski and @Venuseswilliams, you ready to live tweet? #GameOn https://t.co/8gJApmibdM",0.3612,0.2,0.0,0.8,15
+86,CBS,Wed May 27 18:46:15 +0000 2020,RT @SEALTeamCBS: Missing #SEALTeam? Watch some of @David_Boreanaz's favorite episodes: https://t.co/pS0toXZEX5,0.2023,0.211,0.155,0.634,14
+87,CBS,Wed May 27 17:16:45 +0000 2020,Celebrate #AsianPacificAmericanHeritageMonth with @CBSNews' @Elaine_Quijano and CBS. https://t.co/bLRQUtjXVG,0.5719,0.346,0.0,0.654,13
+88,CBS,Wed May 27 17:08:26 +0000 2020,Watch the series premiere of @GameOn TONIGHT at 8/7c on CBS and @CBSAllAccess. https://t.co/FxIX023GcL,0.0,0.0,0.0,1.0,12
+89,CBS,Wed May 27 17:00:18 +0000 2020,"RT @colbertlateshow: .@KeeganMKey is having a blast hosting @gameon, even when he’s upside down in monster truck! Check out the series prem…",0.0,0.0,0.0,1.0,11
+90,CBS,Wed May 27 16:53:00 +0000 2020,@gameon @IanKarmel @Venuseswilliams @TheRealJRSmith @fluffyguy @RobGronkowski @bobbyleelive @KeeganMKey This counts… https://t.co/2uCZcfNeHc,0.0,0.0,0.0,1.0,10
+91,CBS,Wed May 27 01:12:45 +0000 2020,"@MrJerryOC @RebeccaRomijn @CBSAllAccess Spoiler alert there, Jerry. 😉
+Hair's to a great Friday #HaircutNightCBS!",0.7644,0.336,0.0,0.664,9
+92,CBS,Wed May 27 01:11:20 +0000 2020,RT @sj39: Roll with it or something different; what's your endzone dance? Catch me tomorrow on the @gameon premiere on @CBS to watch me wit…,0.0,0.0,0.0,1.0,8
+93,CBS,Wed May 27 01:10:44 +0000 2020,RT @MrJerryOC: We official now!  We got a hashtag!  #HaircutNightCBS tune in Friday to watch me burn @RebeccaRomijn hair off!  @cbs @CBSAll…,0.0,0.0,0.0,1.0,7
+94,CBS,Tue May 26 23:13:19 +0000 2020,"RT @amblin: Have the time of your life catching up with the Jones boys on the LAST CRUSADE, this Sunday, prime time, on @CBS and @CBSAllAcc…",0.0,0.0,0.0,1.0,6
+95,CBS,Tue May 26 21:21:57 +0000 2020,RT @CBSThisMorning: TOMORROW: @GayleKing talks to @RobGronkowski and @Venuseswilliams ahead of their debut together on the new @CBS game sh…,0.0,0.0,0.0,1.0,5
+96,CBS,Tue May 26 18:44:27 +0000 2020,It's the TV special we all need right now. Watch Haircut Night in America hosted by @RebeccaRomijn and @MrJerryOC t… https://t.co/jPatco0AZ3,0.4019,0.119,0.0,0.881,4
+97,CBS,Mon May 25 23:00:01 +0000 2020,"Join Indy on the quest of a lifetime when #CBSMovieNight airs Indiana Jones and the Last Crusade this Sunday, May 3… https://t.co/w2mBL9mZ6d",0.296,0.095,0.0,0.905,3
+98,CBS,Mon May 25 21:00:10 +0000 2020,"RT @gameon: From top to bottom, this season's lineup of #GameOn talent is nothing but heavy hitters! https://t.co/ck0r6btiPS",0.3802,0.183,0.0,0.817,2
+99,CBS,Mon May 25 16:00:01 +0000 2020,Be kind to yourself and to others during these uncertain times. Stay connected. #AloneTogether https://t.co/o19ltOS17o,0.296,0.183,0.118,0.699,1
+100,CTVNews,Thu Jun 04 03:59:34 +0000 2020,"Freeland says Canadians in Hong Kong are 'very, very welcome' to come home https://t.co/BtecDEfeqL https://t.co/aT8C4DS9jO",0.5531,0.203,0.0,0.797,100
+101,CTVNews,Thu Jun 04 03:45:02 +0000 2020,This man sheltered dozens of protesters in his home to protect them from arrest https://t.co/y2XF9pfaGz https://t.co/DaSKFyxAyf,-0.1779,0.131,0.216,0.653,99
+102,CTVNews,Thu Jun 04 03:29:22 +0000 2020,"If Trudeau won't stand up to Trump, how will regular people: Singh https://t.co/ZtEaLbC2kk https://t.co/0A4S2eza6E",0.0,0.0,0.0,1.0,98
+103,CTVNews,Thu Jun 04 03:15:01 +0000 2020,"Mexico reports new one-day high of 1,092 coronavirus deaths https://t.co/YOrpMrJ6va https://t.co/S3vKRu1BPh",0.0,0.0,0.0,1.0,97
+104,CTVNews,Thu Jun 04 03:14:53 +0000 2020,A billboard along a highway outside Edmonton is attracting attention as the butt of jokes online https://t.co/BjRc3L0V2g,0.6249,0.254,0.0,0.746,96
+105,CTVNews,Thu Jun 04 02:59:35 +0000 2020,"'Daddy changed the world,' says George Floyd's daughter in touching video https://t.co/ZSLGIqA4me https://t.co/8ogpvEoX17",0.0,0.0,0.0,1.0,95
+106,CTVNews,Thu Jun 04 02:51:31 +0000 2020,"It's travelling at 11 kilometres per second, it's up to 570 metres wide, and in a few days it will come close to Ea… https://t.co/gLpsaD5iXw",0.0,0.0,0.0,1.0,94
+107,CTVNews,Thu Jun 04 02:45:02 +0000 2020,Scientists learn how tiny critters make ocean 'snot palaces' https://t.co/ytSWnUgTct https://t.co/o71YCiVYPU,0.0,0.0,0.0,1.0,93
+108,CTVNews,Thu Jun 04 02:32:43 +0000 2020,"As COVID-19 stress builds, study warns of potential spike in suicides https://t.co/nrl0taNAT4 https://t.co/go8lrc96ln",-0.4939,0.0,0.276,0.724,92
+109,CTVNews,Thu Jun 04 02:29:20 +0000 2020,Will COVID-19 make big weddings a thing of the past? Industry experts say no https://t.co/4pecVo75Cp https://t.co/wFy1z1A3i2,-0.296,0.0,0.128,0.872,91
+110,CTVNews,Thu Jun 04 02:15:02 +0000 2020,"MLB rejects 114-game schedule, threatens plan of about 50 https://t.co/UhM6aOzCth https://t.co/flyS3evMDb",-0.7003,0.0,0.392,0.608,90
+111,CTVNews,Thu Jun 04 01:59:31 +0000 2020,'Searching for the guilty': Armenian PM asks citizens to share photos of pandemic rule breakers… https://t.co/9XERu2KrBU,-0.1531,0.116,0.147,0.737,89
+112,CTVNews,Thu Jun 04 01:53:59 +0000 2020,This Alberta fisherman suffered a cracked rib while reeling in a 77-kilogram sturgeon https://t.co/dc4716kpVS,-0.4939,0.0,0.198,0.802,88
+113,CTVNews,Thu Jun 04 01:47:29 +0000 2020,'Of course there's systemic racism in Canada': Ont. premier changes his tune after criticism https://t.co/PVejgMVdEx,-0.7906,0.0,0.35,0.65,87
+114,CTVNews,Thu Jun 04 01:45:02 +0000 2020,"Girl, 8, tortured to death in Pakistan for releasing pet parrots, police say https://t.co/QsNEvAQJrf https://t.co/paIhPZZLC0",-0.8176,0.0,0.366,0.634,86
+115,CTVNews,Thu Jun 04 01:29:20 +0000 2020,'This is a public record': These are the pandemic moments Canadians are documenting https://t.co/NQrbRjQtNK https://t.co/ugMDRiRczQ,0.0,0.0,0.0,1.0,85
+116,CTVNews,Thu Jun 04 01:15:01 +0000 2020,"Nunavut RCMP to consider body cameras as tension between police, Inuit grows https://t.co/bZnZu5S9vT https://t.co/C19oFFCDhm",-0.3182,0.0,0.15,0.85,84
+117,CTVNews,Thu Jun 04 00:59:32 +0000 2020,Creator fires 'Law &amp; Order' spin-off writer for online posts https://t.co/xGOIr5ncdv https://t.co/5kHcgc011b,0.0,0.0,0.0,1.0,83
+118,CTVNews,Thu Jun 04 00:45:01 +0000 2020,"No difference between racism in Canada and the U.S., activists say https://t.co/3X9RAPe9Ko https://t.co/39wzIEI91A",-0.743,0.0,0.364,0.636,82
+119,CTVNews,Thu Jun 04 00:40:49 +0000 2020,"A man has been arrested for allegedly selling homemade dynamite in Philadelphia, where 50 ATMs have exploded in rec… https://t.co/AIGIcULSlV",-0.34,0.075,0.136,0.789,81
+120,CTVNews,Thu Jun 04 03:59:34 +0000 2020,"Freeland says Canadians in Hong Kong are 'very, very welcome' to come home https://t.co/BtecDEfeqL https://t.co/aT8C4DS9jO",0.5531,0.203,0.0,0.797,80
+121,CTVNews,Thu Jun 04 03:45:02 +0000 2020,This man sheltered dozens of protesters in his home to protect them from arrest https://t.co/y2XF9pfaGz https://t.co/DaSKFyxAyf,-0.1779,0.131,0.216,0.653,79
+122,CTVNews,Thu Jun 04 03:29:22 +0000 2020,"If Trudeau won't stand up to Trump, how will regular people: Singh https://t.co/ZtEaLbC2kk https://t.co/0A4S2eza6E",0.0,0.0,0.0,1.0,78
+123,CTVNews,Thu Jun 04 03:15:01 +0000 2020,"Mexico reports new one-day high of 1,092 coronavirus deaths https://t.co/YOrpMrJ6va https://t.co/S3vKRu1BPh",0.0,0.0,0.0,1.0,77
+124,CTVNews,Thu Jun 04 03:14:53 +0000 2020,A billboard along a highway outside Edmonton is attracting attention as the butt of jokes online https://t.co/BjRc3L0V2g,0.6249,0.254,0.0,0.746,76
+125,CTVNews,Thu Jun 04 02:59:35 +0000 2020,"'Daddy changed the world,' says George Floyd's daughter in touching video https://t.co/ZSLGIqA4me https://t.co/8ogpvEoX17",0.0,0.0,0.0,1.0,75
+126,CTVNews,Thu Jun 04 02:51:31 +0000 2020,"It's travelling at 11 kilometres per second, it's up to 570 metres wide, and in a few days it will come close to Ea… https://t.co/gLpsaD5iXw",0.0,0.0,0.0,1.0,74
+127,CTVNews,Thu Jun 04 02:45:02 +0000 2020,Scientists learn how tiny critters make ocean 'snot palaces' https://t.co/ytSWnUgTct https://t.co/o71YCiVYPU,0.0,0.0,0.0,1.0,73
+128,CTVNews,Thu Jun 04 02:32:43 +0000 2020,"As COVID-19 stress builds, study warns of potential spike in suicides https://t.co/nrl0taNAT4 https://t.co/go8lrc96ln",-0.4939,0.0,0.276,0.724,72
+129,CTVNews,Thu Jun 04 02:29:20 +0000 2020,Will COVID-19 make big weddings a thing of the past? Industry experts say no https://t.co/4pecVo75Cp https://t.co/wFy1z1A3i2,-0.296,0.0,0.128,0.872,71
+130,CTVNews,Thu Jun 04 02:15:02 +0000 2020,"MLB rejects 114-game schedule, threatens plan of about 50 https://t.co/UhM6aOzCth https://t.co/flyS3evMDb",-0.7003,0.0,0.392,0.608,70
+131,CTVNews,Thu Jun 04 01:59:31 +0000 2020,'Searching for the guilty': Armenian PM asks citizens to share photos of pandemic rule breakers… https://t.co/9XERu2KrBU,-0.1531,0.116,0.147,0.737,69
+132,CTVNews,Thu Jun 04 01:53:59 +0000 2020,This Alberta fisherman suffered a cracked rib while reeling in a 77-kilogram sturgeon https://t.co/dc4716kpVS,-0.4939,0.0,0.198,0.802,68
+133,CTVNews,Thu Jun 04 01:47:29 +0000 2020,'Of course there's systemic racism in Canada': Ont. premier changes his tune after criticism https://t.co/PVejgMVdEx,-0.7906,0.0,0.35,0.65,67
+134,CTVNews,Thu Jun 04 01:45:02 +0000 2020,"Girl, 8, tortured to death in Pakistan for releasing pet parrots, police say https://t.co/QsNEvAQJrf https://t.co/paIhPZZLC0",-0.8176,0.0,0.366,0.634,66
+135,CTVNews,Thu Jun 04 01:29:20 +0000 2020,'This is a public record': These are the pandemic moments Canadians are documenting https://t.co/NQrbRjQtNK https://t.co/ugMDRiRczQ,0.0,0.0,0.0,1.0,65
+136,CTVNews,Thu Jun 04 01:15:01 +0000 2020,"Nunavut RCMP to consider body cameras as tension between police, Inuit grows https://t.co/bZnZu5S9vT https://t.co/C19oFFCDhm",-0.3182,0.0,0.15,0.85,64
+137,CTVNews,Thu Jun 04 00:59:32 +0000 2020,Creator fires 'Law &amp; Order' spin-off writer for online posts https://t.co/xGOIr5ncdv https://t.co/5kHcgc011b,0.0,0.0,0.0,1.0,63
+138,CTVNews,Thu Jun 04 00:45:01 +0000 2020,"No difference between racism in Canada and the U.S., activists say https://t.co/3X9RAPe9Ko https://t.co/39wzIEI91A",-0.743,0.0,0.364,0.636,62
+139,CTVNews,Thu Jun 04 00:40:49 +0000 2020,"A man has been arrested for allegedly selling homemade dynamite in Philadelphia, where 50 ATMs have exploded in rec… https://t.co/AIGIcULSlV",-0.34,0.075,0.136,0.789,61
+140,CTVNews,Thu Jun 04 00:29:20 +0000 2020,Pregnant elephant dies in India after eating explosive fruit trap https://t.co/NBArQZJHjU https://t.co/iGTEnYKiia,-0.3182,0.0,0.173,0.827,60
+141,CTVNews,Thu Jun 04 00:24:30 +0000 2020,"Businesses in B.C.'s Columbia Valley are happy to see Alberta licence plates again, even though both provinces are… https://t.co/uClwsP0gpb",0.5719,0.171,0.0,0.829,59
+142,CTVNews,Thu Jun 04 00:15:53 +0000 2020,German man identified as suspect in Madeleine McCann case https://t.co/cYXP8cbXTN https://t.co/AaERzKzaAI,-0.296,0.0,0.18,0.82,58
+143,CTVNews,Thu Jun 04 00:08:23 +0000 2020,RT @rachaiello: EXCLUSIVE: Conservative leadership candidate and MP Derek Sloan is accusing the Liberals and Prime Minister Justin Trudeau…,0.1363,0.107,0.081,0.812,57
+144,CTVNews,Wed Jun 03 23:59:59 +0000 2020,Snapchat to stop promoting Trump after controversial posts https://t.co/px1AMcLlJ0 https://t.co/ijHgldMSPh,-0.128,0.185,0.296,0.519,56
+145,CTVNews,Wed Jun 03 23:54:23 +0000 2020,Alberta government moving to defend against federal 'gun grab' https://t.co/Vgcl8xvNh3 https://t.co/H7xUHT3cv6,-0.34,0.0,0.194,0.806,55
+146,CTVNews,Wed Jun 03 23:45:01 +0000 2020,"Freeland says Canadians in Hong Kong are 'very, very welcome' to come home https://t.co/1cxV32sXyT https://t.co/ZAJFmYulBQ",0.5531,0.203,0.0,0.797,54
+147,CTVNews,Wed Jun 03 23:29:18 +0000 2020,This is what you can expect from gyms as they begin to reopen https://t.co/BVcA85emlE https://t.co/2gV8r1bsDE,0.0,0.0,0.0,1.0,53
+148,CTVNews,Wed Jun 03 23:19:36 +0000 2020,The COVID-19 pandemic has lawyers closely analyzing the oft-ignored clauses in legal agreements that cover 'acts of… https://t.co/dofJtln1wk,0.3818,0.184,0.0,0.816,52
+149,CTVNews,Wed Jun 03 23:16:58 +0000 2020,Sloan accuses Liberals of 'effectively putting into law child abuse' with conversion therapy bill https://t.co/RFPDxLrZZW,-0.5719,0.135,0.307,0.558,51
+150,CTVNews,Wed Jun 03 23:15:01 +0000 2020,"If Trudeau won't stand up to Trump, how will regular people: Singh https://t.co/wZWs8k7GQu https://t.co/cJfuOf6Yyc",0.0,0.0,0.0,1.0,50
+151,CTVNews,Wed Jun 03 23:11:45 +0000 2020,"22 new cases of COVID-19 in B.C., 1 more death in last 24 hours https://t.co/stWK6uj0aa",-0.6361,0.0,0.23,0.77,49
+152,CTVNews,Wed Jun 03 22:59:28 +0000 2020,"'Daddy changed the world,' says George Floyd's daughter in touching video https://t.co/ExAWyHPQrC https://t.co/qDyn3hW6bB",0.0,0.0,0.0,1.0,48
+153,CTVNews,Wed Jun 03 22:45:01 +0000 2020,This man sheltered dozens of protesters in his home to protect them from arrest https://t.co/nGLzWsJPCc https://t.co/20O4IAwKcw,-0.1779,0.131,0.216,0.653,47
+154,CTVNews,Wed Jun 03 22:37:39 +0000 2020,'Like a bad dream': Sister convinced online romance scam took more than her brother's savings… https://t.co/059uplqiXD,0.3818,0.386,0.257,0.357,46
+155,CTVNews,Wed Jun 03 22:29:17 +0000 2020,Bank of Canada keeps key interest rate target on hold https://t.co/6EzHMtr5eX https://t.co/RAmUYqjKbT,0.4588,0.214,0.0,0.786,45
+156,CTVNews,Wed Jun 03 22:26:46 +0000 2020,"Wedding planners say the COVID-19 pandemic won't cause us to rethink the traditional big, splashy ceremonies https://t.co/9K4gfdGu3F",0.0,0.0,0.0,1.0,44
+157,CTVNews,Wed Jun 03 22:15:01 +0000 2020,Two-time Olympic gold medallist Haley Irwin retires from national hockey team https://t.co/OvgeMd0GGw https://t.co/bk1GRfj8N9,0.0,0.0,0.0,1.0,43
+158,CTVNews,Wed Jun 03 22:15:00 +0000 2020,"""There's something different here"": Former U.S. president Barack Obama looked back at protests in the 1960s, saying… https://t.co/MwtoeAkwCf",-0.2263,0.0,0.101,0.899,42
+159,CTVNews,Wed Jun 03 22:00:44 +0000 2020,"Alberta confirms 19 cases of COVID-19 after nearly 5,000 tests https://t.co/dOWFpkzGz3  undefined",0.0,0.0,0.0,1.0,41
+160,CTVNews,Wed Jun 03 22:00:01 +0000 2020,Here's equity consultant @mskikeojo on why she thinks it's time to move beyond just being an ally to the black comm… https://t.co/KARHOVqMdu,0.0,0.0,0.0,1.0,40
+161,CTVNews,Wed Jun 03 21:59:25 +0000 2020,Police officer fatally shot at Alabama motel; 2 in custody https://t.co/IESB9QwxsJ https://t.co/zWJCOGmTJy,-0.6369,0.0,0.276,0.724,39
+162,CTVNews,Wed Jun 03 21:45:11 +0000 2020,Former U.S. president Barack Obama addressed the George Floyd protests throughout the United States and made a dire… https://t.co/CVhW9zx3zF,0.2263,0.129,0.088,0.783,38
+163,CTVNews,Wed Jun 03 21:45:01 +0000 2020,'Searching for the guilty': Armenian PM asks citizens to share photos of pandemic rule breakers… https://t.co/HPAqqrO1d1,-0.1531,0.116,0.147,0.737,37
+164,CTVNews,Wed Jun 03 21:36:11 +0000 2020,Ontario premier says COVID-19 tests of NHL players would be handled in private labs https://t.co/Apjv3w6mM1 https://t.co/bEMk3UIUNe,0.0,0.0,0.0,1.0,36
+165,CTVNews,Wed Jun 03 21:36:07 +0000 2020,Police say an eight-year-old girl illegally hired as a maid in Pakistan was killed for letting her employers' pet p… https://t.co/QEnRbEbtbS,-0.6705,0.0,0.184,0.816,35
+166,CTVNews,Wed Jun 03 21:29:17 +0000 2020,'This is a public record': These are the pandemic moments Canadians are documenting https://t.co/lPrdOKGVtW https://t.co/IIn2cRKAp0,0.0,0.0,0.0,1.0,34
+167,CTVNews,Wed Jun 03 21:18:19 +0000 2020,WATCH LIVE: Former U.S. president Barack Obama holds town hall on protests in light of George Floyd’s death.… https://t.co/JJsZyWD8yT,-0.2263,0.0,0.095,0.905,33
+168,CTVNews,Wed Jun 03 21:15:01 +0000 2020,Sacramento Kings broadcaster resigns after tweet to Cousins https://t.co/6uyoQKyUiL https://t.co/idkFlZvGSj,-0.3182,0.0,0.204,0.796,32
+169,CTVNews,Wed Jun 03 21:06:17 +0000 2020,RCMP officers in Nunavut may start wearing body cameras https://t.co/YV6tR9SD2q,0.0,0.0,0.0,1.0,31
+170,CTVNews,Wed Jun 03 21:02:25 +0000 2020,"Man goes berserk in Colwood, B.C., after drive-thru forgets mustard on burger https://t.co/nBPWPNzHUa https://t.co/5s8J6e8Iwc",0.0,0.0,0.0,1.0,30
+171,CTVNews,Wed Jun 03 20:59:24 +0000 2020,NFL tells teams they must hold training camps at home https://t.co/EGG99u83it https://t.co/QUjXfjYV7I,0.0,0.0,0.0,1.0,29
+172,CTVNews,Wed Jun 03 20:45:01 +0000 2020,"Ukraine soccer club has 25 virus cases among players, staff https://t.co/0yGuEYSZxV https://t.co/JRqvqJp5PC",0.0,0.0,0.0,1.0,28
+173,CTVNews,Wed Jun 03 20:29:14 +0000 2020,"No difference between racism in Canada and the U.S., activists say https://t.co/HhSs9UEPV6 https://t.co/9HaVBhsyIl",-0.743,0.0,0.364,0.636,27
+174,CTVNews,Wed Jun 03 20:15:02 +0000 2020,Pregnant elephant dies in India after eating explosive fruit trap https://t.co/h7Qy6Iy9ks https://t.co/gdhLiZSLcU,-0.3182,0.0,0.173,0.827,26
+175,CTVNews,Wed Jun 03 19:59:22 +0000 2020,Scientists learn how tiny critters make ocean 'snot palaces' https://t.co/xzaLa8SDVx https://t.co/TzzFyD1BIP,0.0,0.0,0.0,1.0,25
+176,CTVNews,Wed Jun 03 19:51:11 +0000 2020,German man identified as suspect in Madeleine McCann case https://t.co/vBCgfqvnO5,-0.296,0.0,0.196,0.804,24
+177,CTVNews,Wed Jun 03 19:50:30 +0000 2020,"White House Press Secretary Kayleigh McEnany compared U.S. President Trump's walk to a historic church, which saw a… https://t.co/mHnXGsSqto",0.0,0.0,0.0,1.0,23
+178,CTVNews,Wed Jun 03 19:47:08 +0000 2020,ICYMI: Honda recalls 1.4M vehicles worldwide to fix faulty fuel pumps https://t.co/aKAhdJzUmc,-0.3182,0.0,0.173,0.827,22
+179,CTVNews,Wed Jun 03 19:45:02 +0000 2020,Creator fires 'Law &amp; Order' spin-off writer for online posts https://t.co/G9iWJJfiof https://t.co/0jAnZPofx7,0.0,0.0,0.0,1.0,21
+180,CTVNews,Wed Jun 03 19:29:14 +0000 2020,This is what you can expect from gyms as they begin to reopen https://t.co/8BC2FaYJpY https://t.co/vnco275zw6,0.0,0.0,0.0,1.0,20
+181,CTVNews,Wed Jun 03 19:26:39 +0000 2020,"Hydroxychloroquine not effective in preventing COVID-19 in people exposed to virus, new Canadian-led study finds… https://t.co/GEgpSXXtRM",-0.4176,0.06,0.215,0.725,19
+182,CTVNews,Wed Jun 03 19:15:02 +0000 2020,"5 things to know for Wednesday, June 3, 2020 https://t.co/v4vukUMbFS https://t.co/CNp7W4lSFw",0.0,0.0,0.0,1.0,18
+183,CTVNews,Wed Jun 03 19:02:43 +0000 2020,Ontario city considered COVID-19 hot spot warns 'reckless' backyard parties need to stop https://t.co/v0xRdeR4BD  h… https://t.co/wQ4EII8neG,-0.3818,0.129,0.3,0.571,17
+184,CTVNews,Wed Jun 03 18:59:20 +0000 2020,Mayor: NYC has taken 'step forward' in restoring order https://t.co/JceOAhDUqn https://t.co/WDVeBHD6K8,0.296,0.18,0.0,0.82,16
+185,CTVNews,Wed Jun 03 18:56:11 +0000 2020,"'Daddy changed the world,' says George Floyd's daughter in touching video https://t.co/uzGcwNKF0E",0.0,0.0,0.0,1.0,15
+186,CTVNews,Wed Jun 03 18:54:00 +0000 2020,All four former officers involved in George Floyd's killing now face charges: senator https://t.co/t4ElOiGtVO,-0.7579,0.0,0.351,0.649,14
+187,CTVNews,Wed Jun 03 18:46:31 +0000 2020,Snapchat will no longer promote U.S. President Donald Trump's account on its platform in the wake of his controvers… https://t.co/p4lkyCIb8g,-0.5242,0.0,0.196,0.804,13
+188,CTVNews,Wed Jun 03 18:45:01 +0000 2020,"Wuhan tests 10 million people, finds few infections https://t.co/huExjOWZH6 https://t.co/mAvxMmZ64m",0.0,0.0,0.0,1.0,12
+189,CTVNews,Wed Jun 03 18:40:40 +0000 2020,"The hundreds of thousands of Canadians currently living in Hong Kong are 'very, very welcome' to come home anytime,… https://t.co/A9ffUUbPOT",0.5531,0.158,0.0,0.842,11
+190,CTVNews,Wed Jun 03 18:36:22 +0000 2020,Small cluster of new COVID-19 cases linked to temporary foreign workers: Manitoba health officials… https://t.co/6OQl30i0He,0.0,0.0,0.0,1.0,10
+191,CTVNews,Wed Jun 03 18:31:22 +0000 2020,"P.K. Subban donates US$50K to charity for George Floyd's daughter, says NHL matched https://t.co/g6LuLd3oAg",0.4215,0.177,0.0,0.823,9
+192,CTVNews,Wed Jun 03 18:30:00 +0000 2020,This man sheltered dozens of protesters in his home to protect them from arrest https://t.co/d66zBnzpSt https://t.co/WL8eh4xbCj,-0.1779,0.131,0.216,0.653,8
+193,CTVNews,Wed Jun 03 18:15:02 +0000 2020,Bank of Canada keeps key interest rate target on hold https://t.co/LDIUOzSXgi https://t.co/ZyHD0NbPy8,0.4588,0.214,0.0,0.786,7
+194,CTVNews,Wed Jun 03 18:03:28 +0000 2020,Watch LIVE updates from cities and provinces across Canada for the latest on the battle against COVID-19:… https://t.co/4Sk4BdEWjs,-0.3818,0.0,0.133,0.867,6
+195,CTVNews,Wed Jun 03 17:59:20 +0000 2020,Police officer fatally shot at Alabama motel; 2 in custody https://t.co/OaDWITkLDv https://t.co/m72rUEEgOw,-0.6369,0.0,0.276,0.724,5
+196,CTVNews,Wed Jun 03 17:49:02 +0000 2020,College football star from Calgary contracts novel coronavirus while protesting stateside https://t.co/F5FVHR8z3d… https://t.co/pzX3rRLRmc,-0.128,0.143,0.174,0.683,4
+197,CTVNews,Wed Jun 03 17:45:01 +0000 2020,Trudeau positions Canada as champion of co-ordinated global recovery plan https://t.co/ckqR3Iqa7e https://t.co/sfXurh5L7a,0.5994,0.262,0.0,0.738,3
+198,CTVNews,Wed Jun 03 17:33:01 +0000 2020,"Military ends mission to recover Cyclone helicopter crash wreckage, remains https://t.co/A1LDRQTiCe https://t.co/eBPwAgYUAV",-0.4019,0.0,0.197,0.803,2
+199,CTVNews,Wed Jun 03 17:32:14 +0000 2020,Als head coach Jones says he received death threats as CFL player in Winnipeg https://t.co/oqVdi8araX https://t.co/HYFIlSiOY6,-0.7717,0.0,0.324,0.676,1
+200,CNN,Thu Jun 04 04:10:00 +0000 2020,"New Orleans Saints QB Drew Brees is facing backlash after saying he will ""never agree with anybody disrespecting th… https://t.co/4s0D8LJcLb",-0.2755,0.0,0.1,0.9,100
+201,CNN,Thu Jun 04 04:03:13 +0000 2020,"Floyd family attorney Benjamin Crump says his clients believe ""that first degree murder should have been the charge… https://t.co/kfRxOStCmJ",-0.6908,0.0,0.207,0.793,99
+202,CNN,Thu Jun 04 04:01:04 +0000 2020,The White House posted and then deleted a tweet on Wednesday that falsely suggested a synagogue's rock-filled anti-… https://t.co/g0OnWXUl72,0.0,0.0,0.0,1.0,98
+203,CNN,Thu Jun 04 03:46:04 +0000 2020,"This President has shown little, if any, interest in personal piety, famously saying he's never asked God for forgi… https://t.co/LEsTEqbE0M",0.2317,0.121,0.08,0.798,97
+204,CNN,Thu Jun 04 03:41:03 +0000 2020,The NBA's Board of Governors is expected to approve a league proposal that would restart the season in Orlando util… https://t.co/Ed92FUIVwf,0.0,0.0,0.0,1.0,96
+205,CNN,Thu Jun 04 03:36:07 +0000 2020,"Drew Brees, the popular New Orleans Saints quarterback, caught heat from the likes of LeBron James and his own team… https://t.co/QbSxzFilLZ",0.6808,0.228,0.0,0.772,95
+206,CNN,Thu Jun 04 03:31:03 +0000 2020,The Minneapolis Board of Education voted unanimously on Tuesday to terminate the district's contract with the Minne… https://t.co/1xaiGB8S6T,0.0,0.0,0.0,1.0,94
+207,CNN,Thu Jun 04 03:25:47 +0000 2020,New York Police Commissioner Dermot Shea says the NYPD are “flexible” as protesters remain on the streets past curf… https://t.co/2hM4B1rOSV,-0.2263,0.0,0.091,0.909,93
+208,CNN,Thu Jun 04 03:25:20 +0000 2020,"""Anyone that looks at that video and isn't knocked off your feet, I don't know that you have a conscience,"" says Ne… https://t.co/vEexYL9lmA",0.0,0.0,0.0,1.0,92
+209,CNN,Thu Jun 04 03:24:00 +0000 2020,"RT @CuomoPrimeTime: America needs a new normal, says @ChrisCuomo. 
+
+""A fundamental disservice is done to too many in America…We must face t…",0.0,0.0,0.0,1.0,91
+210,CNN,Thu Jun 04 03:23:47 +0000 2020,"""The people want change and they believe I am a change agent and that I symbolize hope,"" says Ferguson, MO, Mayor-e… https://t.co/ENSA1KKgMd",0.4939,0.174,0.0,0.826,90
+211,CNN,Thu Jun 04 03:16:03 +0000 2020,British and German authorities are investigating a new suspect in connection with the disappearance of British chil… https://t.co/aDlIcl2TK3,-0.296,0.0,0.115,0.885,89
+212,CNN,Thu Jun 04 03:01:05 +0000 2020,"Six Atlanta police officers were booked, five on felony charges, Wednesday after allegations of using excessive for… https://t.co/eya6wwb0WJ",-0.6808,0.0,0.259,0.741,88
+213,CNN,Thu Jun 04 02:38:28 +0000 2020,"Nick Cordero's wife, Amanda Kloots, is not giving up on him.
+
+Kloots took to Instagram to give fans another update… https://t.co/dtwBtp3ra7",-0.2584,0.0,0.092,0.908,87
+214,CNN,Thu Jun 04 02:23:21 +0000 2020,A teen who has been in police custody since December in the killing of Barnard student Tessa Majors has pleaded gui… https://t.co/N3xc7f8O3u,-0.6597,0.0,0.173,0.827,86
+215,CNN,Thu Jun 04 02:18:21 +0000 2020,Virginia Gov. Ralph Northam will announce on Thursday plans to remove a statue honoring Confederate Gen. Robert E.… https://t.co/11kVgOxQFQ,0.5106,0.155,0.0,0.845,85
+216,CNN,Thu Jun 04 02:11:07 +0000 2020,"Senators rehashed the Russia probe at a testy hearing with former Deputy AG Rod Rosenstein, who defended Mueller, b… https://t.co/I1BJ1Pqz2C",0.0,0.0,0.0,1.0,84
+217,CNN,Thu Jun 04 02:03:00 +0000 2020,Atlanta Mayor Keisha Lance Bottoms says she was surprised by the speed with which charges were brought against six… https://t.co/fSCsilhr4I,-0.0516,0.086,0.095,0.818,83
+218,CNN,Thu Jun 04 02:01:09 +0000 2020,"""The device has been disabled and is being tracked. Local authorities will be alerted.""
+
+Apple is actively disablin… https://t.co/6oXeg7rHz5",0.3182,0.113,0.0,0.887,82
+219,CNN,Thu Jun 04 01:53:00 +0000 2020,"""Democracy doesn't work for us,"" says Kareem Abdul-Jabbar of black Americans. ""We are last hired, first fired. We h… https://t.co/U4IWxSwYHW",-0.5574,0.0,0.159,0.841,81
+220,CNN,Thu Jun 04 04:10:00 +0000 2020,"New Orleans Saints QB Drew Brees is facing backlash after saying he will ""never agree with anybody disrespecting th… https://t.co/4s0D8LJcLb",-0.2755,0.0,0.1,0.9,80
+221,CNN,Thu Jun 04 04:03:13 +0000 2020,"Floyd family attorney Benjamin Crump says his clients believe ""that first degree murder should have been the charge… https://t.co/kfRxOStCmJ",-0.6908,0.0,0.207,0.793,79
+222,CNN,Thu Jun 04 04:01:04 +0000 2020,The White House posted and then deleted a tweet on Wednesday that falsely suggested a synagogue's rock-filled anti-… https://t.co/g0OnWXUl72,0.0,0.0,0.0,1.0,78
+223,CNN,Thu Jun 04 03:46:04 +0000 2020,"This President has shown little, if any, interest in personal piety, famously saying he's never asked God for forgi… https://t.co/LEsTEqbE0M",0.2317,0.121,0.08,0.798,77
+224,CNN,Thu Jun 04 03:41:03 +0000 2020,The NBA's Board of Governors is expected to approve a league proposal that would restart the season in Orlando util… https://t.co/Ed92FUIVwf,0.0,0.0,0.0,1.0,76
+225,CNN,Thu Jun 04 03:36:07 +0000 2020,"Drew Brees, the popular New Orleans Saints quarterback, caught heat from the likes of LeBron James and his own team… https://t.co/QbSxzFilLZ",0.6808,0.228,0.0,0.772,75
+226,CNN,Thu Jun 04 03:31:03 +0000 2020,The Minneapolis Board of Education voted unanimously on Tuesday to terminate the district's contract with the Minne… https://t.co/1xaiGB8S6T,0.0,0.0,0.0,1.0,74
+227,CNN,Thu Jun 04 03:25:47 +0000 2020,New York Police Commissioner Dermot Shea says the NYPD are “flexible” as protesters remain on the streets past curf… https://t.co/2hM4B1rOSV,-0.2263,0.0,0.091,0.909,73
+228,CNN,Thu Jun 04 03:25:20 +0000 2020,"""Anyone that looks at that video and isn't knocked off your feet, I don't know that you have a conscience,"" says Ne… https://t.co/vEexYL9lmA",0.0,0.0,0.0,1.0,72
+229,CNN,Thu Jun 04 03:24:00 +0000 2020,"RT @CuomoPrimeTime: America needs a new normal, says @ChrisCuomo. 
+
+""A fundamental disservice is done to too many in America…We must face t…",0.0,0.0,0.0,1.0,71
+230,CNN,Thu Jun 04 03:23:47 +0000 2020,"""The people want change and they believe I am a change agent and that I symbolize hope,"" says Ferguson, MO, Mayor-e… https://t.co/ENSA1KKgMd",0.4939,0.174,0.0,0.826,70
+231,CNN,Thu Jun 04 03:16:03 +0000 2020,British and German authorities are investigating a new suspect in connection with the disappearance of British chil… https://t.co/aDlIcl2TK3,-0.296,0.0,0.115,0.885,69
+232,CNN,Thu Jun 04 03:01:05 +0000 2020,"Six Atlanta police officers were booked, five on felony charges, Wednesday after allegations of using excessive for… https://t.co/eya6wwb0WJ",-0.6808,0.0,0.259,0.741,68
+233,CNN,Thu Jun 04 02:38:28 +0000 2020,"Nick Cordero's wife, Amanda Kloots, is not giving up on him.
+
+Kloots took to Instagram to give fans another update… https://t.co/dtwBtp3ra7",-0.2584,0.0,0.092,0.908,67
+234,CNN,Thu Jun 04 02:23:21 +0000 2020,A teen who has been in police custody since December in the killing of Barnard student Tessa Majors has pleaded gui… https://t.co/N3xc7f8O3u,-0.6597,0.0,0.173,0.827,66
+235,CNN,Thu Jun 04 02:18:21 +0000 2020,Virginia Gov. Ralph Northam will announce on Thursday plans to remove a statue honoring Confederate Gen. Robert E.… https://t.co/11kVgOxQFQ,0.5106,0.155,0.0,0.845,65
+236,CNN,Thu Jun 04 02:11:07 +0000 2020,"Senators rehashed the Russia probe at a testy hearing with former Deputy AG Rod Rosenstein, who defended Mueller, b… https://t.co/I1BJ1Pqz2C",0.0,0.0,0.0,1.0,64
+237,CNN,Thu Jun 04 02:03:00 +0000 2020,Atlanta Mayor Keisha Lance Bottoms says she was surprised by the speed with which charges were brought against six… https://t.co/fSCsilhr4I,-0.0516,0.086,0.095,0.818,63
+238,CNN,Thu Jun 04 02:01:09 +0000 2020,"""The device has been disabled and is being tracked. Local authorities will be alerted.""
+
+Apple is actively disablin… https://t.co/6oXeg7rHz5",0.3182,0.113,0.0,0.887,62
+239,CNN,Thu Jun 04 01:53:00 +0000 2020,"""Democracy doesn't work for us,"" says Kareem Abdul-Jabbar of black Americans. ""We are last hired, first fired. We h… https://t.co/U4IWxSwYHW",-0.5574,0.0,0.159,0.841,61
+240,CNN,Thu Jun 04 01:46:09 +0000 2020,"RT @AC360: ""Burned out church, a Bible in his hand, the country divided, and he couldn't think of anything to say except to ask a bunch of…",0.4939,0.11,0.0,0.89,60
+241,CNN,Thu Jun 04 01:45:40 +0000 2020,"""The District of Columbia is looking very carefully at the federal government's actions,"" says Washington, DC, Atto… https://t.co/C0BikupAYE",0.2006,0.095,0.0,0.905,59
+242,CNN,Thu Jun 04 01:44:45 +0000 2020,"Washington, DC, Attorney General Karl Racine says his office will prosecute criminal conduct and destruction of pro… https://t.co/UyZLRA9NwD",-0.8689,0.0,0.395,0.605,58
+243,CNN,Thu Jun 04 01:44:07 +0000 2020,“I think also in that letter ... General Mattis may also be characterizing President Trump as a danger to the Const… https://t.co/iK6eCaqvYM,-0.5267,0.0,0.139,0.861,57
+244,CNN,Thu Jun 04 01:43:32 +0000 2020,"""Donald Trump is the first president in my lifetime who does not try to unite the American people—does not even pre… https://t.co/y4wCtgZcgm",0.0,0.0,0.0,1.0,56
+245,CNN,Thu Jun 04 01:42:24 +0000 2020,Minnesota Attorney General Keith Ellison says he is committed to charging the officers involved in the death of Geo… https://t.co/vRK8nIMWRh,-0.4215,0.088,0.163,0.75,55
+246,CNN,Thu Jun 04 01:36:23 +0000 2020,"These eighth-graders spent the entire year raising $2,800 for a rafting trip. Rather than mope after the trip's can… https://t.co/9mT036wx8S",-0.4404,0.0,0.132,0.868,54
+247,CNN,Thu Jun 04 01:21:01 +0000 2020,"Nearly three dozen of Facebook's earliest employees wrote an open letter addressing Facebook's leadership, calling… https://t.co/PgXTNskJXf",0.0,0.0,0.0,1.0,53
+248,CNN,Thu Jun 04 01:11:01 +0000 2020,Six Atlanta police officers have been booked after charges were filed against them related to a tasing incident in… https://t.co/f9a3CYVGAc,-0.2732,0.0,0.1,0.9,52
+249,CNN,Thu Jun 04 01:10:04 +0000 2020,"Catch up on business news:
+
+➡️ Several senior execs in the chicken industry indicted for alleged price-fixing consp… https://t.co/S5DtMDGrEy",0.0,0.0,0.0,1.0,51
+250,CNN,Thu Jun 04 01:06:23 +0000 2020,"Johnny Majors, the college football coach who led the University of Tennessee to three SEC championships and the Un… https://t.co/pYyU4VhAro",0.4939,0.144,0.0,0.856,50
+251,CNN,Thu Jun 04 01:01:04 +0000 2020,"The police killing of George Floyd has resonated around the world. In London — some 4,000 miles from where Floyd di… https://t.co/D5ZrDiq0cG",-0.6597,0.0,0.173,0.827,49
+252,CNN,Thu Jun 04 00:51:06 +0000 2020,A Florida police officer is under investigation for allegedly shoving a black protester who was kneeling during a p… https://t.co/uJx7miAmFw,0.0,0.0,0.0,1.0,48
+253,CNN,Thu Jun 04 00:45:22 +0000 2020,Republican Sen. Rand Paul of Kentucky holds up anti-lynching legislation as he seeks changes to the bill https://t.co/EU2jNQpyu6,0.0,0.0,0.0,1.0,47
+254,CNN,Thu Jun 04 00:41:05 +0000 2020,"President Trump's message of law and order has manifested itself in Washington, DC, in a way he's threatened to do… https://t.co/JuMubmzLTS",-0.4588,0.0,0.13,0.87,46
+255,CNN,Thu Jun 04 00:31:06 +0000 2020,"It was Barr, serving as then-Pres. George H.W. Bush's attorney general, who helmed the federal response during 1992… https://t.co/o8kVe2Xf4a",0.0,0.0,0.0,1.0,45
+256,CNN,Thu Jun 04 00:23:54 +0000 2020,"Tropical Storm Cristobal made landfall Wednesday morning in Mexico, and if the storm holds together, it could loop… https://t.co/KU1oVUi5GG",0.0,0.0,0.0,1.0,44
+257,CNN,Thu Jun 04 00:21:03 +0000 2020,"Former Secretary of Defense James Mattis castigated Pres. Trump as ""the first president in my lifetime who does not… https://t.co/PPLyFLvLZ3",0.128,0.073,0.0,0.927,43
+258,CNN,Thu Jun 04 00:05:22 +0000 2020,Former President Jimmy Carter became the latest — and final — living former president to weigh in on the death of G… https://t.co/4Qhf46bBsq,-0.5994,0.0,0.151,0.849,42
+259,CNN,Thu Jun 04 00:03:30 +0000 2020,"RT @OutFrontCNN: Protests are underway as the officer seen in a video with his knee on George Floyd’s neck, faces upgraded charges and the…",-0.4588,0.0,0.154,0.846,41
+260,CNN,Thu Jun 04 00:01:42 +0000 2020,House Democrats are demanding that four federal agencies explain the decision on Monday to clear protesters out of… https://t.co/C59Y4SWPPC,-0.0516,0.116,0.17,0.714,40
+261,CNN,Wed Jun 03 23:55:31 +0000 2020,"Right now, about 74,000 Guardsmen have been activated across the US. That's more than at any other point in recent… https://t.co/DjtkGhQvMW",0.0,0.0,0.0,1.0,39
+262,CNN,Wed Jun 03 23:48:14 +0000 2020,"Former President Jimmy Carter said ""silence can be as deadly as violence,"" and called on Americans in positions of… https://t.co/Otw6XFgypX",-0.6249,0.0,0.177,0.823,38
+263,CNN,Wed Jun 03 23:45:38 +0000 2020,"The Senate has approved a House-passed Paycheck Protection Program reform bill to help struggling small businesses,… https://t.co/o2dVgAjmMT",0.4019,0.247,0.126,0.628,37
+264,CNN,Wed Jun 03 23:38:58 +0000 2020,"Prosecutors have now charged all four officers involved in the death of George Floyd. On #TheDailyDC podcast, forme… https://t.co/cWomS4OjqH",-0.6908,0.0,0.251,0.749,36
+265,CNN,Wed Jun 03 23:38:52 +0000 2020,RT @OutFrontCNN: All of the former Minneapolis police officers charged in connection with the death of George Floyd are now in custody http…,-0.6908,0.0,0.213,0.787,35
+266,CNN,Wed Jun 03 23:36:54 +0000 2020,"""Today, I'm urging every mayor in this country to review your use of force policies with members of your community… https://t.co/zUviLxhdjh",0.0,0.0,0.0,1.0,34
+267,CNN,Wed Jun 03 23:34:37 +0000 2020,"“I want you to know that you matter,” former President Obama tells young people of color during a live-streamed tow… https://t.co/mnP7qfQIGC",0.0772,0.061,0.0,0.939,33
+268,CNN,Wed Jun 03 23:32:45 +0000 2020,"""As tragic as these past few weeks have been, as difficult and scary and uncertain as they've been, they've also be… https://t.co/pW7MMg5hFU",-0.872,0.0,0.377,0.623,32
+269,CNN,Wed Jun 03 23:31:04 +0000 2020,Gun-toting members of the Boogaloo movement are showing up at protests across the country https://t.co/7XpHUZ7L0n,-0.2263,0.0,0.119,0.881,31
+270,CNN,Wed Jun 03 23:21:07 +0000 2020,Senior executives from two major US chicken producers have been indicted for allegedly conspiring to fix prices and… https://t.co/VYyl9nJghT,0.0,0.0,0.0,1.0,30
+271,CNN,Wed Jun 03 23:10:46 +0000 2020,Video released by Louisville police appears to show a popular BBQ man firing at officers outside his business befor… https://t.co/Hk7Zd4YQf0,0.1027,0.121,0.103,0.776,29
+272,CNN,Wed Jun 03 23:05:28 +0000 2020,All of the former Minneapolis police officers charged in connection with the death of George Floyd are now in custo… https://t.co/rGYu2oPdNW,-0.6908,0.0,0.231,0.769,28
+273,CNN,Wed Jun 03 23:02:41 +0000 2020,"Walmart says it has ""temporarily removed firearms and ammunition from the sales floor in some stores out of an abun… https://t.co/hHWnOhbcSu",0.0,0.0,0.0,1.0,27
+274,CNN,Wed Jun 03 22:41:31 +0000 2020,"""We are witnessing the consequences of three years without mature leadership,"" Mattis said https://t.co/sE4AiDoOlQ",-0.3252,0.0,0.152,0.848,26
+275,CNN,Wed Jun 03 22:36:07 +0000 2020,"""Donald Trump is the first president in my lifetime who does not try to unite the American people—does not even pre… https://t.co/ZeHxog1Kbq",0.0,0.0,0.0,1.0,25
+276,CNN,Wed Jun 03 22:22:25 +0000 2020,The Senate Intelligence Committee has quietly approved a measure that would require presidential campaigns to repor… https://t.co/9JPBRNUtdW,0.7096,0.282,0.0,0.718,24
+277,CNN,Wed Jun 03 22:08:17 +0000 2020,Former President Obama personally thanked protesters in the streets across the nation following the death of George… https://t.co/YLyvbO5fab,-0.4404,0.122,0.245,0.633,23
+278,CNN,Wed Jun 03 22:03:06 +0000 2020,Former Minneapolis officer Derek Chauvin will now be charged with murder in the second degree for the death of Geor… https://t.co/twu3smYhcc,-0.886,0.0,0.366,0.634,22
+279,CNN,Wed Jun 03 21:56:34 +0000 2020,"During the coronavirus pandemic, the total number of visits to hospital emergency departments across the United Sta… https://t.co/eux9TPk2Zi",0.2006,0.2,0.118,0.682,21
+280,CNN,Wed Jun 03 21:53:54 +0000 2020,"The Senate has failed to pass a House-passed Paycheck Protection Program reform bill in the chamber, a sign that me… https://t.co/1UV1QXzIzh",-0.5106,0.0,0.142,0.858,20
+281,CNN,Wed Jun 03 21:39:54 +0000 2020,"“In my father’s case... no one was held accountable. … I see now that the officer here is being charged, and all of… https://t.co/1O5cNro42e",-0.4588,0.0,0.154,0.846,19
+282,CNN,Wed Jun 03 21:36:43 +0000 2020,"Chris Trousdale, a singer best known for his years as a member of the boy band Dream Street, has died, according to… https://t.co/Z1nyJM5oHQ",0.3818,0.208,0.121,0.671,18
+283,CNN,Wed Jun 03 21:21:13 +0000 2020,"Today was the first time the Dow has closed above 26,000 points since early March https://t.co/JpVTADcWMJ",0.0,0.0,0.0,1.0,17
+284,CNN,Wed Jun 03 21:21:02 +0000 2020,"Across the country, a handful of controversial statues have been removed from public spaces — some by protesters an… https://t.co/LPJXGclUR8",-0.4019,0.0,0.171,0.829,16
+285,CNN,Wed Jun 03 21:11:18 +0000 2020,RT @TheLeadCNN: The former Minneapolis Police officer who pressed his knee into George Floyd's neck was charged with second-degree murder a…,-0.7579,0.0,0.255,0.745,15
+286,CNN,Wed Jun 03 21:11:06 +0000 2020,"""If I didn't have a primary, I wouldn't care.""
+
+Democratic Rep. Eliot Engel was caught on a hot mic at a news confe… https://t.co/YgUTPHQlwl",-0.3875,0.0,0.103,0.897,14
+287,CNN,Wed Jun 03 21:05:54 +0000 2020,AG Keith Ellison: “George Floyd mattered. He was loved. His family was important. His life had value. And we will s… https://t.co/vaoK9aLZ2x,0.7964,0.299,0.0,0.701,13
+288,CNN,Wed Jun 03 21:01:46 +0000 2020,Minnesota Attorney General Keith Ellison announces additional charges in the death of George Floyd: “I strongly bel… https://t.co/s2tt96RuCn,-0.5994,0.091,0.26,0.649,12
+289,CNN,Wed Jun 03 21:01:01 +0000 2020,A nonprofit advocacy group partially funded by Big Tech has filed a lawsuit challenging President Trump's executive… https://t.co/VzE1FKxqqr,-0.0772,0.082,0.097,0.821,11
+290,CNN,Wed Jun 03 21:00:00 +0000 2020,"As workplaces begin reopening across the US, some employees may have big questions. Today on “Coronavirus: Fact vs… https://t.co/LnFe9zuB1j",0.0,0.0,0.0,1.0,10
+291,CNN,Wed Jun 03 20:58:46 +0000 2020,One of the three former Minneapolis police officers charged with aiding and abetting murder in the death of George… https://t.co/hihPcDctO5,-0.886,0.0,0.38,0.62,9
+292,CNN,Wed Jun 03 20:50:05 +0000 2020,Data indicates that Europe has been able to keep a lid on unemployment during the pandemic. Economists partially cr… https://t.co/dbPT2JlMBp,-0.4404,0.0,0.132,0.868,8
+293,CNN,Wed Jun 03 20:46:00 +0000 2020,"Ben Crump, lawyer for the family of George Floyd, reflects on the video of Floyd's death.
+
+""I saw... what everybody… https://t.co/qgVdKRU21C",-0.5994,0.0,0.163,0.837,7
+294,CNN,Wed Jun 03 20:43:00 +0000 2020,"""I think this is a good day... for all of the people who had to witness an individual, a human, a man be murdered i… https://t.co/ci0O4FGpnr",-0.3612,0.093,0.141,0.767,6
+295,CNN,Wed Jun 03 20:41:05 +0000 2020,An anti-LGBTQ ad by a pro-Kremlin news portal has sparked outrage on Russian social media — and drawn attention to… https://t.co/nxArl6baqb,-0.5106,0.0,0.142,0.858,5
+296,CNN,Wed Jun 03 20:34:32 +0000 2020,"Along with a lack of coverage, black Americans have higher rates of chronic illnesses, including diabetes, high blo… https://t.co/eJwszAUdgP",-0.6705,0.0,0.244,0.756,4
+297,CNN,Wed Jun 03 20:34:32 +0000 2020,One reason why black Americans have been hit harder by the coronavirus pandemic is because they are less likely to… https://t.co/NbHcOvEGWT,0.0,0.0,0.0,1.0,3
+298,CNN,Wed Jun 03 20:34:32 +0000 2020,"The poverty rate for black Americans in 2018 was 20.8%, compared to 8.1% for non-Hispanic whites. Both have trended… https://t.co/KS0zoAlomb",-0.5106,0.0,0.148,0.852,2
+299,CNN,Wed Jun 03 20:34:31 +0000 2020,The economic downturn due to the pandemic has narrowed the unemployment gap. But black Americans make up a dispropo… https://t.co/5tui73KqH4,-0.2382,0.0,0.093,0.907,1
+300,FoxNews,Thu Jun 04 02:42:12 +0000 2020,https://t.co/1dGdwaxO1m,0.0,0.0,0.0,1.0,100
+301,FoxNews,Thu Jun 04 01:35:58 +0000 2020,https://t.co/5yY61HdOWx,0.0,0.0,0.0,1.0,99
+302,FoxNews,Thu Jun 04 00:29:23 +0000 2020,https://t.co/rxJ2Ly7ttC,0.0,0.0,0.0,1.0,98
+303,FoxNews,Wed Jun 03 23:17:52 +0000 2020,https://t.co/kLbuYDmjDH,0.0,0.0,0.0,1.0,97
+304,FoxNews,Wed Jun 03 21:22:27 +0000 2020,https://t.co/eFkNp4sDul,0.0,0.0,0.0,1.0,96
+305,FoxNews,Wed Jun 03 19:50:22 +0000 2020,https://t.co/0CIPBuF9lC,0.0,0.0,0.0,1.0,95
+306,FoxNews,Wed Jun 03 11:09:43 +0000 2020,https://t.co/ak0zmlnhDZ,0.0,0.0,0.0,1.0,94
+307,FoxNews,Wed Jun 03 01:55:56 +0000 2020,https://t.co/IdES7Lf0Yf,0.0,0.0,0.0,1.0,93
+308,FoxNews,Wed Jun 03 00:37:10 +0000 2020,"President Trump will speak to Brian Kilmeade on Fox News Radio's ""The Brian Kilmeade Show."" Tune in Wednesday morni… https://t.co/1cxL3i1zSt",0.0,0.0,0.0,1.0,92
+309,FoxNews,Tue Jun 02 23:31:39 +0000 2020,https://t.co/JFLqKEDNxB,0.0,0.0,0.0,1.0,91
+310,FoxNews,Tue Jun 02 20:56:21 +0000 2020,https://t.co/n3unggi22m,0.0,0.0,0.0,1.0,90
+311,FoxNews,Tue Jun 02 19:36:26 +0000 2020,https://t.co/rEfnIb59Wf,0.0,0.0,0.0,1.0,89
+312,FoxNews,Tue Jun 02 18:07:26 +0000 2020,https://t.co/ewYDkCaUsD,0.0,0.0,0.0,1.0,88
+313,FoxNews,Tue Jun 02 14:14:27 +0000 2020,https://t.co/QAZ9zVkoiQ,0.0,0.0,0.0,1.0,87
+314,FoxNews,Tue Jun 02 13:53:57 +0000 2020,https://t.co/wj0JRWzwDx,0.0,0.0,0.0,1.0,86
+315,FoxNews,Tue Jun 02 12:24:05 +0000 2020,https://t.co/d1hhm55nWE,0.0,0.0,0.0,1.0,85
+316,FoxNews,Tue Jun 02 10:35:37 +0000 2020,https://t.co/AQs68IhVKT,0.0,0.0,0.0,1.0,84
+317,FoxNews,Tue Jun 02 03:11:30 +0000 2020,https://t.co/z8P49wXkoJ,0.0,0.0,0.0,1.0,83
+318,FoxNews,Tue Jun 02 02:08:19 +0000 2020,https://t.co/G4yXD8KJoq,0.0,0.0,0.0,1.0,82
+319,FoxNews,Tue Jun 02 00:59:21 +0000 2020,https://t.co/xxcZkOPCRU,0.0,0.0,0.0,1.0,81
+320,FoxNews,Thu Jun 04 02:42:12 +0000 2020,https://t.co/1dGdwaxO1m,0.0,0.0,0.0,1.0,80
+321,FoxNews,Thu Jun 04 01:35:58 +0000 2020,https://t.co/5yY61HdOWx,0.0,0.0,0.0,1.0,79
+322,FoxNews,Thu Jun 04 00:29:23 +0000 2020,https://t.co/rxJ2Ly7ttC,0.0,0.0,0.0,1.0,78
+323,FoxNews,Wed Jun 03 23:17:52 +0000 2020,https://t.co/kLbuYDmjDH,0.0,0.0,0.0,1.0,77
+324,FoxNews,Wed Jun 03 21:22:27 +0000 2020,https://t.co/eFkNp4sDul,0.0,0.0,0.0,1.0,76
+325,FoxNews,Wed Jun 03 19:50:22 +0000 2020,https://t.co/0CIPBuF9lC,0.0,0.0,0.0,1.0,75
+326,FoxNews,Wed Jun 03 11:09:43 +0000 2020,https://t.co/ak0zmlnhDZ,0.0,0.0,0.0,1.0,74
+327,FoxNews,Wed Jun 03 01:55:56 +0000 2020,https://t.co/IdES7Lf0Yf,0.0,0.0,0.0,1.0,73
+328,FoxNews,Wed Jun 03 00:37:10 +0000 2020,"President Trump will speak to Brian Kilmeade on Fox News Radio's ""The Brian Kilmeade Show."" Tune in Wednesday morni… https://t.co/1cxL3i1zSt",0.0,0.0,0.0,1.0,72
+329,FoxNews,Tue Jun 02 23:31:39 +0000 2020,https://t.co/JFLqKEDNxB,0.0,0.0,0.0,1.0,71
+330,FoxNews,Tue Jun 02 20:56:21 +0000 2020,https://t.co/n3unggi22m,0.0,0.0,0.0,1.0,70
+331,FoxNews,Tue Jun 02 19:36:26 +0000 2020,https://t.co/rEfnIb59Wf,0.0,0.0,0.0,1.0,69
+332,FoxNews,Tue Jun 02 18:07:26 +0000 2020,https://t.co/ewYDkCaUsD,0.0,0.0,0.0,1.0,68
+333,FoxNews,Tue Jun 02 14:14:27 +0000 2020,https://t.co/QAZ9zVkoiQ,0.0,0.0,0.0,1.0,67
+334,FoxNews,Tue Jun 02 13:53:57 +0000 2020,https://t.co/wj0JRWzwDx,0.0,0.0,0.0,1.0,66
+335,FoxNews,Tue Jun 02 12:24:05 +0000 2020,https://t.co/d1hhm55nWE,0.0,0.0,0.0,1.0,65
+336,FoxNews,Tue Jun 02 10:35:37 +0000 2020,https://t.co/AQs68IhVKT,0.0,0.0,0.0,1.0,64
+337,FoxNews,Tue Jun 02 03:11:30 +0000 2020,https://t.co/z8P49wXkoJ,0.0,0.0,0.0,1.0,63
+338,FoxNews,Tue Jun 02 02:08:19 +0000 2020,https://t.co/G4yXD8KJoq,0.0,0.0,0.0,1.0,62
+339,FoxNews,Tue Jun 02 00:59:21 +0000 2020,https://t.co/xxcZkOPCRU,0.0,0.0,0.0,1.0,61
+340,FoxNews,Mon Jun 01 23:19:43 +0000 2020,https://t.co/qvRA2WiCE6,0.0,0.0,0.0,1.0,60
+341,FoxNews,Mon Jun 01 22:11:08 +0000 2020,https://t.co/X03tTX23by,0.0,0.0,0.0,1.0,59
+342,FoxNews,Mon Jun 01 20:18:13 +0000 2020,https://t.co/RYbNBKuD3W,0.0,0.0,0.0,1.0,58
+343,FoxNews,Mon Jun 01 19:05:58 +0000 2020,https://t.co/TCVmknbL8f,0.0,0.0,0.0,1.0,57
+344,FoxNews,Mon Jun 01 17:37:09 +0000 2020,https://t.co/7LhvlIZXqA,0.0,0.0,0.0,1.0,56
+345,FoxNews,Mon Jun 01 15:58:28 +0000 2020,https://t.co/3CIY70zODD,0.0,0.0,0.0,1.0,55
+346,FoxNews,Mon Jun 01 14:58:40 +0000 2020,https://t.co/joS9jNN5j4,0.0,0.0,0.0,1.0,54
+347,FoxNews,Mon Jun 01 14:05:42 +0000 2020,https://t.co/zN3OOCCOeR,0.0,0.0,0.0,1.0,53
+348,FoxNews,Mon Jun 01 10:41:23 +0000 2020,https://t.co/R2UIsEX0aY,0.0,0.0,0.0,1.0,52
+349,FoxNews,Mon Jun 01 02:12:44 +0000 2020,https://t.co/DBytN20Zs4,0.0,0.0,0.0,1.0,51
+350,FoxNews,Mon Jun 01 01:07:42 +0000 2020,https://t.co/OdUGAAB6Fj,0.0,0.0,0.0,1.0,50
+351,FoxNews,Mon Jun 01 00:06:50 +0000 2020,https://t.co/2EHS1rzd6T,0.0,0.0,0.0,1.0,49
+352,FoxNews,Sun May 31 23:06:01 +0000 2020,https://t.co/C3pIjDwiz9,0.0,0.0,0.0,1.0,48
+353,FoxNews,Sun May 31 21:59:42 +0000 2020,https://t.co/4DMsefugpf,0.0,0.0,0.0,1.0,47
+354,FoxNews,Sun May 31 20:46:52 +0000 2020,https://t.co/JZSn8whFeH,0.0,0.0,0.0,1.0,46
+355,FoxNews,Sun May 31 19:43:17 +0000 2020,https://t.co/yZ1LfJ3Nbe,0.0,0.0,0.0,1.0,45
+356,FoxNews,Sun May 31 18:53:12 +0000 2020,https://t.co/ASLDaMvNyf,0.0,0.0,0.0,1.0,44
+357,FoxNews,Sun May 31 16:03:14 +0000 2020,https://t.co/kTLhuC8GXB,0.0,0.0,0.0,1.0,43
+358,FoxNews,Sun May 31 16:01:50 +0000 2020,https://t.co/9syNuKobQm,0.0,0.0,0.0,1.0,42
+359,FoxNews,Sun May 31 16:00:31 +0000 2020,https://t.co/Bnzb9JQtiB,0.0,0.0,0.0,1.0,41
+360,FoxNews,Sun May 31 15:59:05 +0000 2020,https://t.co/0uiqq61gfU,0.0,0.0,0.0,1.0,40
+361,FoxNews,Sun May 31 15:58:19 +0000 2020,https://t.co/RE6zKbp1Ul,0.0,0.0,0.0,1.0,39
+362,FoxNews,Sun May 31 15:57:10 +0000 2020,https://t.co/7zfq2pjFCB,0.0,0.0,0.0,1.0,38
+363,FoxNews,Sun May 31 15:56:35 +0000 2020,https://t.co/MoquW2K2HB,0.0,0.0,0.0,1.0,37
+364,FoxNews,Sun May 31 02:30:27 +0000 2020,https://t.co/DzbCwxhiYb,0.0,0.0,0.0,1.0,36
+365,FoxNews,Sun May 31 01:31:19 +0000 2020,https://t.co/4ZtAHcKO1c,0.0,0.0,0.0,1.0,35
+366,FoxNews,Sun May 31 00:14:14 +0000 2020,https://t.co/xEg0xmYQp6,0.0,0.0,0.0,1.0,34
+367,FoxNews,Sat May 30 23:46:10 +0000 2020,https://t.co/5tcrZbAAmh,0.0,0.0,0.0,1.0,33
+368,FoxNews,Sat May 30 22:24:13 +0000 2020,https://t.co/wWvNwH0TqS,0.0,0.0,0.0,1.0,32
+369,FoxNews,Sat May 30 21:42:53 +0000 2020,https://t.co/yNeVnH93nA,0.0,0.0,0.0,1.0,31
+370,FoxNews,Sat May 30 20:37:29 +0000 2020,https://t.co/MtIvfW17eA,0.0,0.0,0.0,1.0,30
+371,FoxNews,Sat May 30 19:57:09 +0000 2020,https://t.co/bq5ddSzLK9,0.0,0.0,0.0,1.0,29
+372,FoxNews,Sat May 30 18:32:59 +0000 2020,https://t.co/mBw3FBIpwY,0.0,0.0,0.0,1.0,28
+373,FoxNews,Sat May 30 18:13:37 +0000 2020,https://t.co/NmyNgxnLFl,0.0,0.0,0.0,1.0,27
+374,FoxNews,Sat May 30 18:13:12 +0000 2020,https://t.co/f1HFcaBoFR,0.0,0.0,0.0,1.0,26
+375,FoxNews,Sat May 30 14:56:36 +0000 2020,https://t.co/ljKUClTVrv,0.0,0.0,0.0,1.0,25
+376,FoxNews,Sat May 30 14:05:08 +0000 2020,https://t.co/xOAKcZCATj,0.0,0.0,0.0,1.0,24
+377,FoxNews,Sat May 30 13:23:17 +0000 2020,https://t.co/m80M5Dd7uy,0.0,0.0,0.0,1.0,23
+378,FoxNews,Sat May 30 13:18:53 +0000 2020,https://t.co/ntNh84Wn0l,0.0,0.0,0.0,1.0,22
+379,FoxNews,Sat May 30 10:24:00 +0000 2020,https://t.co/TNXenTDqUr,0.0,0.0,0.0,1.0,21
+380,FoxNews,Sat May 30 00:42:21 +0000 2020,https://t.co/pQG0UGXgq6,0.0,0.0,0.0,1.0,20
+381,FoxNews,Fri May 29 23:54:15 +0000 2020,https://t.co/om6e1YB67T,0.0,0.0,0.0,1.0,19
+382,FoxNews,Fri May 29 23:31:47 +0000 2020,https://t.co/BrHWBnPZCH,0.0,0.0,0.0,1.0,18
+383,FoxNews,Fri May 29 22:57:38 +0000 2020,https://t.co/oosk8N5VMc,0.0,0.0,0.0,1.0,17
+384,FoxNews,Fri May 29 20:25:12 +0000 2020,https://t.co/ykYV7idMex,0.0,0.0,0.0,1.0,16
+385,FoxNews,Fri May 29 19:10:54 +0000 2020,https://t.co/Z49IPG0R6A,0.0,0.0,0.0,1.0,15
+386,FoxNews,Fri May 29 16:50:49 +0000 2020,https://t.co/N0WVECulnm,0.0,0.0,0.0,1.0,14
+387,FoxNews,Fri May 29 14:58:03 +0000 2020,https://t.co/Wv2ThHt68a,0.0,0.0,0.0,1.0,13
+388,FoxNews,Fri May 29 14:46:17 +0000 2020,https://t.co/YgbKvU18Ci,0.0,0.0,0.0,1.0,12
+389,FoxNews,Fri May 29 12:35:15 +0000 2020,https://t.co/ZhxBD2R156,0.0,0.0,0.0,1.0,11
+390,FoxNews,Fri May 29 12:28:43 +0000 2020,https://t.co/QXiIOF1o5p,0.0,0.0,0.0,1.0,10
+391,FoxNews,Fri May 29 11:26:23 +0000 2020,https://t.co/QHqp1TqDIb,0.0,0.0,0.0,1.0,9
+392,FoxNews,Fri May 29 01:51:40 +0000 2020,https://t.co/HZqyn6fWxs,0.0,0.0,0.0,1.0,8
+393,FoxNews,Fri May 29 00:45:03 +0000 2020,https://t.co/COpX5HGGQ1,0.0,0.0,0.0,1.0,7
+394,FoxNews,Thu May 28 23:38:20 +0000 2020,https://t.co/u0A7f8LcYa,0.0,0.0,0.0,1.0,6
+395,FoxNews,Thu May 28 22:35:28 +0000 2020,https://t.co/ABAO06hv7y,0.0,0.0,0.0,1.0,5
+396,FoxNews,Thu May 28 21:34:51 +0000 2020,https://t.co/KU05GjyFFC,0.0,0.0,0.0,1.0,4
+397,FoxNews,Thu May 28 20:32:27 +0000 2020,https://t.co/fInQ2kJrIS,0.0,0.0,0.0,1.0,3
+398,FoxNews,Thu May 28 19:24:29 +0000 2020,https://t.co/oufFoEoeJa,0.0,0.0,0.0,1.0,2
+399,FoxNews,Thu May 28 01:56:31 +0000 2020,https://t.co/80QSrCPSOQ,0.0,0.0,0.0,1.0,1
+400,nytimes,Thu Jun 04 04:07:50 +0000 2020,"RT @ByMikeBaker: NEW:
+
+An autopsy has found that Manuel Ellis, a black man who died in police custody in Tacoma, was killed as a result of…",-0.8442,0.0,0.252,0.748,100
+401,nytimes,Thu Jun 04 03:40:04 +0000 2020,"RT @nytopinion: ""As Atlanta’s mayor, I would like to offer one salient solution to the atrocities we are faced with today,"" says @KeishaBot…",0.7096,0.257,0.0,0.743,99
+402,nytimes,Thu Jun 04 03:15:07 +0000 2020,Many readers and New York Times staff members denounced The Times's publication of an opinion essay by Senator Tom… https://t.co/jfVdDVzyl8,0.0,0.0,0.0,1.0,98
+403,nytimes,Thu Jun 04 03:00:08 +0000 2020,A longtime friend of George Floyd who was in the passenger seat of Floyd’s car when he was arrested said on Wednesd… https://t.co/3MG8bTkoZ3,0.0258,0.117,0.114,0.769,97
+404,nytimes,Thu Jun 04 02:40:08 +0000 2020,“Donald Trump is the first president in my lifetime who does not try to unite the American people — does not even p… https://t.co/CflNIh3plV,0.0,0.0,0.0,1.0,96
+405,nytimes,Thu Jun 04 02:25:05 +0000 2020,"RT @zwoolfe: What are the 5 minutes that would make someone fall in love with the cello? (As if it takes that long!) We asked Yo-Yo Ma, Joh…",0.6696,0.143,0.0,0.857,95
+406,nytimes,Thu Jun 04 02:02:21 +0000 2020,"A large protest formed Wednesday afternoon in West Hollywood, California, with the National Guard staged not far aw… https://t.co/m22BiBIH4Y",-0.25,0.0,0.1,0.9,94
+407,nytimes,Thu Jun 04 02:01:43 +0000 2020,"Hours before New York's citywide curfew went into effect Wednesday at 8 p.m., peaceful protesters lined streets in… https://t.co/ey43SLReMn",0.3182,0.145,0.086,0.769,93
+408,nytimes,Thu Jun 04 02:00:13 +0000 2020,"Some of those who criticized Drew Brees’s remarks were prominent professional sports figures, including members of… https://t.co/f7mZeFHdst",-0.0516,0.116,0.126,0.758,92
+409,nytimes,Thu Jun 04 01:30:08 +0000 2020,"RT @Karan_Singhs: Tarnished by brutality, India's police are using the pandemic to save their reputation. Our video shows how Muslims in In…",-0.2023,0.118,0.147,0.735,91
+410,nytimes,Thu Jun 04 01:10:04 +0000 2020,Evening Briefing: Here's what you need to know at the end of the day https://t.co/btMTCirSBH,0.0,0.0,0.0,1.0,90
+411,nytimes,Thu Jun 04 01:00:02 +0000 2020,"George Floyd had the coronavirus in early April, a full autopsy report from the Hennepin County medical examiner re… https://t.co/qlHZdsBIXX",0.0,0.0,0.0,1.0,89
+412,nytimes,Thu Jun 04 00:48:15 +0000 2020,Curfew in Washington was pushed from 7 p.m. to 11 p.m. and protesters took up new positions near the White House. I… https://t.co/lpXTid5KUY,-0.2263,0.0,0.079,0.921,88
+413,nytimes,Thu Jun 04 00:30:04 +0000 2020,RT @maggieNYT: .⁦@alexburnsNYT⁩ and me on Trump on defense across the electoral map &gt; https://t.co/TmmAjxxhO2,0.128,0.097,0.0,0.903,87
+414,nytimes,Thu Jun 04 00:00:07 +0000 2020,"“We all must shine a spotlight on the immorality of racial discrimination. But violence, whether spontaneous or con… https://t.co/GCWUJTIFX9",-0.7876,0.0,0.29,0.71,86
+415,nytimes,Wed Jun 03 23:40:03 +0000 2020,RT @jennymedina: Newly elected Ferguson Mayor Ella Jones: “My election gives people hope ...  I have been living in injustice all my life.”…,-0.2023,0.105,0.134,0.761,85
+416,nytimes,Wed Jun 03 23:30:05 +0000 2020,"Gov. Ralph Northam of Virginia plans to order the Robert E. Lee statue in Richmond to be removed, an administration… https://t.co/uHZZC4InmX",0.0,0.0,0.0,1.0,84
+417,nytimes,Wed Jun 03 23:10:05 +0000 2020,"Breaking News: “He tries to divide us.” Jim Mattis, the defense secretary who resigned in 2018, issued his harshest… https://t.co/gZLwYdAvRM",-0.128,0.07,0.093,0.837,83
+418,nytimes,Wed Jun 03 23:00:07 +0000 2020,Watch as we ride along with these New York City medics who are used to transporting desperate patients to the hospi… https://t.co/AfmxMfdMqN,-0.3182,0.0,0.099,0.901,82
+419,nytimes,Wed Jun 03 23:00:06 +0000 2020,"""I want you to know that you matter,"" former President Barack Obama said in an address to young men and women of co… https://t.co/VKeRtrZ6oq",0.1027,0.098,0.0,0.902,81
+420,nytimes,Thu Jun 04 04:07:50 +0000 2020,"RT @ByMikeBaker: NEW:
+
+An autopsy has found that Manuel Ellis, a black man who died in police custody in Tacoma, was killed as a result of…",-0.8442,0.0,0.252,0.748,80
+421,nytimes,Thu Jun 04 03:40:04 +0000 2020,"RT @nytopinion: ""As Atlanta’s mayor, I would like to offer one salient solution to the atrocities we are faced with today,"" says @KeishaBot…",0.7096,0.257,0.0,0.743,79
+422,nytimes,Thu Jun 04 03:15:07 +0000 2020,Many readers and New York Times staff members denounced The Times's publication of an opinion essay by Senator Tom… https://t.co/jfVdDVzyl8,0.0,0.0,0.0,1.0,78
+423,nytimes,Thu Jun 04 03:00:08 +0000 2020,A longtime friend of George Floyd who was in the passenger seat of Floyd’s car when he was arrested said on Wednesd… https://t.co/3MG8bTkoZ3,0.0258,0.117,0.114,0.769,77
+424,nytimes,Thu Jun 04 02:40:08 +0000 2020,“Donald Trump is the first president in my lifetime who does not try to unite the American people — does not even p… https://t.co/CflNIh3plV,0.0,0.0,0.0,1.0,76
+425,nytimes,Thu Jun 04 02:25:05 +0000 2020,"RT @zwoolfe: What are the 5 minutes that would make someone fall in love with the cello? (As if it takes that long!) We asked Yo-Yo Ma, Joh…",0.6696,0.143,0.0,0.857,75
+426,nytimes,Thu Jun 04 02:02:21 +0000 2020,"A large protest formed Wednesday afternoon in West Hollywood, California, with the National Guard staged not far aw… https://t.co/m22BiBIH4Y",-0.25,0.0,0.1,0.9,74
+427,nytimes,Thu Jun 04 02:01:43 +0000 2020,"Hours before New York's citywide curfew went into effect Wednesday at 8 p.m., peaceful protesters lined streets in… https://t.co/ey43SLReMn",0.3182,0.145,0.086,0.769,73
+428,nytimes,Thu Jun 04 02:00:13 +0000 2020,"Some of those who criticized Drew Brees’s remarks were prominent professional sports figures, including members of… https://t.co/f7mZeFHdst",-0.0516,0.116,0.126,0.758,72
+429,nytimes,Thu Jun 04 01:30:08 +0000 2020,"RT @Karan_Singhs: Tarnished by brutality, India's police are using the pandemic to save their reputation. Our video shows how Muslims in In…",-0.2023,0.118,0.147,0.735,71
+430,nytimes,Thu Jun 04 01:10:04 +0000 2020,Evening Briefing: Here's what you need to know at the end of the day https://t.co/btMTCirSBH,0.0,0.0,0.0,1.0,70
+431,nytimes,Thu Jun 04 01:00:02 +0000 2020,"George Floyd had the coronavirus in early April, a full autopsy report from the Hennepin County medical examiner re… https://t.co/qlHZdsBIXX",0.0,0.0,0.0,1.0,69
+432,nytimes,Thu Jun 04 00:48:15 +0000 2020,Curfew in Washington was pushed from 7 p.m. to 11 p.m. and protesters took up new positions near the White House. I… https://t.co/lpXTid5KUY,-0.2263,0.0,0.079,0.921,68
+433,nytimes,Thu Jun 04 00:30:04 +0000 2020,RT @maggieNYT: .⁦@alexburnsNYT⁩ and me on Trump on defense across the electoral map &gt; https://t.co/TmmAjxxhO2,0.128,0.097,0.0,0.903,67
+434,nytimes,Thu Jun 04 00:00:07 +0000 2020,"“We all must shine a spotlight on the immorality of racial discrimination. But violence, whether spontaneous or con… https://t.co/GCWUJTIFX9",-0.7876,0.0,0.29,0.71,66
+435,nytimes,Wed Jun 03 23:40:03 +0000 2020,RT @jennymedina: Newly elected Ferguson Mayor Ella Jones: “My election gives people hope ...  I have been living in injustice all my life.”…,-0.2023,0.105,0.134,0.761,65
+436,nytimes,Wed Jun 03 23:30:05 +0000 2020,"Gov. Ralph Northam of Virginia plans to order the Robert E. Lee statue in Richmond to be removed, an administration… https://t.co/uHZZC4InmX",0.0,0.0,0.0,1.0,64
+437,nytimes,Wed Jun 03 23:10:05 +0000 2020,"Breaking News: “He tries to divide us.” Jim Mattis, the defense secretary who resigned in 2018, issued his harshest… https://t.co/gZLwYdAvRM",-0.128,0.07,0.093,0.837,63
+438,nytimes,Wed Jun 03 23:00:07 +0000 2020,Watch as we ride along with these New York City medics who are used to transporting desperate patients to the hospi… https://t.co/AfmxMfdMqN,-0.3182,0.0,0.099,0.901,62
+439,nytimes,Wed Jun 03 23:00:06 +0000 2020,"""I want you to know that you matter,"" former President Barack Obama said in an address to young men and women of co… https://t.co/VKeRtrZ6oq",0.1027,0.098,0.0,0.902,61
+440,nytimes,Wed Jun 03 22:40:03 +0000 2020,Critic’s Notebook: “The most urgent filmmaking anybody’s doing in this country right now is by black people with ca… https://t.co/4mgqcWY9no,0.2716,0.099,0.0,0.901,60
+441,nytimes,Wed Jun 03 22:31:37 +0000 2020,RT @YousurAlhlou: .@leslyedavis and I spent the coronavirus peak in a New York City ambulance. Our ridealong revealed that medics are faced…,0.0,0.0,0.0,1.0,59
+442,nytimes,Wed Jun 03 22:20:06 +0000 2020,"In Opinion
+
+Melanye Price writes, “Anyone who needs one more video to believe the injustices around us, either refu… https://t.co/lDyQenUI96",0.0,0.0,0.0,1.0,58
+443,nytimes,Wed Jun 03 22:08:44 +0000 2020,At least 2 other cities this week have seen Confederate monuments removed from public spaces in response to protest… https://t.co/rQnSUdWoX4,0.0,0.0,0.0,1.0,57
+444,nytimes,Wed Jun 03 22:00:07 +0000 2020,Authorities are investigating a 43-year-old German man in connection with the 2007 disappearance of 3-year-old Made… https://t.co/QtdgGHSVYR,0.0,0.0,0.0,1.0,56
+445,nytimes,Wed Jun 03 21:57:06 +0000 2020,Breaking News: Virginia's governor plans to order the removal of a monument to the Confederate general Robert E. Le… https://t.co/zjuRhXrktZ,0.0,0.0,0.0,1.0,55
+446,nytimes,Wed Jun 03 21:40:07 +0000 2020,"“I’m 100 percent with people who are protesting for justice, but is this justice?” said one man whose family busine… https://t.co/xLcHbAqoy5",0.0772,0.095,0.082,0.823,54
+447,nytimes,Wed Jun 03 21:30:07 +0000 2020,RT @TheSteinLine: Far bigger for players than the how-many-teams debate: All the yet-to-be-explained safety protocols that will be implemen…,0.4215,0.135,0.0,0.865,53
+448,nytimes,Wed Jun 03 21:30:07 +0000 2020,"Rahul Dubey opened his Washington, D.C., home on Monday to more than 70 protesters who were trying to avoid arrest… https://t.co/F5kmbtVSol",-0.5209,0.0,0.187,0.813,52
+449,nytimes,Wed Jun 03 21:22:14 +0000 2020,"Tens of thousands of people staged peaceful protests and impassioned marches across the U.S. on Tuesday, despite cu… https://t.co/3ecaLm0ny1",0.3182,0.145,0.086,0.769,51
+450,nytimes,Wed Jun 03 21:00:06 +0000 2020,Watch Live: Former President Barack Obama is giving his first on-camera comments about the killing of George Floyd… https://t.co/Ngd3Baue4u,-0.4588,0.101,0.185,0.714,50
+451,nytimes,Wed Jun 03 20:40:04 +0000 2020,"Louisville, Kentucky, will hire an outside consultant to review its police department after Breonna Taylor was shot… https://t.co/GzWD1d1aag",0.0,0.0,0.0,1.0,49
+452,nytimes,Wed Jun 03 20:28:50 +0000 2020,"Read our full investigation of the CDC’s troubled response to the spread of the coronavirus by @EricLiptonNYT,… https://t.co/k5dBT9WWOf",-0.4588,0.0,0.15,0.85,48
+453,nytimes,Wed Jun 03 20:28:27 +0000 2020,"As the battle against the virus stretches into summer and the U.S. lurches toward restarting its economy, state and… https://t.co/wfDJ1WFdC2",-0.3818,0.0,0.12,0.88,47
+454,nytimes,Wed Jun 03 20:27:42 +0000 2020,"The CDC declined repeated requests for interviews with its top officials. In a statement, the agency said it was “p… https://t.co/dE7dUWZvPr",0.2023,0.083,0.0,0.917,46
+455,nytimes,Wed Jun 03 20:26:55 +0000 2020,"The CDC and its director, Dr. Robert Redfield, faced challenges from President Trump, who tried to seize the spotli… https://t.co/dZme7ZLdWX",0.0772,0.064,0.0,0.936,45
+456,nytimes,Wed Jun 03 20:26:02 +0000 2020,"The CDC failed early on to provide U.S. labs with an effective coronavirus test, and sloppy practices and the Trump… https://t.co/rLcZWTlGKq",-0.0516,0.122,0.13,0.748,44
+457,nytimes,Wed Jun 03 20:24:49 +0000 2020,"As the number of U.S. coronavirus cases — and deaths — mounted, the CDC struggled to record them accurately. The ag… https://t.co/tFYYQR4dCB",-0.2732,0.055,0.101,0.844,43
+458,nytimes,Wed Jun 03 20:23:47 +0000 2020,"Our investigation of the CDC’s response to the virus included:
+—Reviews of thousands of emails
+—Interviews with mor… https://t.co/ueyhwJiKKu",0.0,0.0,0.0,1.0,42
+459,nytimes,Wed Jun 03 20:22:20 +0000 2020,"The CDC, considered the world’s leading public health agency, struggled to move quickly against the virus. Early te… https://t.co/omBxxrKkMT",-0.34,0.0,0.118,0.882,41
+460,nytimes,Wed Jun 03 20:20:06 +0000 2020,Our investigation shows how the coronavirus has shaken the CDC as it confronted the most urgent public health emerg… https://t.co/arWL7Q9dVk,-0.0018,0.094,0.14,0.766,40
+461,nytimes,Wed Jun 03 20:15:25 +0000 2020,"A 13-year old boy pleaded guilty to robbery for his role in the death of Tessa Majors, the Barnard college student… https://t.co/7X0hyglU9Y",-0.7717,0.0,0.251,0.749,39
+462,nytimes,Wed Jun 03 20:10:04 +0000 2020,"RT @heytherehaIey: All officers involved in the killing of George Floyd have now been charged. Three with aiding &amp; abetting murder, the fou…",-0.8979,0.0,0.353,0.647,38
+463,nytimes,Wed Jun 03 20:00:11 +0000 2020,“We cannot tolerate or turn a blind eye to racism and exclusion in any form and yet claim to defend the sacredness… https://t.co/Jpk0F2kAeq,-0.8402,0.0,0.31,0.69,37
+464,nytimes,Wed Jun 03 19:50:02 +0000 2020,"RT @tarangoNYT: LA, 1992 and now: some images of destruction may look the same. But this time is very different. Not only are things far le…",-0.3291,0.0,0.086,0.914,36
+465,nytimes,Wed Jun 03 19:37:03 +0000 2020,"Breaking News: 3 officers have been charged with aiding and abetting Derek Chauvin, whose charge in the killing of… https://t.co/zr3uz7W4Cy",-0.7351,0.0,0.256,0.744,35
+466,nytimes,Wed Jun 03 19:30:09 +0000 2020,"RT @MikeIsaac: NEWS: Dozens of Facebook's earliest employees pen an open letter to Mark Zuckerberg, pushing back against his stance on Trum…",0.0,0.0,0.0,1.0,34
+467,nytimes,Wed Jun 03 19:20:02 +0000 2020,"As protests against police violence spread across the U.S., demonstrators in at least 6 cities focused their anger… https://t.co/y5kSjbTvBZ",-0.5267,0.106,0.244,0.65,33
+468,nytimes,Wed Jun 03 19:08:34 +0000 2020,Breaking News: Hydroxychloroquine didn’t prevent Covid-19 in the first large study using the most reliable way of t… https://t.co/96ysvqhtSx,0.0258,0.058,0.0,0.942,32
+469,nytimes,Wed Jun 03 19:00:05 +0000 2020,What happened at Lafayette Square on Monday was a burst of violence unlike any seen in the shadow of the White Hous… https://t.co/yrIXMJb05v,-0.6249,0.0,0.157,0.843,31
+470,nytimes,Wed Jun 03 18:50:42 +0000 2020,"Gary Jones, the ex-president of the United Auto Workers union, has pleaded guilty to embezzling union funds. He's t… https://t.co/Itf60I1jmG",0.0,0.119,0.119,0.763,30
+471,nytimes,Wed Jun 03 18:40:03 +0000 2020,"RT @simonelandon: Minneapolis police are supposed to record every time they punch, kick, slap, pin, choke, unleash their dogs on, mace, tas…",-0.4404,0.064,0.139,0.797,29
+472,nytimes,Wed Jun 03 17:50:07 +0000 2020,"In a Fox News Radio interview on Wednesday, President Trump first denied, then admitted that he went into a secure… https://t.co/S1x1O4wiBi",-0.3612,0.06,0.124,0.815,28
+473,nytimes,Wed Jun 03 17:40:05 +0000 2020,"Audiobook publishers are increasingly hiring narrators of color, a response to a broader range of stories and desir… https://t.co/KvW9iDRbBP",0.0,0.0,0.0,1.0,27
+474,nytimes,Wed Jun 03 17:32:52 +0000 2020,"In Opinion
+
+@karaswisher is live now, discussing one of her latest columns, ""Twitter Tsks, and Trump Fumes""… https://t.co/juhsx8Qsss",0.0,0.0,0.0,1.0,26
+475,nytimes,Wed Jun 03 17:30:13 +0000 2020,"RT @nytimesbooks: “No powerful political actor had set out to destroy the American political system itself — until, that is, Trump won the…",0.4588,0.217,0.117,0.667,25
+476,nytimes,Wed Jun 03 17:21:06 +0000 2020,"The chief of the NYPD said Gov. Andrew Cuomo called to apologize for saying the police ""did not do their job"" durin… https://t.co/Xna7w5w8id",0.1027,0.06,0.0,0.94,24
+477,nytimes,Wed Jun 03 17:00:12 +0000 2020,"When asked what he thought of President Trump’s response to American protesters, Prime Minister Justin Trudeau paus… https://t.co/y4IQKOKeYH",-0.2263,0.0,0.101,0.899,23
+478,nytimes,Wed Jun 03 16:40:06 +0000 2020,"As Philadelphia police commissioner in the 1960s, Frank Rizzo raided gay clubs. While running for a third term as m… https://t.co/UHMgQs1IOE",0.0,0.0,0.0,1.0,22
+479,nytimes,Wed Jun 03 16:40:05 +0000 2020,RT @carlzimmer: I talked to @DLeonhardt for today’s @nytimes morning briefing about how to read a scientific paper and some of the scientis…,0.0,0.0,0.0,1.0,21
+480,nytimes,Wed Jun 03 16:37:01 +0000 2020,"President Trump's account on Snapchat will no longer be promoted on the app's Discover page for news, after the com… https://t.co/JsF4hnjdvq",0.1531,0.117,0.092,0.792,20
+481,nytimes,Wed Jun 03 16:20:06 +0000 2020,"As the coronavirus pandemic upends work and home life, women have carried an outsized share of the burden, more lik… https://t.co/Szob5lxKqa",-0.1779,0.091,0.12,0.788,19
+482,nytimes,Wed Jun 03 16:00:16 +0000 2020,"As aid donations for Yemen fall short, food rations have been halved, payments to medical workers cut and hundreds… https://t.co/ypmJO98k3s",-0.2732,0.0,0.1,0.9,18
+483,nytimes,Wed Jun 03 15:40:07 +0000 2020,"In Opinion
+
+""The truth is that for the prime minister, Mr. Cummings is vital. Boris Johnson is a puffball of a poli… https://t.co/AqShnQtwCF",0.5423,0.176,0.0,0.824,17
+484,nytimes,Wed Jun 03 15:32:41 +0000 2020,"Defense Secretary Mark Esper said he did not think active-duty troops were needed to quell protests for now, puttin… https://t.co/CHJCa7fxau",-0.1027,0.07,0.089,0.841,16
+485,nytimes,Wed Jun 03 15:20:01 +0000 2020,What began as a protest over George Floyd's death in police custody in Minneapolis has grown into a nationwide move… https://t.co/dI7EVejeQd,-0.7096,0.0,0.237,0.763,15
+486,nytimes,Wed Jun 03 15:16:36 +0000 2020,Researchers estimated that the loss of primary tropical forest in 2019 resulted in the release of more than 2 billi… https://t.co/RtQSkDzuO0,-0.3182,0.0,0.103,0.897,14
+487,nytimes,Wed Jun 03 15:16:09 +0000 2020,Fires in Bolivia were a major cause of what was a significant increase in deforestation last year. The country’s pr… https://t.co/dY9bifeytJ,0.4767,0.177,0.0,0.823,13
+488,nytimes,Wed Jun 03 15:13:43 +0000 2020,"Brazil, where deforestation of the Amazon through clear-cutting appears to be on the rise under the pro-development… https://t.co/ndFZhXL5YG",0.1779,0.091,0.0,0.909,12
+489,nytimes,Wed Jun 03 15:00:16 +0000 2020,"After months of locked-down borders, countries are trying to work out how to bring back visitors without importing… https://t.co/dnGil2JApM",0.0,0.0,0.0,1.0,11
+490,nytimes,Wed Jun 03 14:49:04 +0000 2020,"Minneapolis is ""a living laboratory on everything you shouldn’t do when it comes to police use of force,"" said Davi… https://t.co/qoj1tvko4P",0.0,0.0,0.0,1.0,10
+491,nytimes,Wed Jun 03 14:47:51 +0000 2020,Breaking News: Prime Minister Boris Johnson pledged to admit nearly 3 million people into Britain from Hong Kong if… https://t.co/pqWIgFrzcp,0.2023,0.087,0.0,0.913,9
+492,nytimes,Wed Jun 03 14:46:03 +0000 2020,Fears that the Minneapolis police may have an uncontrollable problem appeared to prod state officials into action T… https://t.co/20reewiY4r,-0.7906,0.0,0.333,0.667,8
+493,nytimes,Wed Jun 03 14:45:22 +0000 2020,"The Minneapolis data also shows that most use of force happens in areas where more black people live.
+
+But while cr… https://t.co/0kpYHNjofh",0.0,0.0,0.0,1.0,7
+494,nytimes,Wed Jun 03 14:44:32 +0000 2020,"There have been more than 2,600 civilian complaints against Minneapolis police officers since 2012. In only a dozen… https://t.co/aDc2GED34s",-0.4019,0.0,0.13,0.87,6
+495,nytimes,Wed Jun 03 14:43:09 +0000 2020,"Pointing a gun at someone.
+Pepper spray.
+Neck restraints.
+
+Since 2015, we found that when Minneapolis police use th… https://t.co/qj6R91zetr",-0.34,0.0,0.112,0.888,5
+496,nytimes,Wed Jun 03 14:42:02 +0000 2020,"Those thousands of instances of police use of force disproportionately affect black people in Minneapolis, who make… https://t.co/Ut77Gk8WC5",0.0,0.0,0.0,1.0,4
+497,nytimes,Wed Jun 03 14:41:16 +0000 2020,"Use of force includes kicks, neck holds, punches, shoves, takedowns, Mace, Tasers and other tactics.
+
+Since 2015, M… https://t.co/cFXaxNpEyX",0.0,0.0,0.0,1.0,3
+498,nytimes,Wed Jun 03 14:40:05 +0000 2020,"For many black people in Minneapolis, seeing police use force like the kind that killed George Floyd is disturbingl… https://t.co/ncpJuxER8t",0.1027,0.215,0.164,0.62,2
+499,nytimes,Wed Jun 03 14:38:23 +0000 2020,Fact Check: We analyzed the president’s Twitter feed for a week. A third of his posts contained falsehoods or murky… https://t.co/xM8nH5fYUS,0.0,0.0,0.0,1.0,1
