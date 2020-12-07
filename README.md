@@ -11,18 +11,22 @@ Algorithms have always played an important role in both the science and practice
 
 
 This book covers the following exciting features:
-Explore existing data structures and algorithms found in Python libraries 
-Implement graph algorithms for fraud detection using network analysis 
-Work with machine learning algorithms to cluster similar tweets and process Twitter data in real time 
-Predict the weather using supervised learning algorithms 
-Use neural networks for object detection 
-Create a recommendation engine that suggests relevant movies to subscribers 
-Implement foolproof security using symmetric and asymmetric encryption on Google Cloud Platform (GCP)
+* Explore existing data structures and algorithms found in Python libraries 
+* Implement graph algorithms for fraud detection using network analysis 
+* Work with machine learning algorithms to cluster similar tweets and process Twitter data in real time 
+* Predict the weather using supervised learning algorithms 
+* Use neural networks for object detection 
+* Create a recommendation engine that suggests relevant movies to subscribers 
+* Implement foolproof security using symmetric and asymmetric encryption on Google Cloud Platform (GCP)
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789801214) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
+
+## Errata
+
+* Page 64: The line "The total number of passes is shown in the following diagram:" and the following diagram are included by mistake on this page and must be ignored/omitted.
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
