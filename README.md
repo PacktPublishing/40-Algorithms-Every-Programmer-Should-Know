@@ -1,6 +1,6 @@
 # 40 Algorithms Every Programmer Should Know 
 
-<a href="https://www.packtpub.com/programming/40-algorithms-every-programmer-should-know?utm_source=github&utm_medium=repository&utm_campaign=9781789801217"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781789801217-original.jpeg" alt="40 Algorithms Every Programmer Should Know " height="256px" align="right"></a>
+<a href="https://www.packtpub.com/programming/40-algorithms-every-programmer-should-know?utm_source=github&utm_medium=repository&utm_campaign=9781789801217"><img src="https://static.packt-cdn.com/products/9781789801217/cover/smaller" alt="40 Algorithms Every Programmer Should Know " height="256px" align="right"></a>
 
 This is the code repository for [40 Algorithms Every Programmer Should Know ](https://www.packtpub.com/programming/40-algorithms-every-programmer-should-know?utm_source=github&utm_medium=repository&utm_campaign=9781789801217), published by Packt.
 
@@ -26,7 +26,8 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Errata
 
-* Page 64: The line "The total number of passes is shown in the following diagram:" and the following diagram are included by mistake on this page and must be ignored/omitted.
+* Page 37: The sentences "In the preceding code, the transformer is multiplication by two. So, we are using the map function to multiply each element in the list by two." must be read as "In the preceding code, the transformer is squaring the element. So, we are using the map function to square each element in the list."
+* Page 64: The sentence "The total number of passes is shown in the following diagram:" and the following diagram are included by mistake on this page and must be ignored/omitted.
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
