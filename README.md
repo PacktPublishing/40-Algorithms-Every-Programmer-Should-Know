@@ -27,6 +27,15 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Errata
 
 * Page 37: The sentences "In the preceding code, the transformer is multiplication by two. So, we are using the map function to multiply each element in the list by two." must be read as "In the preceding code, the transformer is squaring the element. So, we are using the map function to square each element in the list."
+
+* Page 43: The output of the code below:
+  ```
+  [1]: yellow = {'dandelions', 'fire hydrant', 'leaves'}
+  [2]: red = {'fire hydrant', 'blood', 'rose', 'leaves'}
+  [3]:  yellow&red
+  ```
+  Is incorrectly stated as: ```{'fire hydrant'}```, the correct output is: ```{'leaves', 'fire hydrant'}```.
+
 * Page 64: The sentence "The total number of passes is shown in the following diagram:" and the following diagram are included by mistake on this page and must be ignored/omitted.
 
 ## Instructions and Navigations
