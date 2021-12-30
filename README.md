@@ -45,6 +45,35 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 * Page 64: The sentence "The total number of passes is shown in the following diagram:" and the following diagram are included by mistake on this page and must be ignored/omitted.
 
+* Page 69: In the code for linear search, an indentation is needed in the else statement part. It works well for items that are in the searched list, but for items that aren't in the searched list, it goes to an infinite loop and needs to interrupt the kernel. 
+
+  The code on page 69 is:
+  ```    
+  def LinearSearch(list, item):
+      index = 0
+      found = False
+  # Match the value with each data element
+      while index < len(list) and found is False:
+          if list[index] == item:
+              found = True
+      else:
+          index = index + 1
+      return found
+  ```
+  But should instead be indented like this:
+  ```
+  def LinearSearch(list, item):
+      index = 0
+      found = False
+  # Match the value with each data element
+      while index < len(list) and found is False:
+          if list[index] == item:
+              found = True
+          else:
+              index = index + 1
+      return found
+  ```
+
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
