@@ -73,6 +73,12 @@ alt="https://www.packtpub.com/" border="5" /></a>
               index = index + 1
       return found
   ```
+* Page 83: In the following sentence: "Any operation that can run independently on a split is called a map. In the preceding diagram, the map operation coverts ...",
+ coverts should be replaced by converts.
+
+* Page 86: There is no explanation for what the _e_ in _**Union(S, e)**_ is. Here is the definition:
+  > _**Union(S, e)**_
+  > > _e_ is the delta corresponding to the element k that we are adding to converge the solution.
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
