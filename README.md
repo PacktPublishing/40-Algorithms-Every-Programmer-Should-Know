@@ -36,6 +36,13 @@ alt="https://www.packtpub.com/" border="5" /></a>
   ```
   Is incorrectly stated as: ```{'fire hydrant'}```, the correct output is: ```{'leaves', 'fire hydrant'}```.
 
+* Page 54: In the Terminology table, the Sibling nodes' definition reads: "Two nodes in a tree are called siblings if they are at the same level." By this definition, in the page 55 image, nodes E and F are also siblings, which is incorrect. 
+   
+   Instead use either one of these definitions:
+   >Sibling nodes are nodes on the same hierarchical level under the same parent node.
+   
+   >Child nodes with the same parent are sibling nodes.
+
 * Page 64: The sentence "The total number of passes is shown in the following diagram:" and the following diagram are included by mistake on this page and must be ignored/omitted.
 
 ## Instructions and Navigations
