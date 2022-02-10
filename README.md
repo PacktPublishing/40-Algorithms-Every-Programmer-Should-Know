@@ -28,6 +28,8 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 * Page 37: The sentences "In the preceding code, the transformer is multiplication by two. So, we are using the map function to multiply each element in the list by two." must be read as "In the preceding code, the transformer is squaring the element. So, we are using the map function to square each element in the list."
 
+* Page 40: The sentence "Note that among the four types of Big O notation types presented, O(n2) has the worst performance and O(logn) has the best performance." must be read as "Note that among the four types of Big O notation types presented, O(n2) has the worst performance and O(1) has the best performance."
+
 * Page 43: The output of the code below:
   ```
   [1]: yellow = {'dandelions', 'fire hydrant', 'leaves'}
@@ -44,6 +46,8 @@ alt="https://www.packtpub.com/" border="5" /></a>
    >Child nodes with the same parent are sibling nodes.
 
 * Page 64: The sentence "The total number of passes is shown in the following diagram:" and the following diagram are included by mistake on this page and must be ignored/omitted.
+
+* Page 66: 5th line of first code block must be read as "temp = list[i]".
 
 * Page 69: In the code for linear search, an indentation is needed in the else statement part. It works well for items that are in the searched list, but for items that aren't in the searched list, it goes to an infinite loop and needs to interrupt the kernel. 
 
