@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789801217)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # 40 Algorithms Every Programmer Should Know 
 
 <a href="https://www.packtpub.com/programming/40-algorithms-every-programmer-should-know?utm_source=github&utm_medium=repository&utm_campaign=9781789801217"><img src="https://static.packt-cdn.com/products/9781789801217/cover/smaller" alt="40 Algorithms Every Programmer Should Know " height="256px" align="right"></a>
